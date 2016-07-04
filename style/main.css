@@ -52,7 +52,7 @@ a.bold {
     border-color: #666699;
     border-radius: 20px;
     box-shadow: 5px 5px 20px gray;
-    margin-left: 10%;
+    margin-left: auto;
     margin-right: auto;
     width: 600px;
     background-color: white;
