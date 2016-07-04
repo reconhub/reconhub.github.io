@@ -1,5 +1,4 @@
 body {
-    background-color: white;
     font-family: arial;
     color: #303030;
 }
@@ -44,6 +43,14 @@ a.bold {
 
 
 
+/* define background */
+.background {
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    margin: 0px;
+}
 
 /* boxed items */
 .boxed {
@@ -55,7 +62,7 @@ a.bold {
     margin-left: auto;
     margin-right: auto;
     width: 600px;
-    background-color: white;
+    background-color: rgba(255,255,255, 0.6);
     text-align: left;
     padding: 8px;
 }
