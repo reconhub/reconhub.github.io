@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    font-family: arial;
+    color: #303030;
+}
+h1 {
+    color: #666699;
+    text-align: left;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+
+/* links */
+a:link {
+    color: #666699;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #666699;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #333399;
+    text-decoration: none;
+
+}
+
+a:active {
+    text-decoration: none;
+    color: #333399;
+}
+
+a.bold {
+    font-weight: bold;
+}
