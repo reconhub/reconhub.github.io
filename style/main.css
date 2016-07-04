@@ -3,16 +3,19 @@ body {
     font-family: arial;
     color: #303030;
 }
+
 h1 {
     color: #666699;
     text-align: left;
-    font-size: 40px;
-}
-p {
-    font-size: 20px;
+    font-size: 30px;
 }
 
-/* links */
+p {
+    font-size: 16px;
+}
+
+
+/* customise links */
 a:link {
     color: #666699;
     text-decoration: none;
