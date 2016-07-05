@@ -2,4 +2,4 @@
 
 ### This is the development page for the RECONS's official website
 
-For the website, go to (http://reconhub.github.io).
+For the website, go to: [http://reconhub.github.io](http://reconhub.github.io).
