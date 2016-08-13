@@ -4,5 +4,4 @@
 
 For the website, go to: http://reconhub.github.io.
 
-
 Please address requests via email to Thibaut Jombart (thibautjombart@gmail.com).
