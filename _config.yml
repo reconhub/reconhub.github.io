@@ -1,0 +1,91 @@
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: "http://reconhub.github.io"
+baseurl: ""
+
+title: RECON
+description:  R Epidemics Consortium
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About RECON:
+    - What we do: ""
+    - People: "people" 
+    - Projects: "projects"
+    - Contact: "contact"
+  News: "news"
+  Resources: "resources"
+  Hackouts:
+    - Hackout 1 (2013): https://sites.google.com/site/hackoutwiki/home 
+    - Hackout 2 (2015): https://sites.google.com/site/hackout2/
+    - Hackout 3 (2016): http://hackout3.ropensci.org/
+  Feedback: https://github.com/reconhub/reconhub.github.io/issues
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: "RECON - R Epidemics Consortium"
+  email: "thibautjombart@gmail.com"
+  github: reconhub
+  facebook: yourname  # eg. daattali
+  twitter: yourname   # eg. daattali
+
+# Select which links to show in the footer
+footer-links-active:
+  github: true
+  email: true  
+  rss: false
+  facebook: false
+  twitter: false
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+  
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/London"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+
+gems:
+  - jekyll-paginate

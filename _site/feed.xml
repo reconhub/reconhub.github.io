@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RECON</title>
+    <description>R Epidemics Consortium</description>
+    <link>http://reconhub.github.io</link>
+    <atom:link href="http://reconhub.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The world has ended</title>
+        <description>
+          
+          Well, looks like we should have taken our job as epidemiologists a bit more seriously… that latest virus that started in Africa wiped out 86% of the world population in the past 2 weeks. Whoops.
+
+        </description>
+        <pubDate>Wed, 10 Aug 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-08-10-world-ended/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-08-10-world-ended/</guid>
+      </item>
+    
+      <item>
+        <title>RECON is live!</title>
+        <description>
+          The R Epidemics CONsortium finally has a website - 
+          Thanks to Dean Attali, RECON now has a proper website. Woohoo!
+
+        </description>
+        <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-08-01-website-launched/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-08-01-website-launched/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+body {
+    font-family: arial;
+    color: #303030;
+}
+
+h1 {
+    color: #666699;
+    text-align: left;
+    font-size: 30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+/* customise links */
+a:link {
+    color: #666699;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #666699;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #333399;
+    text-decoration: none;
+
+}
+
+a:active {
+    text-decoration: none;
+    color: #333399;
+}
+
+a.bold {
+    font-weight: bold;
+}
+
+
+
+/* define background */
+.background {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+/* boxed items */
+.boxed {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #666699;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background-color: rgba(255,255,255, 0.6);
+    text-align: left;
+    padding: 8px;
+}
