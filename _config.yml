@@ -3,8 +3,8 @@
 url: "http://reconhub.github.io"
 baseurl: ""
 
-title: RECON
-description:  R Epidemics Consortium
+title: R Epidemics Consortium
+description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
 
 # --- Navigation bar options --- #
 
@@ -15,7 +15,7 @@ navbar-links:
     - People: "people" 
     - Projects: "projects"
     - Contact: "contact"
-  News: "news"
+  News: "blog"
   Resources: "resources"
   Hackouts:
     - Hackout 1 (2013): https://sites.google.com/site/hackoutwiki/home 
@@ -61,6 +61,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
