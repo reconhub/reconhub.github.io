@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RECON</title>
-    <description>R Epidemics Consortium</description>
+    <title>R Epidemics Consortium</title>
+    <description>We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software</description>
     <link>http://reconhub.github.io</link>
     <atom:link href="http://reconhub.github.io/feed.xml" rel="self" type="application/rss+xml" />
     

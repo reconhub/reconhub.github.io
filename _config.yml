@@ -6,8 +6,6 @@ baseurl: ""
 title: R Epidemics Consortium
 description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
 
-# --- Navigation bar options --- #
-
 # List of links in the navigation bar
 navbar-links:
   About RECON:
@@ -17,15 +15,9 @@ navbar-links:
     - Contact: "contact"
   News: "blog"
   Resources: "resources"
-  Hackouts:
-    - Hackout 1 (2013): https://sites.google.com/site/hackoutwiki/home 
-    - Hackout 2 (2015): https://sites.google.com/site/hackout2/
-    - Hackout 3 (2016): http://hackout3.ropensci.org/
-  Feedback: https://github.com/reconhub/reconhub.github.io/issues
-
-# --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
+  Forum: https://github.com/reconhub/reconhub.github.io/issues
+  
+# Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "RECON - R Epidemics Consortium"
