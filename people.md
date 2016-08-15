@@ -1,5 +1,4 @@
 ---
-layout: page
 title: People
 subtitle: The humans behind this project
 people-list:

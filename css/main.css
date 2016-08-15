@@ -123,6 +123,12 @@ img {
   color: #ccc;
 }
 
+@media only screen and (max-width: 365px) {
+  .navbar-custom .navbar-brand {
+    font-size: 14px;
+  }  
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
@@ -187,6 +193,23 @@ img {
   }
 }
 
+.navbar-custom  .navbar-toggle {
+  border-color: #294481;
+}
+
+.navbar-custom  .navbar-toggle:hover,
+.navbar-custom  .navbar-toggle:focus {
+  background: #294481;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+  background: #fafafa;
+}
+
+.navbar-custom .navbar-collapse {
+  border-color: #294481;
+}
+
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
@@ -207,6 +230,20 @@ img {
 .navbar-custom .nav li .navlinks-children a:focus  {
   background: #34539c;
 }
+
+.navbar-custom .nav li.show-children a.navlinks-parent {
+  background: #294481;
+}
+
+.navbar-custom .nav .navlinks-container:hover {
+  background: #294481;
+}
+
+.navbar-custom .nav li a.navlinks-parent:hover,
+.navbar-custom .nav li a.navlinks-parent:focus {
+  color: #ccc;
+}
+
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
@@ -227,9 +264,6 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
-  }  
-  .navbar-custom .nav .navlinks-container:hover {
-    background: #294481;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;

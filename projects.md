@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Projects
 bigimg: /img/projects.jpg
 projects-list:

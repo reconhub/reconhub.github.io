@@ -1,5 +1,4 @@
 ---
-layout: page
 ---
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />

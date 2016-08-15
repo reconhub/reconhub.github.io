@@ -10,5 +10,7 @@ Please address requests via email to Thibaut Jombart ([thibautjombart@gmail.com]
 
 ## TODO
 - make css nicer when on mobile/smaller screens
-- formspree form
+- tell thibaut about formspree form
+- tell thibaut about Lefora (http://recontest2.lefora.com/) or freeforums.org or discourse.org or flarum.org if he wants something more complex
+- document how to add disqus/google analytics
 - document how to edit the site and add news
