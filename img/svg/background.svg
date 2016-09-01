@@ -60,10 +60,10 @@
        id="linearGradient4284"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.66122308,0,0,0.85048138,-856.01559,-354.72628)"
-       x1="297.57144"
-       y1="1025.9337"
-       x2="411.56638"
-       y2="616.25409" />
+       x1="189.54652"
+       y1="963.78406"
+       x2="586.56677"
+       y2="444.92252" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient9960-6"
@@ -87,11 +87,11 @@
          id="stop9964-5" />
     </linearGradient>
     <linearGradient
-       y2="715.77515"
-       x2="129.35426"
+       y2="427.81223"
+       x2="6.2912331"
        y1="983.13452"
-       x1="368.27414"
-       gradientTransform="matrix(0.74294102,0,0,0.77887013,0.56601612,65.894245)"
+       x1="391.34845"
+       gradientTransform="matrix(0.74294102,0,0,0.77887013,0.56601592,70.179963)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient7631"
        xlink:href="#linearGradient9960-6"
@@ -105,7 +105,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="448.45953"
+     inkscape:cx="451.31667"
      inkscape:cy="527.9718"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -7473,6 +7473,18 @@
        inkscape:export-xdpi="150.41153"
        inkscape:export-ydpi="150.41153" />
     <rect
+       style="fill:url(#linearGradient7631);fill-opacity:1;stroke:none"
+       id="rect9958-5-3"
+       width="488.21841"
+       height="435.05466"
+       x="14.363557"
+       y="420.28595"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/background.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153" />
+    <rect
        style="fill:url(#linearGradient4284);fill-opacity:1;stroke:none"
        id="rect9958-5"
        width="434.51804"
@@ -7482,18 +7494,6 @@
        rx="0"
        ry="0"
        transform="matrix(0,-1,1,0,0,0)"
-       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/background.png"
-       inkscape:export-xdpi="150.41153"
-       inkscape:export-ydpi="150.41153" />
-    <rect
-       style="fill:url(#linearGradient7631);fill-opacity:1;stroke:none"
-       id="rect9958-5-3"
-       width="488.21841"
-       height="435.05466"
-       x="14.363558"
-       y="416.00027"
-       rx="0"
-       ry="0"
        inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/background.png"
        inkscape:export-xdpi="150.41153"
        inkscape:export-ydpi="150.41153" />
