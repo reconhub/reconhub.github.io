@@ -11,6 +11,7 @@ navbar-links:
   About RECON:
     - What we do: ""
     - People: "people"
+    - Join us: "join"
     - Contact: "contact"
   News: "blog"
   Projects: "projects"
