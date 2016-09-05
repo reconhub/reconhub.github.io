@@ -13,7 +13,6 @@ The criteria for joining as a member is to be contributing to at least one R pac
 Members have no obligation towards RECON. The ownership of any published material remains with their author(s).
 
 Members of RECON will:
-
 - be able to advertise their packages and relevant publications on the RECON website
 - be able to publish posts on the [RECON blog](blog)
 - be able to use the 'Resources' section to share data, scripts, and teaching material
