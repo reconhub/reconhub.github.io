@@ -44,7 +44,7 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus: "reconhub-github-io"
 
 # Google Analytics ID
 google_analytics: "UA-83713279-1"
