@@ -1,5 +1,5 @@
 ---
-title: The RECON forum
+title: The forum
 subtitle: Discussing outbreak analysis and R programming.
 ---
 
