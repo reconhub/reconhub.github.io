@@ -11,9 +11,9 @@ navbar-links:
   About RECON:
     - What we do: ""
     - People: "people" 
-    - Projects: "projects"
     - Contact: "contact"
   News: "blog"
+  Projects: "projects"
   Resources: "resources"
   Forum: https://github.com/reconhub/reconhub.github.io/issues
   
