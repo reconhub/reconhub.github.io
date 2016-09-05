@@ -2,6 +2,8 @@
 title: Resources
 ---
 
+*This page is under construction.*
+
 ### The Hackouts series
 
 RECON has been created in the aftermath of *Hackouts* 1, 2, and 3, a series of Hackathons for infectious disease outbreak analysis.

@@ -19,6 +19,8 @@ projects-list:
     github: https://github.com/thibautjombart/outbreaker
 ---
 
+*This page is under construction.*
+
 RECON collectively develops a range R packages and tools for outbreak analysis and response.
 
 {% include list-circles.html items=page.projects-list %}
