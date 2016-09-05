@@ -18,7 +18,7 @@ navbar-links:
   Resources: "resources"
   Events: "events"
   Forum: "forum"
-  
+
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
@@ -31,7 +31,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   github: true
-  email: true  
+  email: true
   rss: false
   facebook: false
   twitter: false
@@ -44,7 +44,7 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "reconhub-github-io"
+disqus: "reconhub-github-io"
 
 # Google Analytics ID
 google_analytics: "UA-83713279-1"
