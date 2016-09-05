@@ -1,5 +1,5 @@
 ---
-title: Join
+title: Joining us
 subtitle: How to become a member of the R Epidemics Consortium?
 ---
 
