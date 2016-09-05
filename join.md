@@ -14,13 +14,13 @@ Members have no obligation towards RECON. The ownership of any published materia
 
 Members of RECON will:
 
-* be able to advertise their packages and relevant publications on the RECON website
-* be able to publish posts on the [RECON blog](blog)
-* be able to use the 'Resources' section to share data, scripts, and teaching material
-* be automatically subscribed to the RECON forum, which will host private and public discussions relating to outbreak analysis, modelling, and R programming
-* benefit from the expertise of other members in R package development
-* be automatically invited to future RECON events
-* be able to host their package on the RECON github organization, although this is by no way mandatory
+- be able to advertise their packages and relevant publications on the RECON website
+- be able to publish posts on the [RECON blog](blog)
+- be able to use the 'Resources' section to share data, scripts, and teaching material
+- be automatically subscribed to the RECON forum, which will host private and public discussions relating to outbreak analysis, modelling, and R programming
+- benefit from the expertise of other members in R package development
+- be automatically invited to future RECON events
+- be able to host their package on the RECON github organization, although this is by no way mandatory
 
 
 
