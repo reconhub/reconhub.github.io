@@ -3,12 +3,12 @@ title: Join
 subtitle: How to become a member of the R Epidemics Consortium?
 ---
 
-### *Who can join?*
+## *Who can join?*
 
 The criteria for joining as a member is to be contributing to at least one R package relevant for epidemics analysis / outbreak response.
 
 
-### *What does 'joining' mean?*
+## *What does 'joining' mean?*
 
 Members have no obligation towards RECON. The ownership of any published material remains with their author(s).
 
@@ -23,8 +23,8 @@ Members of RECON will:
 
 
 
-### *How to join?*
+## *How to join?*
 
 To register as a member, follow [this link](https://goo.gl/forms/VdkkofZmuB5BP9HT2) or fill in the form below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWeyiSPHifEZt38jPEGEQkzJQUHzmCZiOhi6XV0anj6vdi7g/viewform?embedded=true" width="800" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWeyiSPHifEZt38jPEGEQkzJQUHzmCZiOhi6XV0anj6vdi7g/viewform?embedded=true" width="740" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
