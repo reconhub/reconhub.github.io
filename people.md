@@ -4,27 +4,37 @@ subtitle: The humans behind this project
 people-list:
   - name: Thibaut Jombart
     img: /img/people/thibaut_jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
+    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis, Imperial College London, UK
     website: https://sites.google.com/site/thibautjombart/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Dean Attali
     img: /img/people/dean_attali.jpg
-    desc: Web and R developer, designer of the RECON website. Vancouver, Canada.
+    desc: Web and R developer, designer of the RECON website, Canada
     website: http://deanattali.com/
     github: https://github.com/daattali/
     twitter: https://twitter.com/daattali
   - name: Anne Cori
     img: /img/people/anne_cori.jpg
-    desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    desc: Statistician specialized in disease modelling and outbreak response, Imperial College London, UK
     website: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
   - name: Rich Fitzjohn
     img: /img/people/rich_fitzjohn.jpg
-    desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
+    desc: R developper specialized in data analysis infrastructures, Imperial College London, UK
     website: http://richfitz.github.io/
     github: https://github.com/richfitz/
     twitter: https://twitter.com/rgfitzjohn
+  - name: Edwin van Leeuwen
+    img: /img/people/edwin_van-leeuwen.jpg
+    desc: Experienced epidemiological modeller, with a strong background as R programmer, Public Health England, United Kingdom
+    github: github.com/BlackEdder
+  - name: Oliver Watson
+    img: /img/people/oliver_watson.jpg
+    desc: Modeller and R programmer specialised in malaria population genetics, Imperial College London, UK
+    website: www.ojwatson.co.uk
+    github: https://github.com/OJWatson
+    twitter: https://twitter.com/ojwatson92
 ---
 
 *This page is under construction.*
