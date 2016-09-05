@@ -16,6 +16,7 @@ navbar-links:
   News: "blog"
   Projects: "projects"
   Resources: "resources"
+  Events: "events"
   Forum: "forum"
   
 # Change all these values or delete the ones you don't want (these appear in the footer).
