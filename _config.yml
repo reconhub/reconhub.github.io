@@ -15,7 +15,7 @@ navbar-links:
   News: "blog"
   Projects: "projects"
   Resources: "resources"
-  Forum: https://github.com/reconhub/reconhub.github.io/issues
+  Forum: "forum"
   
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
