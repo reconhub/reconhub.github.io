@@ -41,7 +41,7 @@ read.registration <- function(title = "Registrations"){
         ## image
         out <- c(out, tolower(paste0("    img: /img/people/",
                                      gsub(" ", "-", x[2]),
-                                     "_",
+                                     "-",
                                      gsub(" ", "-",  x[3]),
                                      ".jpg")))
         ## description
