@@ -27,11 +27,11 @@ people-list:
     twitter: https://twitter.com/rgfitzjohn
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
-    desc: Experienced epidemiological modeller, with a strong background as R programmer, Public Health England, United Kingdom
+    desc: Experienced epidemiological modeller, with a strong background as R programme, Public Health England, United Kingdom
     github: github.com/BlackEdder
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
-    desc: Modeller and R programmer specialised in malaria population genetics, Imperial College London, UK
+    desc: Modeller and R programmer specialised in malaria population genetic, Imperial College London, UK
     website: www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
