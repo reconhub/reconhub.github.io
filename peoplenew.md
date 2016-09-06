@@ -2,7 +2,7 @@
 title: People
 subtitle: The humans behind this project
 board-list:
-  - name: christl-donnelly
+  - name: Christl Donnelly
     img: /img/people/christl-donnelly.jpg
     desc:  Professore of Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/c.donnelly
