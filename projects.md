@@ -1,7 +1,7 @@
 ---
 title: Projects
 bigimg: /img/projects.jpg
-stable-list:
+projects-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
     github: https://github.com/annecori/EpiEstim
@@ -43,7 +43,7 @@ upcoming-list:
 ## Released packages
 The packages listed below have been released at least once. This means that, although they are likely still evolving, a stable version is available.
 
-{% include list-circles.html items=page.stable-list %}
+{% include list-circles.html items=page.project-list %}
 
 
 ## Up-and-coming packages
