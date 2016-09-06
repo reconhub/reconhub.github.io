@@ -5,6 +5,7 @@ board-list:
   - name: christl-donnelly
     img: /img/people/christl-donnelly.jpg
     desc:  Professore of Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/c.donnelly
 admin-list:
   - name: James Hayward
     img: /img/people/james-hayward.jpg
@@ -114,6 +115,16 @@ people-list:
 RECON is a group of people sharing their time and expertise to lead, facilitate, and promote the development of analysis tools for outbreak response using the [R software](https://www.r-project.org/). The list of people below is growing as we are recruiting more members. See [this page](../join) to join us.
 
 {% include list-circles.html items=page.people-list %}
+
+
+
+
+## Advisory board
+
+We are extremely lucky to have the following people supporting and guiding our efforts:
+
+{% include list-circles.html items=page.board-list %}
+
 
 
 
