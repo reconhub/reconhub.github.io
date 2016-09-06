@@ -1,7 +1,6 @@
 ---
 title: Projects
 bigimg: /img/projects.jpg
-
 stable-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
@@ -18,7 +17,6 @@ stable-list:
   - name: outbreaker
     desc: Inferring transmission chains using temporal and genetic information.
     github: https://github.com/thibautjombart/outbreaker
-
 upcoming-list:
   - name: cleanr
     desc: Rationalised and reproducible data cleaning.
