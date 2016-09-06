@@ -10,10 +10,10 @@ description: We are a group of international experts in infectious disease model
 navbar-links:
   About RECON:
     - What we do: ""
-    - People: "people"
     - Join us: "join"
     - Contact: "contact"
   News: "blog"
+  People: "people"
   Projects: "projects"
   Resources: "resources"
   Events: "events"
