@@ -33,7 +33,7 @@ people-list:
     twitter: https://twitter.com/vpnagraj
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the rOpenSci initiative, UC Berkeley, USA
+    desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative, UC Berkeley, USA
     website: http://karthik.io/
     github: https://github.com/karthik
     twitter: https://twitter.com/_inundata/
