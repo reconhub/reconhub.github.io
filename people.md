@@ -44,7 +44,7 @@ people-list:
     github: https://github.com/nistara
   - name: Ellie Sherrard-Smith
     img: /img/people/ellie-sherrard-smith.jpg
-    desc: statistics and data analysis (malaria specifically). Imperial College London, Britain.
+    desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
     github: https://github.com/EllieSherrardSmith
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
