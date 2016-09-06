@@ -17,25 +17,6 @@ projects-list:
   - name: outbreaker
     desc: Inferring transmission chains using temporal and genetic information.
     github: https://github.com/thibautjombart/outbreaker
-upcoming-list:
-  - name: cleanr
-    desc: Rationalised and reproducible data cleaning.
-    github: https://github.com/Hackout3/cleanr
-  - names: dibbler
-    desc: Investigation of food-borne disease outbreaks.
-    github: https://github.com/thibautjombart/dibbler
-  - name: epicontacts
-    desc: Handling, visualisation and analysis of epidemiological contacts.
-    github: https://github.com/Hackout3/epicontacts
-  - name: epimatch
-    desc: Finding matching patient records across tabular data sets.
-    github: https://github.com/Hackout3/epimatch
-  - name: outbreaker2
-    desc: Inferring transmission chains by integrating epidemiological and genetic data.
-    github: https://github.com/thibautjombart/outbreaker2
-  - names: vimes
-    desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
-    github: https://github.com/thibautjombart/vimes
 ---
 
 
