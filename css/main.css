@@ -522,6 +522,11 @@ footer .theme-by {
   border-bottom-left-radius: 5px;
 }
 
+.header-background {
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.4);
+}
+
 /* --- Pager --- */
 
 .pager li a {
