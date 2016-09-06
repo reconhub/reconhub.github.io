@@ -5,18 +5,23 @@ stable-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
     github: https://github.com/annecori/EpiEstim
+    img: /img/projects/purple.png
   - name: OutbreakTools
     desc: Basic analysis and visualisation of complex line-list data [to be replaced by *incidence* and *epicontacts*].
     github: https://github.com/thibautjombart/OutbreakTools
+    img: /img/projects/yellow.png
   - name: EpiJSON
     desc: Implementation of a generic json format for case outbreak data.
     github: https://github.com/Hackout2/EpiJSON
+    img: /img/projects/orange.png
   - name: repijson
     desc: R package implementing EpiJSON format.
     github: https://github.com/Hackout2/repijson
+    img: /img/projects/blue.png
   - name: outbreaker
     desc: Inferring transmission chains using temporal and genetic information.
     github: https://github.com/thibautjombart/outbreaker
+    img: /img/projects/red.png
 upcoming-list:
   - name: cleanr
     desc: Rationalised and reproducible data cleaning.
