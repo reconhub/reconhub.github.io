@@ -49,4 +49,3 @@ The packages listed below have been released at least once. This means that, alt
 ## Up-and-coming packages
 The packages listed below are still in development. They may be functional already, but a stable version has yet to be released.
 
-{% include list-circles.html items=page.upcoming-list %}
