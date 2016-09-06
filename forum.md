@@ -15,4 +15,4 @@ To use the forum, you will need to create an account on [*Vanilla forums*](https
 Once you have an account, access the forum by going to [https://recon.vanillacommunity.com/](https://recon.vanillacommunity.com/), or clicking on the image below.
 
 
-![RECON forum logo](https://raw.githubusercontent.com/reconhub/logo/master/png/logo-forum-w1200.png)
+<a href="https://recon.vanillacommunity.com/"><img src="http://raw.githubusercontent.com/reconhub/logo/master/png/logo-forum-w1200.png" alt="RECON forum logo"></a>
