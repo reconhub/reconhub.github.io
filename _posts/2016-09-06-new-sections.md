@@ -11,3 +11,4 @@ Our website has been growing over the last days! It now contains several section
 - a [forum](forum) hosted by *Vanillaforums*, dedicated to discussions relating to outbreak analysis and R
 
 
+We now have the basic infrastructure to grow. It is official: **the RECON website is live!**
