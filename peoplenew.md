@@ -1,6 +1,10 @@
 ---
 title: People
 subtitle: The humans behind this project
+board-list:
+  - name: christl-donnelly
+    img: /img/people/christl-donnelly.jpg
+    desc:  Professore of Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
 admin-list:
   - name: James Hayward
     img: /img/people/james-hayward.jpg
