@@ -3,7 +3,10 @@
 
 read.registrations <- function(title = "Registrations", quiet=FALSE){
     if(!require("googlesheets")) {
-        stop("googlesheets is required")
+        devtools::install_github("jennybc/googlesheets")
+        if(!require("googlesheets")) {
+            stop("googlesheets is not present and cannot be installed")
+        }
     }
 
     tib <- gs_read(gs_title(title))
@@ -45,7 +48,7 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
                                      gsub(" ", "-",  x[3]),
                                      ".jpg")))
         ## description
-        x[6] <- sub("..$", ".", paste(x[6], ".", collapse="", sep=""))
+        x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
         out <- c(out, paste(paste0("    desc: ", x[6]), x[7], x[8], collapse="", sep=", "))
 
         ## website
@@ -85,11 +88,14 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
 ## This function generates a new, updated people.md
 update.people <- function(file="../people.md", ...) {
     current <- suppressWarnings(readLines("../people.md"))
-    replace.from <- grep("people-list", current)[1]
-    replace.to <- tail(grep("---", current), 1) -1
-    replacement <- read.registrations(quiet=TRUE, ...)
-    out <- current
-    out[seq(replace.from, replace.to, by=1)] <- replacement
+    head.stop <- grep("people-list", current)[1] - 1
+    tail.start <- tail(grep("---", current), 1)
+    replacement <- read.registrations(...)
+
+    out <- c(current[1:head.stop],
+             replacement,
+             current[tail.start:length(current)]
+             )
 
     cat("\n\n *** Create a new file:", file, "***\n")
     cat(out, file = file, sep = "\n")
