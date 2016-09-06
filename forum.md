@@ -5,7 +5,7 @@ subtitle: Discussing outbreak analysis and R programming.
 
 
 ## The RECON forum
-The RECON forum provides a platform for public as well as private discussions relating to the use and development of tools for disease outbreaks analysis in R. The current forum is hosted at [*Vanilla forums*](http://recon.vanillacommunity.com/).
+The RECON forum provides a platform for public as well as private discussions relating to the use and development of tools for disease outbreaks analysis in R. Our forum is currently hosted at [*Vanilla forums*](https://vanillaforums.com).
 
 
 
