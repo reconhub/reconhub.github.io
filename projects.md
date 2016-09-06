@@ -8,7 +8,7 @@ projects-list:
   - name: OutbreakTools
     desc: Basic analysis and visualisation of complex line-list data [to be replaced by *incidence* and *epicontacts*].
     github: https://github.com/thibautjombart/OutbreakTools
-  - naneL EpiJSON
+  - name: EpiJSON
     desc: Implementation of a generic json format for case outbreak data.
     github: https://github.com/Hackout2/EpiJSON
   - name: repijson
