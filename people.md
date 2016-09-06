@@ -37,6 +37,11 @@ people-list:
     website: http://karthik.io/
     github: https://github.com/karthik
     twitter: https://twitter.com/_inundata/
+  - name: Nistara Randhawa
+    img: /img/people/nistara-randhawa.jpg
+    desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
+    website: nistara.net
+    github: https://github.com/nistara
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
