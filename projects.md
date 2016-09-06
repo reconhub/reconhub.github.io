@@ -1,7 +1,7 @@
 ---
 title: Projects
 bigimg: /img/projects.jpg
-project-list:
+projects-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
     github: https://github.com/annecori/EpiEstim
