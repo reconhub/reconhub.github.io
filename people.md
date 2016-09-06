@@ -9,7 +9,7 @@ board-list:
     twitter: https://twitter.com/CDC_AMD
   - name: Gabor Csardi
     img: /img/people/gabor-csardi.jpg
-    desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as *igraph*, *roxygen* and *R6*.
+    desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as <i>igraph</i>, <i>roxygen</i> and <i>R6</i>.
     website: http://gaborcsardi.org/
     github: http://github.com/gaborcsardi
     twitter: http://twitter.com/gaborcsardi
