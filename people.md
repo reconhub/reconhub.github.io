@@ -25,13 +25,25 @@ people-list:
     website: http://richfitz.github.io/
     github: https://github.com/richfitz/
     twitter: https://twitter.com/rgfitzjohn
+  - name: VP Nagraj
+    img: /img/people/vp-nagraj.jpg
+    desc: R developer and contributor to epicontacts package, University of Virginia, USA
+    website: http://nagraj.net/
+    github: https://github.com/vpnagraj
+    twitter: https://twitter.com/vpnagraj
+  - name: Karthik Ram
+    img: /img/people/karthik-ram.jpg
+    desc: Data scientist and ecologist, Karthik is also heading the rOpenSci initiative, UC Berkeley, USA
+    website: http://karthik.io/
+    github: https://github.com/karthik
+    twitter: https://twitter.com/_inundata/
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
-    desc: Experienced epidemiological modeller, with a strong background as R programme, Public Health England, United Kingdom
+    desc: Experienced epidemiological modeller, with a strong background as R programmer, Public Health England, United Kingdom
     github: github.com/BlackEdder
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
-    desc: Modeller and R programmer specialised in malaria population genetic, Imperial College London, UK
+    desc: Modeller and R programmer specialised in malaria population genetics, Imperial College London, UK
     website: www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
