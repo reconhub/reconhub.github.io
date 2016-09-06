@@ -32,6 +32,11 @@ people-list:
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
+  - name: Elisabeth Dahlqwist
+    img: /img/people/elisabeth-dahlqwist.jpg
+    desc: PhD student in biostatistics and R programmer. Karolinska Institutet, Department of Medical Epidemiology and Biostatistics, Sweden.
+    website: http://ki.se/en/people/elisda
+    github: https://github.com/ElisabethDahlqwist
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
