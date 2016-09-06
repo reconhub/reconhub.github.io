@@ -49,7 +49,7 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
                                      ".jpg")))
         ## description
         x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
-        out <- c(out, paste(paste0("    desc: ", x[6]), x[7], x[8], collapse="", sep=", "))
+        out <- c(out, paste(paste0("    desc: ", x[6]), " ", x[7], ", ", x[8], ".", collapse="", sep=""))
 
         ## website
         if (!is.na(x$website)) {
