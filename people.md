@@ -7,9 +7,15 @@ board-list:
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
     website: http://www.cdc.gov/amd/
     twitter: https://twitter.com/CDC_AMD
+  - name: Gabor Csardi
+    img: /img/people/gabor-csardi.jpg
+    desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as *igraph*, *roxygen* and *R6*.
+    website: http://gaborcsardi.org/
+    github: http://github.com/gaborcsardi
+    twitter: http://twitter.com/gaborcsardi
   - name: Christl Donnelly
     img: /img/people/christl-donnelly.jpg
-    desc:  Professor in Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
+    desc:  Professor of Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/c.donnelly
   - name: Jennifer Gardy
     img: /img/people/jennifer-gardy.jpg
@@ -19,7 +25,7 @@ board-list:
     github: https://github.com/jlgardy
   - name: Jacco Wallinga
     img: /img/people/jacco-wallinga.jpg
-    desc:  Professor in infectious disease modelling, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
+    desc:  Professor of infectious disease modelling at Leiden University Medical Center, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
     website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
 admin-list:
   - name: James Hayward
