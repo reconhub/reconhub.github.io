@@ -26,21 +26,27 @@ upcoming-list:
   - name: cleanr
     desc: Rationalised and reproducible data cleaning.
     github: https://github.com/Hackout3/cleanr
+    img: /img/projects/blue.png
   - name: dibbler
     desc: Investigation of food-borne disease outbreaks.
     github: https://github.com/thibautjombart/dibbler
+    img: /img/projects/green.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: https://github.com/Hackout3/epicontacts
+    img: /img/projects/purple.png
   - name: epimatch
     desc: Finding matching patient records across tabular data sets.
     github: https://github.com/Hackout3/epimatch
+    img: /img/projects/orange.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
     github: https://github.com/thibautjombart/outbreaker2
+    img: /img/projects/red.png
   - name: vimes
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
     github: https://github.com/thibautjombart/vimes
+    img: /img/projects/yellow.png
 ---
 
 
