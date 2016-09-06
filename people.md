@@ -39,7 +39,7 @@ people-list:
     twitter: https://twitter.com/_inundata/
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
-    desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, United Kingdom.
+    desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
     github: github.com/BlackEdder
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
