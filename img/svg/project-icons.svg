@@ -91,17 +91,6 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5829"
-       id="radialGradient7288"
-       cx="195.96959"
-       cy="713.96112"
-       fx="195.96959"
-       fy="713.96112"
-       r="80.880234"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-57.578695,109.09648)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5829"
        id="radialGradient7288-0"
        cx="195.96959"
        cy="713.96112"
@@ -232,7 +221,10 @@
        id="path4481-0"
        inkscape:connector-curvature="0" />
     <g
-       id="g7430">
+       id="g7430"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/blue.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          id="g7401">
         <circle
@@ -269,7 +261,10 @@
       </g>
     </g>
     <g
-       id="g7448">
+       id="g7448"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/orange.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          id="g7409">
         <circle
@@ -307,7 +302,10 @@
     </g>
     <g
        id="g7457"
-       transform="translate(-88.571429,-91.428572)">
+       transform="translate(-88.571429,-91.428572)"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/red.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          transform="translate(-76.771621,28.28431)"
          id="g7413">
@@ -346,7 +344,10 @@
     </g>
     <g
        id="g7421"
-       transform="translate(41.428572,221.42857)">
+       transform="translate(158.57143,117.14286)"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/yellow.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          id="g7397">
         <circle
@@ -383,7 +384,10 @@
       </g>
     </g>
     <g
-       id="g7439">
+       id="g7439"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/purple.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          transform="translate(97.142857,-48.571429)"
          id="g7405">
@@ -420,12 +424,6 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <circle
-       style="opacity:1;fill:url(#radialGradient7288);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4466-3"
-       cx="138.3909"
-       cy="823.05762"
-       r="80.880234" />
     <rect
        style="opacity:1;fill:#550000;fill-opacity:0;stroke:#800000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
        id="rect7290"
@@ -447,7 +445,10 @@
        cy="524.05243"
        r="80.880234" />
     <g
-       id="g7466">
+       id="g7466"
+       inkscape:export-filename="/home/thibaut/dev/RECON/reconhub.github.io/img/projects/green.png"
+       inkscape:export-xdpi="150.41153"
+       inkscape:export-ydpi="150.41153">
       <g
          id="g7417">
         <circle
