@@ -42,6 +42,10 @@ people-list:
     desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
     website: nistara.net
     github: https://github.com/nistara
+  - name: Ellie Sherrard-Smith
+    img: /img/people/ellie-sherrard-smith.jpg
+    desc: statistics and data analysis (malaria specifically). Imperial College London, Britain.
+    github: https://github.com/EllieSherrardSmith
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
