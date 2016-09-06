@@ -46,8 +46,8 @@ share-links-active:
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+# Google Analytics ID
+google_analytics: "UA-83713279-1"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/London"
