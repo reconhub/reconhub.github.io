@@ -21,6 +21,12 @@ people-list:
     website: http://deanattali.com/
     github: https://github.com/daattali/
     twitter: https://twitter.com/daattali
+  - name: Marc Baguelin
+    img: /img/people/marc-baguelin.jpg
+    desc: Mathematical modeller and health economist specialised in Public Health intervention. Strong believer in open code and sharing. Public Health England, UK.
+    website: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
+    github: https://github.com/MJomaba/
+    twitter: https://twitter.com/marcbaguelin
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -39,7 +45,7 @@ people-list:
     twitter: https://twitter.com/rgfitzjohn
   - name: Simon Frost
     img: /img/people/simon-frost.jpg
-    desc: Viral evolution, dynamics and epidemiology. University of Cambridge, United Kingdom.
+    desc: Viral evolution, dynamics and epidemiology. University of Cambridge, UK.
     website: http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
     github: http://github.com/sdwfrost
     twitter: https://twitter.com/sdwfrost
