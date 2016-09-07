@@ -47,6 +47,17 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
                                      "-",
                                      gsub(" ", "-",  x[3]),
                                      ".jpg")))
+
+        ## if image does not exist, copy the anonymous pic by default
+        path.to.pic <- tolower(paste0("../img/people/",
+                              gsub(" ", "-", x[2]), "-",
+                              gsub(" ", "-",  x[3]),
+                              ".jpg"))
+        if (!file.exists(path.to.pic)) {
+            message("file ", path.to.pic, " does not exist - using default picture")
+            file.copy("../img/people/anonymous.jpg", path.to.pic)
+        }
+
         ## description
         x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
         out <- c(out, paste(paste0("    desc: ", x[6]), " ", x[7], ", ", x[8], ".", collapse="", sep=""))
