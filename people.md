@@ -30,6 +30,12 @@ people-list:
     website: http://richfitz.github.io/
     github: https://github.com/richfitz/
     twitter: https://twitter.com/rgfitzjohn
+  - name: Simon Frost
+    img: /img/people/simon-frost.jpg
+    desc: Viral evolution, dynamics and epidemiology. University of Cambridge, United Kingdom.
+    website: http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
+    github: http://github.com/sdwfrost
+    twitter: https://twitter.com/sdwfrost
   - name: Tini Garske
     img: /img/people/tini-garske.jpg
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
