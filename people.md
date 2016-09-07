@@ -19,18 +19,32 @@ people-list:
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
+  - name: Thomas Finnie
+    img: /img/people/thomas-finnie.jpg
+    desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
+    website: www,.gov.uk/phe
+    github: twomagpi
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
     website: http://richfitz.github.io/
     github: https://github.com/richfitz/
     twitter: https://twitter.com/rgfitzjohn
+  - name: Tini Garske
+    img: /img/people/tini-garske.jpg
+    desc: Modeller / statistician specialized in outbreak analysis and infectious disease modelling. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/t.garske
+    github: github.com/tinigarske
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
     website: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Richard Ngamita
+    img: /img/people/richard-ngamita.jpg
+    desc: Data Analyst and Snr. Tech lead at Medic Mobile. Kenya.
+    github: @ngamita
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
     desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
@@ -46,6 +60,12 @@ people-list:
     img: /img/people/ellie-sherrard-smith.jpg
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
     github: https://github.com/EllieSherrardSmith
+  - name: Andy South
+    img: /img/people/andy-south.jpg
+    desc: R developer currently working on insecticide resistance in malaria vectors. Norwich, UK.
+    website: andysouth.co.uk
+    github: https://github.com/AndySouth
+    twitter: https://twitter.com/southmapr
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
