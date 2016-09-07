@@ -2,11 +2,11 @@
 title: People
 subtitle: The humans behind this project
 admin-list:
-  - name: Evgenia Markvardt
-    img: /img/people/evgenia-markvardt.jpg
-    desc: Administrative support. Imperial College London, UK
   - name: James Hayward
     img: /img/people/james-hayward.jpg
+    desc: Administrative support. Imperial College London, UK
+  - name: Evgenia Markvardt
+    img: /img/people/evgenia-markvardt.jpg
     desc: Administrative support. Imperial College London, UK
 people-list:
   - name: Thibaut Jombart
