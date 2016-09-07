@@ -32,9 +32,15 @@ people-list:
     twitter: https://twitter.com/rgfitzjohn
   - name: Tini Garske
     img: /img/people/tini-garske.jpg
-    desc: Modeller / statistician specialized in outbreak analysis and infectious disease modelling. Imperial College London, UK.
+    desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: github.com/tinigarske
+  - name: John Lees
+    img: /img/people/john-lees.jpg
+    desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
+    website: johnlees.me
+    github: https://github.com/johnlees
+    twitter: https://twitter.com/johnlees6
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
