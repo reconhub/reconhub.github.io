@@ -22,8 +22,8 @@ people-list:
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
-    website: www,.gov.uk/phe
-    github: twomagpi
+    website: www.gov.uk/phe
+    github: https://github.com/twomagpi
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -47,10 +47,6 @@ people-list:
     website: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
-  - name: Richard Ngamita
-    img: /img/people/richard-ngamita.jpg
-    desc: Data Analyst and Snr. Tech lead at Medic Mobile. Kenya.
-    github: @ngamita
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
     desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
