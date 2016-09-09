@@ -2,6 +2,11 @@
 title: People
 subtitle: The humans behind this project
 board-list:
+  - name: Gregory Armstrong
+    img: /img/people/gregory-armstrong.jpg
+    desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
+    website: http://www.cdc.gov/amd/
+    twitter: https://twitter.com/CDC_AMD
   - name: Christl Donnelly
     img: /img/people/christl-donnelly.jpg
     desc:  Professor in Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
