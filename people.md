@@ -64,7 +64,7 @@ people-list:
     desc: R developer and population geneticist. Oregon State University, USA.
     website: http://zkamvar.github.io
     github: https://github.com/zkamvar
-    twitter: zkamvar
+    twitter: https://twitter.com/zkamvar
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
