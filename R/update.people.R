@@ -97,7 +97,7 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
 
 
 ## This function generates a new, updated people.md
-update.people <- function(file = "../people.md", input = "../people.md", ...) {
+update.people <- function(file = "../people.md", input = file, ...) {
     current <- suppressWarnings(readLines(input))
     head.stop <- grep("people-list", current)[1] - 1
     tail.start <- tail(grep("---", current), 1)

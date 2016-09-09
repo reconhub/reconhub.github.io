@@ -4,8 +4,12 @@ subtitle: The humans behind this project
 board-list:
   - name: Christl Donnelly
     img: /img/people/christl-donnelly.jpg
-    desc:  Professore of Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
+    desc:  Professor in Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/c.donnelly
+  - name: Jacco Wallinga
+    img: /img/people/jacco-wallinga.jpg
+    desc:  Professor in infectious disease modelling, head of the Infectious Disease Modelling Department. National Institute for Public Health and the Environment (RIVM), The Netherlands.
+    website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
 admin-list:
   - name: James Hayward
     img: /img/people/james-hayward.jpg
@@ -64,6 +68,12 @@ people-list:
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: github.com/tinigarske
+  - name: Zhian Kamvar
+    img: /img/people/zhian-kamvar.jpg
+    desc: R developer and population geneticist. Oregon State University, USA.
+    website: http://zkamvar.github.io
+    github: https://github.com/zkamvar
+    twitter: https://twitter.com/zkamvar
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
