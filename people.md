@@ -59,6 +59,12 @@ people-list:
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: github.com/tinigarske
+  - name: Zhian Kamvar
+    img: /img/people/zhian-kamvar.jpg
+    desc: R developer and population geneticist. Oregon State University, USA.
+    website: http://zkamvar.github.io
+    github: https://github.com/zkamvar
+    twitter: zkamvar
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
