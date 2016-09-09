@@ -8,7 +8,7 @@ board-list:
     website: http://www.imperial.ac.uk/people/c.donnelly
   - name: Jacco Wallinga
     img: /img/people/jacco-wallinga.jpg
-    desc:  Professor in infectious disease modelling, head of the Infectious Disease Modelling Department. National Institute for Public Health and the Environment (RIVM), The Netherlands.
+    desc:  Professor in infectious disease modelling, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
     website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
 admin-list:
   - name: James Hayward
