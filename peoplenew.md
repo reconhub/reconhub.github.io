@@ -13,7 +13,7 @@ board-list:
     website: http://www.imperial.ac.uk/people/c.donnelly
   - name: Jennifer Gardy
     img: /img/people/jennifer-gardy.jpg
-    desc: Senior scientist at the British Columbia Centre for Disease Control, and occasional host of CBC's The Nature of Things. BC Centre for Disease Control, Vancouver, Canada.
+    desc: Canada Research Chair in Public Health genomics at the university of British Columbia and BC Centre for Disease Control, with extensive experience in inferring disease transmission from genomic data. Vancouver, Canada.
     website: http://www.jennifergardy.com/
     twitter: https://twitter.com/jennifergardy
     github: https://github.com/jlgardy
