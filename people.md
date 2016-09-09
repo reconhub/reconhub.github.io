@@ -11,6 +11,12 @@ board-list:
     img: /img/people/christl-donnelly.jpg
     desc:  Professor in Statistical Epidemiology, Fellow of the Royal Society, Christl has extensive experience in epidemics analysis and emergency outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/c.donnelly
+  - name: Jennifer Gardy
+    img: /img/people/jennifer-gardy.jpg
+    desc: Canada Research Chair in Public Health genomics at the university of British Columbia and BC Centre for Disease Control, with extensive experience in inferring disease transmission from genomic data. Vancouver, Canada.
+    website: http://www.jennifergardy.com/
+    twitter: https://twitter.com/jennifergardy
+    github: https://github.com/jlgardy
   - name: Jacco Wallinga
     img: /img/people/jacco-wallinga.jpg
     desc:  Professor in infectious disease modelling, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
