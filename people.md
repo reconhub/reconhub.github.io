@@ -65,6 +65,12 @@ people-list:
     website: http://zkamvar.github.io
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
+  - name: Don Klinkenberg
+    img: /img/people/don-klinkenberg.jpg
+    desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
+    website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/D_Don_Klinkenberg_PhD
+    github: https://github.com/donkeyshot
+    twitter: https://twitter.com/donkeyshot
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
