@@ -16,6 +16,6 @@ Once you have an account, access the forum by going to [http://reconforum.trydis
 
 <br>
 
-<a href="http://reconforum.trydiscourse.com/">
+<a href="http://reconforum.trydiscourse.com/" target="_blank">
 <img src="http://raw.githubusercontent.com/reconhub/logo/master/png/logo-forum-w1200.png" alt="RECON forum logo" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)">
 </a>
