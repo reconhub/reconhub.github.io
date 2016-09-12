@@ -109,6 +109,12 @@ people-list:
     website: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Jonathan Polonsky
+    img: /img/people/jonathan-polonsky.jpg
+    desc: Epidemiologist focusing on humanitarian and outbreak settings. I use R for automating analyses and reproducible reporting. World Health Organisation, Switzerland.
+    website: http://who.int/emergencies/en/
+    github: https://github.com/jpolonsky
+    twitter: https://twitter.com/jonny_polonsky
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
     desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
@@ -130,6 +136,9 @@ people-list:
     website: andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
+  - name: Rolina van Gaalen
+    img: /img/people/rolina-van-gaalen.jpg
+    desc: Infectious disease epidemiologist, mathematical and statistical modeller, and R programmer. National Institute for Public Health and the Environment (RIVM), The Netherlands.
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
