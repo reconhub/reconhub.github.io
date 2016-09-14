@@ -136,6 +136,10 @@ people-list:
     website: andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
+  - name: Bertrand Sudre
+    img: /img/people/bertrand-sudre.jpg
+    desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control (ECDC), Sweden.
+    website: http://ecdc.europa.eu/en/Pages/home.aspx
   - name: Rolina van Gaalen
     img: /img/people/rolina-van-gaalen.jpg
     desc: Infectious disease epidemiologist, mathematical and statistical modeller, and R programmer. National Institute for Public Health and the Environment (RIVM), The Netherlands.
