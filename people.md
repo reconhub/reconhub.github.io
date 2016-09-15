@@ -53,6 +53,11 @@ people-list:
     website: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Finlay Campbell
+    img: /img/people/finlay-campbell.jpg
+    desc: PhD student, interested in outbreak analysis and R package development. Imperial College London, UK.
+    github: github.com/finlaycampbell
+    twitter: http://twitter.com/fCampbell93
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -63,6 +68,10 @@ people-list:
     desc: PhD student in biostatistics and R programmer. Karolinska Institutet, Department of Medical Epidemiology and Biostatistics, Sweden.
     website: http://ki.se/en/people/elisda
     github: https://github.com/ElisabethDahlqwist
+  - name: Alex Demarsh
+    img: /img/people/alex-demarsh.jpg
+    desc: R and Shiny for risk assessment and epidemic parameter estimation for emerging infections. Public Health Agency of Canada, McGill University, Canada.
+    github: https://github.com/alexdemarsh
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
@@ -136,6 +145,10 @@ people-list:
     website: andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
+  - name: Bertrand Sudre
+    img: /img/people/bertrand-sudre.jpg
+    desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control (ECDC), Sweden.
+    website: http://ecdc.europa.eu/en/Pages/home.aspx
   - name: Rolina van Gaalen
     img: /img/people/rolina-van-gaalen.jpg
     desc: Infectious disease epidemiologist, mathematical and statistical modeller, and R programmer. National Institute for Public Health and the Environment (RIVM), The Netherlands.
