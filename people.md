@@ -56,7 +56,7 @@ people-list:
   - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg
     desc: PhD student, interested in outbreak analysis and R package development. Imperial College London, UK.
-    github: github.com/finlaycampbell
+    github: http://github.com/finlaycampbell
     twitter: http://twitter.com/fCampbell93
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
@@ -93,7 +93,7 @@ people-list:
     img: /img/people/tini-garske.jpg
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
-    github: github.com/tinigarske
+    github: http://github.com/tinigarske
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
     desc: R developer and population geneticist. Oregon State University, USA.
@@ -109,7 +109,7 @@ people-list:
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
-    website: johnlees.me
+    website: http://johnlees.me
     github: https://github.com/johnlees
     twitter: https://twitter.com/johnlees6
   - name: VP Nagraj
@@ -133,7 +133,7 @@ people-list:
   - name: Nistara Randhawa
     img: /img/people/nistara-randhawa.jpg
     desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
-    website: nistara.net
+    website: http://nistara.net
     github: https://github.com/nistara
   - name: Ellie Sherrard-Smith
     img: /img/people/ellie-sherrard-smith.jpg
@@ -142,7 +142,7 @@ people-list:
   - name: Andy South
     img: /img/people/andy-south.jpg
     desc: R developer currently working on insecticide resistance in malaria vectors. Norwich, UK.
-    website: andysouth.co.uk
+    website: http://andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
   - name: Bertrand Sudre
@@ -155,11 +155,11 @@ people-list:
   - name: Edwin van Leeuwen
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
-    github: github.com/BlackEdder
+    github: http://github.com/BlackEdder
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
     desc: Modeller and R programmer specialised in malaria population genetics. Imperial College London, UK.
-    website: www.ojwatson.co.uk
+    website: http://www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
 ---
