@@ -112,6 +112,11 @@ people-list:
     website: http://johnlees.me
     github: https://github.com/johnlees
     twitter: https://twitter.com/johnlees6
+  - name: Joanna Lewis
+    img: /img/people/joanna-lewis.jpg
+    desc: Mathematical and statistical modelling of sexually-transmitted bacterial infections. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/joanna.lewis
+    github: https://github.com/joanna-lewis
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
