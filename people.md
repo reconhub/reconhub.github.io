@@ -72,6 +72,10 @@ people-list:
     img: /img/people/alex-demarsh.jpg
     desc: R and Shiny for risk assessment and epidemic parameter estimation for emerging infections. Public Health Agency of Canada, McGill University, Canada.
     github: https://github.com/alexdemarsh
+  - name: Jeff Eaton
+    img: /img/people/jeff-eaton.jpg
+    desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, United Kingdom.
+    github: https://github.com/jeffeaton
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
@@ -161,6 +165,10 @@ people-list:
     img: /img/people/edwin-van-leeuwen.jpg
     desc: Experienced epidemiological modeller, with a strong background as R programmer. Public Health England, UK.
     github: http://github.com/BlackEdder
+  - name: Erik Volz
+    img: /img/people/erik-volz.jpg
+    desc: Population genetics, phylogenetics, and mathematical epidemiology. Imperial College London, United Kingdom.
+    github: https://github.com/emvolz
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
     desc: Modeller and R programmer specialised in malaria population genetics. Imperial College London, UK.
