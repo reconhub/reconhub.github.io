@@ -98,6 +98,10 @@ people-list:
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: Joshua Kaminsky
+    img: /img/people/joshua-kaminsky.jpg
+    desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
+    website: http://iddynamics.jhsph.edu
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
     desc: R developer and population geneticist. Oregon State University, USA.
