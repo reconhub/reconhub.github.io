@@ -72,6 +72,12 @@ people-list:
     img: /img/people/alex-demarsh.jpg
     desc: R and Shiny for risk assessment and epidemic parameter estimation for emerging infections. Public Health Agency of Canada, McGill University, Canada.
     github: https://github.com/alexdemarsh
+  - name: Xavier Didelot
+    img: /img/people/xavier-didelot.jpg
+    desc: Genomic epidemiology of bacterial pathogens. Imperial College London, United Kingdom.
+    website: http://www.imperial.ac.uk/people/x.didelot
+    github: https://github.com/xavierdidelot/
+    twitter: https://twitter.com/XavierDidelot
   - name: Jeff Eaton
     img: /img/people/jeff-eaton.jpg
     desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, United Kingdom.
@@ -148,6 +154,11 @@ people-list:
     desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
     website: http://nistara.net
     github: https://github.com/nistara
+  - name: Noam Ross
+    img: /img/people/noam-ross.jpg
+    desc: Disease ecologist, working on zoonotic disease emergence, dynamical systems, economics and R programming standards. EcoHealth Alliance, USA.
+    github: https://github.com/noamross/
+    twitter: https://twitter.com/noamross
   - name: Ellie Sherrard-Smith
     img: /img/people/ellie-sherrard-smith.jpg
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
