@@ -126,6 +126,12 @@ people-list:
     website: http://johnlees.me
     github: https://github.com/johnlees
     twitter: https://twitter.com/johnlees6
+  - name: Justin Lessler
+    img: /img/people/justin-lessler.jpg
+    desc: Epidemiology and infectious disease dynamics. Johns Hopkins Bloomberg School of Public Health, USA.
+    website: http://iddynamics.jhsph.edu
+    github: http://github.com/jlessler
+    twitter: http://twitter.com/justinlessler
   - name: Joanna Lewis
     img: /img/people/joanna-lewis.jpg
     desc: Mathematical and statistical modelling of sexually-transmitted bacterial infections. Imperial College London, UK.
