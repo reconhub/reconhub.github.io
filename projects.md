@@ -39,10 +39,18 @@ upcoming-list:
     desc: Finding matching patient records across tabular data sets.
     github: https://github.com/Hackout3/epimatch
     img: /img/projects/orange.png
+  - name: incidence
+    desc: Computation, handling, visualisation and simple modelling of incidence.
+    github: https://github.com/reconhub/incidence
+    img: /img/projects/green.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
     github: https://github.com/thibautjombart/outbreaker2
     img: /img/projects/red.png
+  - name: outbreaks
+    desc: Collection of outbreak data.
+    github: https://github.com/reconhub/outbreaks
+    img: /img/projects/blue.png
   - name: vimes
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
     github: https://github.com/thibautjombart/vimes
