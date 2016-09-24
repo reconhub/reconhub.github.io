@@ -165,6 +165,12 @@ people-list:
     desc: Disease ecologist, working on zoonotic disease emergence, dynamical systems, economics and R programming standards. EcoHealth Alliance, USA.
     github: https://github.com/noamross/
     twitter: https://twitter.com/noamross
+  - name: Dirk Schumacher
+    img: /img/people/dirk-schumacher.jpg
+    desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Germany.
+    website: https://www.dirk-schumacher.net/
+    github: https://github.com/dirkschumacher
+    twitter: https://twitter.com/dirk_sch
   - name: Ellie Sherrard-Smith
     img: /img/people/ellie-sherrard-smith.jpg
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
