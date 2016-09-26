@@ -116,7 +116,7 @@ people-list:
     twitter: https://twitter.com/zkamvar
   - name: Andee Kaplan
     img: /img/people/andee-kaplan.jpg
-    desc: shiny, D3, JavaScript. Iowa State University, United States.
+    desc: shiny, D3, JavaScript. Iowa State University, USA.
     website: http://www.andeekaplan.com
     github: http://github.com/andeek
     twitter: https://twitter.com/andeekaplan
