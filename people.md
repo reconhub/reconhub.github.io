@@ -114,6 +114,12 @@ people-list:
     website: http://zkamvar.github.io
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
+  - name: Andee Kaplan
+    img: /img/people/andee-kaplan.jpg
+    desc: shiny, D3, JavaScript. Iowa State University, United States.
+    website: http://www.andeekaplan.com
+    github: http://github.com/andeek
+    twitter: https://twitter.com/andeekaplan
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
