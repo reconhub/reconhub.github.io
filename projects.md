@@ -42,7 +42,7 @@ upcoming-list:
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: https://github.com/reconhub/incidence
-    img: https://github.com/reconhub/incidence/logo/logo.png
+    img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
     github: https://github.com/thibautjombart/outbreaker2
