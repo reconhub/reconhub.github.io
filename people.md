@@ -104,6 +104,12 @@ people-list:
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: Michael Hohle
+    img: /img/people/michael-hohle.jpg
+    desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
+    website: http://www.math.su.se/~hoehle
+    github: https://github.com/hoehleatsu
+    twitter: https://twitter.com/m_hoehle
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
