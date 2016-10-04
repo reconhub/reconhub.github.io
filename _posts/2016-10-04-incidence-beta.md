@@ -1,6 +1,6 @@
 ---
-title: Beta version of incidence available!
-subtitle: New RECON package <it>incidence</it> is coming out soon - try the beta version.
+title: Beta version of <i>incidence</i> available!
+subtitle: New RECON package <i>incidence</i> is coming out soon - try the beta version.
 bigimg: /img/big_epi_image.jpg
 ---
 
