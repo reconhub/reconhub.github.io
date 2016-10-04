@@ -1,6 +1,6 @@
 ---
-title: Beta version of *incidence* available!
-subtitle: The new RECON package *incidence* is coming together: the beta (testing) version is officially out on github.
+title: Beta version of incidence available!
+subtitle: The new RECON package incidence is coming together: the beta (testing) version is officially out on github.
 bigimg: /img/big_epi_image.jpg
 ---
 
