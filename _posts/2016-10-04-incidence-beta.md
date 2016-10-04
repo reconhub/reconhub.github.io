@@ -1,8 +1,11 @@
 ---
 title: Beta version of incidence available!
-subtitle: The new RECON package incidence is coming together - try the beta version.
+subtitle: New RECON package <it>incidence</it> is coming out soon - try the beta version.
 bigimg: /img/big_epi_image.jpg
 ---
+
+
+## What does it do?
 
 *incidence* provides tools for incidence computation, visualisation, and modelling.
 Currently available features include:
@@ -18,4 +21,8 @@ Currently available features include:
 The next few days we will focus on testing features, polishing the doc, and improving unit testing coverage.
 
 
-For more information, check the [project page](http://github.com/reconhub/incidence).
+## How can I try it?
+
+Simple guidelines for installing the package and a tutorial providing an overview of its functionalities are provided on the [project page](http://github.com/reconhub/incidence).
+
+Want to share comments or suggestions? You can do so in the comment section below, or by posting an [issue](http://github.com/reconhub/incidence/issues).
