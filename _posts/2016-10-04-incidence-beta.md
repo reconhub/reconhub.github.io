@@ -1,10 +1,10 @@
 ---
 title: Beta version of incidence available!
-subtitle: The new RECON package incidence is coming together: the beta (testing) version is officially out on github.
+subtitle: The new RECON package incidence is coming together - try the beta version.
 bigimg: /img/big_epi_image.jpg
 ---
 
-*incidence* provides tools for incidence computation, visualisation, and modelling. 
+*incidence* provides tools for incidence computation, visualisation, and modelling.
 Currently available features include:
 
 - computation of incidence from: `Date`, `POSIXct`, `integer`, or `numeric`
