@@ -53,6 +53,10 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
                               gsub(" ", "-", x[2]), "-",
                               gsub(" ", "-",  x[3]),
                               ".jpg"))
+
+        ## handle non ascii characters like ö
+        path.to.pic <- gsub("&ouml;", "ö", path.to.pic)
+
         if (!file.exists(path.to.pic)) {
             message("file ", path.to.pic, " does not exist - using default picture")
             file.copy("../img/people/anonymous.jpg", path.to.pic)
