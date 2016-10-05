@@ -105,7 +105,7 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
   - name: Michael H&ouml;hle
-    img: /img/people/michael-h&ouml;hle.jpg
+    img: /img/people/michael-hohle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
     website: http://www.math.su.se/~hoehle
     github: https://github.com/hoehleatsu

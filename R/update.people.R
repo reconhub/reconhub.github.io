@@ -42,11 +42,14 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
         out <- paste("  - name:", x[2], x[3], sep=" ")
 
         ## image
-        out <- c(out, tolower(paste0("    img: /img/people/",
+        img.txt <- tolower(paste0("    img: /img/people/",
                                      gsub(" ", "-", x[2]),
                                      "-",
                                      gsub(" ", "-",  x[3]),
-                                     ".jpg")))
+                                     ".jpg"))
+        img.txt <- gsub("&ouml;", "o", img.txt)
+
+        out <- c(out, img.txt)
 
         ## if image does not exist, copy the anonymous pic by default
         path.to.pic <- tolower(paste0("../img/people/",
@@ -55,7 +58,7 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
                               ".jpg"))
 
         ## handle non ascii characters like ö
-        path.to.pic <- gsub("&ouml;", "ö", path.to.pic)
+        path.to.pic <- gsub("&ouml;", "o", path.to.pic)
 
         if (!file.exists(path.to.pic)) {
             message("file ", path.to.pic, " does not exist - using default picture")
