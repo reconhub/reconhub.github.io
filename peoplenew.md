@@ -104,8 +104,8 @@ people-list:
     desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
-  - name: Michael H&oumlhle
-    img: /img/people/michael-h&oumlhle.jpg
+  - name: Michael H&ouml;hle
+    img: /img/people/michael-h&ouml;hle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
     website: http://www.math.su.se/~hoehle
     github: https://github.com/hoehleatsu
