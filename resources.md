@@ -32,3 +32,7 @@ devel-list:
 # Development tips
 
 {% include list-circles.html items=page.devel-list %}
+
+
+<br>
+<br>

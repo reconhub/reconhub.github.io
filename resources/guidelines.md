@@ -39,3 +39,6 @@ Besides the [*rOpenSci*](http://ropensci.org/) whose guidelines we largely adopt
 - Rich Fitzjohn
 - Thibaut Jombart
 - Noam Ross
+
+<br>
+<br>
