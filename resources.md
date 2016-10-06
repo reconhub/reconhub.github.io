@@ -3,7 +3,7 @@ title: Resources
 subtitle: Teaching material, guidelines for package development, ...
 tutorials-list:
   - name: Phylogenetics using R
-    img: /img/tutorials/green.jpg
+    img: /img/tutorials/green.png
     desc: Overview of phylogenetics in R using seasonal influenza sequences.
     github: https://github.com/reconhub/phylo-practical
 ---
