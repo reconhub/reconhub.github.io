@@ -1,8 +1,8 @@
 ![RECON logo](img/logo.png)
 
-## Official website for RECON - The R Epidemics CONsortium
+## Welcome to the development page of the R Epidemics Consortium (RECON) website
 
-For the website, go to: http://reconhub.github.io.
+For the website itself, go to: http://www.repidemicsconsortium.org
 
 Please address requests via email to Thibaut Jombart ([thibautjombart@gmail.com](thibautjombart@gmail.com)).
 
