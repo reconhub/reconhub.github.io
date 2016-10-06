@@ -4,7 +4,7 @@ subtitle: New tutorial, development guidelines, and more.
 bigimg: /img/big_epi_image.jpg
 ---
 
-Our [resources section](resources) will no longer read "*under construction". It now contains two separate sections:
+Our [resources section](../resources) will no longer read "*under construction". It now contains two separate sections:
 
 - a *tutorial* section, which hosts a tutorial newly added on RECON for phylogenetic reconstruction
 
