@@ -1,6 +1,6 @@
 ---
 title: Projects
-bigimg: /img/banner/devel.jpg
+bigimg: /img/banners/devel.jpg
 stable-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
