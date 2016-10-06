@@ -11,7 +11,7 @@ subtitle: Teaching material, guidelines for package development, ...
 #### Overview
 A practical providing an overview of phylogenetic reconstruction methods in R, illustrated through the analysis of seasonal influenza sequences.
 
-**Click**  [**here**](https://github.com/reconhub/phylo-practical) **to access content.**
+[**Click here to access content.**](https://github.com/reconhub/phylo-practical)
 
 #### Details
 
