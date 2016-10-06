@@ -1,36 +1,16 @@
 ---
 title: Resources
 subtitle: Teaching material, guidelines for package development, ...
+tutorials-list:
+  - name: Phylogenetics using R
+    img: /img/tutorials/green.jpg
+    desc: Overview of phylogenetics in R using seasonal influenza sequences.
+    github: https://github.com/reconhub/phylo-practical
 ---
 
 
-# Practicals
+# Tutorials
 
-### Introduction to phylogenetics
+{% include list-circles.html items=page.tutorials-list %}
 
-#### Overview
-A practical providing an overview of phylogenetic reconstruction methods in R, illustrated through the analysis of seasonal influenza sequences.
-
-[**Click here to access content.**](https://github.com/reconhub/phylo-practical)
-
-#### Details
-
-- Author: Thibaut Jombart
-- Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Type of document: *knitr*, *pdf*
--  [Quick link](https://raw.githubusercontent.com/reconhub/phylo-practical/master/phylo-practical.pdf) to pdf
-
-
-
-
-
-
-# Package development
-
-### Guidelines for package development
-
-#### Overview
-A series of best practices for developing packages.
-
-[**Click here to access content.**](resources/guidelines)
 
