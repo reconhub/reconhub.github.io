@@ -22,3 +22,15 @@ A practical providing an overview of phylogenetic reconstruction methods in R, i
 
 
 
+
+
+
+# Package development
+
+### Guidelines for package development
+
+#### Overview
+A series of best practices for developing packages.
+
+[**Click here to access content.**](resources/guidelines)
+
