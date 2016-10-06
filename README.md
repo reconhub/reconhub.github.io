@@ -47,3 +47,6 @@ To add a new page at the URL `http://reconhub.github.io/example`:
 The pages described above should be added in the root directory. But any page you create inside the `_posts` folder will be treated as a blog post. The nice thing about blog post-type pages is that they will automatically be shown chronologically at `https://reconhub.github.io/blog/`, with all the pagination to previous/next posts taken care of.
 
 Posts are created in exactly the same way as regular pages: you still need to make them `.md` file, they have to have YAML front matter, they can support the `title`/`subtitle`/`bigimg` parameters, you can add lists into them, etc. The only difference is that the name of the file must begin with the date of the post. For example, `2016-08-20-some-news.md`. It's vital that the name of each post contain the date in such a format, followed by whatever name you want, followed by `.md`.
+
+## How to enable comments
+If you want to add Disqus comments to different pages, you need to sign up to Disqus and add your Disqus shortname to the disqus parameter in the `_config.yml` file. By default, all blog posts will have disqus comments at the bottom of the page. You can add disqus to any other page by adding `comments: true` to the YAML of any page.
