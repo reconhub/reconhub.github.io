@@ -3,3 +3,8 @@ _site/
 R/.Rhistory
 R/.httr-oauth
 R/.RData
+*.aux
+*.bbl
+*.log
+*.out
+*.toc
