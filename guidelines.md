@@ -2,6 +2,7 @@
 title: RECON guidelines
 subtitle: Best practices for package development
 bigimg: /img/banners/devel.jpg
+comments: true
 ---
 
 *Note: this document is work in progress! Please send comments / suggestions using disqus, by posting issues or via pull requests. The file generating this page is [there](https://github.com/reconhub/reconhub.github.io/blob/master/guidelines.md)*.
