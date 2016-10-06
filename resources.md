@@ -11,7 +11,7 @@ devel-list:
   - name: Best practices
     img: /img/devel/purple.png
     desc: Guidelines for package development.
-    github: guidelines
+    github: ../guidelines
 ---
 
 
