@@ -12,6 +12,10 @@ devel-list:
     img: /img/devel/purple.png
     desc: Guidelines for package development.
     github: ../guidelines
+  - name: Review
+    img: /img/devel/yellow.png
+    desc: Reviewing packages for RECON.
+    github: ../review
 ---
 
 
