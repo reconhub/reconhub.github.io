@@ -179,7 +179,7 @@ people-list:
     twitter: https://twitter.com/noamross
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
-    desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Germany.
+    desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
     website: https://www.dirk-schumacher.net/
     github: https://github.com/dirkschumacher
     twitter: https://twitter.com/dirk_sch
