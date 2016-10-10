@@ -76,6 +76,12 @@ people-list:
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
+  - name: Thomas Crellen
+    img: /img/people/thomas-crellen.jpg
+    desc: PhD student proficient in R, joining MSF in 2017 so will put packages to use in the field. Imperial College London, UK.
+    github: https://github.com/tc13
+    url: https://github.com/tc13
+    twitter: https://twitter.com/TomCrellen
   - name: Elisabeth Dahlqwist
     img: /img/people/elisabeth-dahlqwist.jpg
     desc: PhD student in biostatistics and R programmer. Karolinska Institutet, Department of Medical Epidemiology and Biostatistics, Sweden.
