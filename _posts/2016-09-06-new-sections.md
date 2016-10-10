@@ -1,7 +1,7 @@
 ---
 title: Our website is officially live!
 subtitle: With the addition of several sections, the RECON website is coming together.
-bigimg: /img/big_epi_image.jpg
+bigimg: /img/banners/big_epi_image.jpg
 ---
 
 Our website has been growing over the last days! It now contains several sections including:

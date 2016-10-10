@@ -1,7 +1,7 @@
 ---
 title: New resources on RECON!
 subtitle: New tutorial, development guidelines, and more.
-bigimg: /img/big_epi_image.jpg
+bigimg: /img/banners/big_epi_image.jpg
 ---
 
 Our [resources section](../resources) will no longer read "*under construction". It now contains two separate sections:
