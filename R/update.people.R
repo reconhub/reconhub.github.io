@@ -72,17 +72,24 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
         ## website
         if (!is.na(x$website)) {
             out <- c(out, paste0("    website: ", x$website))
+            out <- c(out, paste0("    url: ", x$website))
         }
 
         ## github
         if (!is.na(x$github)) {
             out <- c(out, paste0("    github: ", x$github))
+            if (is.na(x$website)) {
+                            out <- c(out, paste0("    url: ", x$github))
+            }
         }
 
         ## twitter
         if (!is.na(x$twitter)) {
             out <- c(out, paste0("    twitter: ", x$twitter))
-        }
+               if (is.na(x$website) && is.na(x$github)) {
+                            out <- c(out, paste0("    url: ", x$twitter))
+            }
+     }
 
         return(out)
     }
