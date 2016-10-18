@@ -264,9 +264,9 @@ people-list:
 ---
 
 
-## Members
+## Community
 
-RECON is a group of people sharing their time and expertise to lead, facilitate, and promote the development of analysis tools for outbreak response using the [R software](https://www.r-project.org/). The list of people below is growing as we are recruiting more members. See [this page](../join) to join us.
+RECON is a group of people sharing their time and expertise to lead, facilitate, advise, and promote the development of analysis tools for outbreak response using the [R software](https://www.r-project.org/). The list of people below is growing as we are recruiting more members. See [this page](../join) to join us.
 
 {% include list-circles.html items=page.people-list %}
 
