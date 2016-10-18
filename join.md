@@ -17,9 +17,9 @@ Members of RECON will:
 - be able to advertise their packages and relevant publications on this website
 - be able to publish posts on the [RECON blog](../blog)
 - be able to use the [Resources](../resources) section to share data, scripts, and teaching material
-- be automatically subscribed to the [RECON forum](../forum), which will host private and public discussions relating to outbreak analysis, modelling, and R programming
+- be automatically invited to the [RECON forum](../forum), which will host private and public discussions relating to outbreak analysis, modelling, and R programming
 - benefit from the expertise of other members in R package development
-- be automatically invited to future RECON events
+- be invited to future RECON events (depending on practical constraints)
 - be able to host their package on the [RECON github organization](https://github.com/reconhub/), although this is by no way mandatory
 
 
