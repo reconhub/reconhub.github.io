@@ -1,11 +1,11 @@
 ---
 title: Joining us
-subtitle: How to become a member of the R Epidemics Consortium?
+subtitle: How to join the R Epidemics Consortium community?
 ---
 
 ## Who can join?
 
-The criteria for joining as a member is to be contributing to at least one R package relevant for epidemics analysis / outbreak response.
+RECON aims to gather a community of people actively involved in the development of R packages for outbreak response. We are also welcoming experienced R developers as well as public health officers specialised in outbreak response.
 
 
 ## What does 'joining' mean?
