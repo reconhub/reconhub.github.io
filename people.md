@@ -236,6 +236,11 @@ people-list:
     url: http://andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
+  - name: Tony Stewart
+    img: /img/people/tony-stewart.jpg
+    desc: Medical epidemiologist working on international epidemics, with a background in tools development for response. WHO/Global Outbreak Alert and Response Network, Switzerland.
+    website: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
+    url: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
   - name: Bertrand Sudre
     img: /img/people/bertrand-sudre.jpg
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control (ECDC), Sweden.
