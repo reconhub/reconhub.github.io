@@ -164,6 +164,11 @@ people-list:
     url: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/D_Don_Klinkenberg_PhD
     github: https://github.com/donkeyshot
     twitter: https://twitter.com/donkeyshot
+  - name: Stefan Kroeger
+    img: /img/people/stefan-kroeger.jpg
+    desc: R developper with background in bioinformatics and network analysis. Working on transmission analysis for disease surveillance. Robert Koch Institute, Germany.
+    website: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
+    url: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
