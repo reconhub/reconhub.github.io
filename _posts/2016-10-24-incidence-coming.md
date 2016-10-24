@@ -1,6 +1,6 @@
 ---
 title: Incidence getting ready for release.
-subtitle: 3 vignettes, 100% coverage, ready to go.
+subtitle: 3 vignettes, 100% coverage, getting ready to go!
 bigimg: /img/banners/big_epi_image.jpg
 ---
 
@@ -13,7 +13,7 @@ Recent activity around the [*incidence*](https://github.com/reconhub/incidence) 
 - a tool for detecting the peak of an outbreak based on log-linear model fitting
 - a tool for computing doubling or halving times using log-linear models
 - a package including 3 vignettes: an overview of features (*overview*), tips for customizing plots (*customize-plot*) and details of the `incidence` class (*incidence-class*)
-- a thoroughly-tested set of functions (code coverage by unit tests: 100%)
+- a thoroughly-tested set of functions (code coverage by unit tests: [100%](http://codecov.io/github/reconhub/incidence?branch=master))
 
 <br>
 <br>
