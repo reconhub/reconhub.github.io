@@ -138,6 +138,9 @@ people-list:
     url: http://www.math.su.se/~hoehle
     github: https://github.com/hoehleatsu
     twitter: https://twitter.com/m_hoehle
+  - name: Benido Impouma
+    img: /img/people/benido-impouma.jpg
+    desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
@@ -189,6 +192,9 @@ people-list:
     website: http://www.imperial.ac.uk/people/joanna.lewis
     url: http://www.imperial.ac.uk/people/joanna.lewis
     github: https://github.com/joanna-lewis
+  - name: Christian Massidi
+    img: /img/people/christian-massidi.jpg
+    desc: Data developer. World Health Organization, Congo, Republic.
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
