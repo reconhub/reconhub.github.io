@@ -1,7 +1,18 @@
 ---
 title: Projects
 bigimg: /img/banners/devel.jpg
-stable-list:
+recon-list:
+  - name: outbreaks
+    desc: Collection of outbreak data.
+    github: http://github.com/reconhub/outbreaks
+    url: http://github.com/reconhub/outbreaks
+    img: /img/projects/blue.png
+  - name: incidence
+    desc: Computation, handling, visualisation and simple modelling of incidence.
+    github: http://github.com/reconhub/incidence
+    url: http://github.com/reconhub/incidence
+    img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
+related-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
     github: http://github.com/annecori/EpiEstim
@@ -38,6 +49,11 @@ upcoming-list:
     github: http://github.com/thibautjombart/dibbler
     url: http://github.com/thibautjombart/dibbler
     img: /img/projects/green.png
+  - name: distcrete
+    desc: Discretized probability distributions.
+    github: http://github.com/reconhub/distcrete
+    url: http://github.com/reconhub/distcrete
+    img: /img/projects/yellow.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/Hackout3/epicontacts
@@ -48,21 +64,11 @@ upcoming-list:
     github: http://github.com/Hackout3/epimatch
     url: http://github.com/Hackout3/epimatch
     img: /img/projects/orange.png
-  - name: incidence
-    desc: Computation, handling, visualisation and simple modelling of incidence.
-    github: http://github.com/reconhub/incidence
-    url: http://github.com/reconhub/incidence
-    img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
     github: http://github.com/thibautjombart/outbreaker2
     url: http://github.com/thibautjombart/outbreaker2
     img: /img/projects/red.png
-  - name: outbreaks
-    desc: Collection of outbreak data.
-    github: http://github.com/reconhub/outbreaks
-    url: http://github.com/reconhub/outbreaks
-    img: /img/projects/blue.png
   - name: vimes
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
     github: http://github.com/thibautjombart/vimes
@@ -72,13 +78,29 @@ upcoming-list:
 
 
 
+<br>
+
 ## Released packages
-The packages listed below have been released at least once. This means that, although they are likely still evolving, a stable version is available.
+These packages have been designed using following RECON's standards, are fully functional, documented and tested, and have been released on CRAN.
 
-{% include list-circles.html items=page.stable-list %}
+{% include list-circles.html items=page.recon-list %}
 
+
+
+
+<br>
 
 ## Up-and-coming packages
-The packages listed below are still in development. They may be functional already, but a stable version has yet to be released.
+The RECON packages listed below are still in development. They may be functional already, but a stable version has yet to be released.
 
 {% include list-circles.html items=page.upcoming-list %}
+
+
+
+
+<br>
+
+## Related packages
+The packages listed below mostly predate RECON, but have been authored by RECON members and are relevant for infectious disease epidemiology.
+
+{% include list-circles.html items=page.related-list %}
