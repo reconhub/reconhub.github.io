@@ -81,7 +81,7 @@ upcoming-list:
 <br>
 
 ## Released packages
-These packages have been designed using following RECON's standards, are fully functional, documented and tested, and have been released on CRAN.
+These packages have been developed following RECON's standards, are fully functional, documented and tested, and have been released on CRAN.
 
 {% include list-circles.html items=page.recon-list %}
 
