@@ -10,8 +10,8 @@ recon-list:
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: http://github.com/reconhub/incidence
-    url: http://github.com/reconhub/incidence
-    website: http://github.com/reconhub/incidence
+    url: http://reconhub.github.io/incidence
+    website: http://reconhub.github.io/incidence
     img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
 related-list:
   - name: EpiEstim
