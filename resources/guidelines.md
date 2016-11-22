@@ -30,7 +30,7 @@ We recommend following the [*rOpenSci* package development guidelines](https://g
 
 - We encourage the use of "`::`" when importing functions from non-core packages, as it makes dependencies on foreign code more visible (and avoids using `@importFrom` tags).
 
-- We encourage the use of [*pkgdown*](http://github.com/hadley/pkgdown) to generate a website for the package. For an example, see the [*incidence*](http://github.com/reconhub/incidence) package.
+- We encourage the use of [*pkgdown*](http://github.com/hadley/pkgdown) to generate a website for the package. For an example, see the [*incidence*](http://github.com/reconhub/incidence) package and [its website](http://www.repidemicsconsortium.org/incidence/). 
 
 
 
