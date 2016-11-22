@@ -16,17 +16,21 @@ This document provides guidelines for package development which are meant to pro
 
 We recommend following the [*rOpenSci* package development guidelines](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md), with the following additions / changes:
 
-- RECON does not use any package submission system.
+- RECON does not use any package submission system. If you would like your package to integrate RECON, be in touch with us directly (click on email link at the bottom of this page). 
 
 - Packages should be hosted on [github](http://github.com), or a similar platform with a (ideally, distributed) version control system; we recommend keeping the *master* branch as functional, and using other branches for more adventurous changes.
 
 - Packages should be submitted to a [*goodpractice*](https://github.com/MangoTheCat/goodpractice/) run to detect possible issues.
 
-- The `README.Rmd` should provide an overview of the main functionalities of the package; vignettes can be used for finer details, but ideally the users should be able to become familiar with a package from its github project page.
+- The `README.Rmd` should provide an overview of the main functionalities of the package, and point to more detailed resources (vignettes, tutorials, open-access publications) where relevant. 
 
+- Vignettes are strongly recommended for more detailed documentation, including worked examples, details of analyses and methods, customisation of graphics, and object classes. The *Rmarkdown* (`.Rmd`) format is preferred to Sweave (`.Rnw`) as it is easier to convert to `.html` pages.
+ 
 - We **strongly** recommend the use of [*roxygen2*](https://cran.r-project.org/web/packages/roxygen2/index.html) for documentation, as it makes documentation easier to maintain.
 
 - We encourage the use of "`::`" when importing functions from non-core packages, as it makes dependencies on foreign code more visible (and avoids using `@importFrom` tags).
+
+- We encourage the use of [*pkgdown*](http://github.com/hadley/pkgdown) to generate a website for the package. For an example, see the [*incidence*](http://github.com/reconhub/incidence) package.
 
 
 
