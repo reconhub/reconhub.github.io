@@ -5,7 +5,8 @@ recon-list:
   - name: outbreaks
     desc: Collection of outbreak data.
     github: http://github.com/reconhub/outbreaks
-    url: http://github.com/reconhub/outbreaks
+    url: http://reconhub.github.io/outbreaks
+    website: http://reconhub.github.io/outbreaks
     img: /img/projects/blue.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
