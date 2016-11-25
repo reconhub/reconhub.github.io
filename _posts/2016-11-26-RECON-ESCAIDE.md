@@ -10,5 +10,6 @@ RECON will be the object of a talk at the coming ESCAIDE conference, Stockholm, 
 For more on the conference, see the [conference website](http://ecdc.europa.eu/en/escaide/Pages/ESCAIDE.aspx).
 
 
-Watch the comments of this post for a link to the slides of the talk.
+The slides of the talk will be available for download on [*github*](http://github.com/thibautjombart/talks/tree/master/ESCAIDE2016).
+
 
