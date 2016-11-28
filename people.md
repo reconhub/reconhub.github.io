@@ -64,6 +64,13 @@ people-list:
     url: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Jun Cai
+    img: /img/people/jun-cai.jpg
+    desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
+    website: http://blog.tonytsai.name/
+    url: http://blog.tonytsai.name/
+    github: https://github.com/caijun
+    twitter: https://twitter.com/caijun2046
   - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg
     desc: PhD student, interested in outbreak analysis and R package development. Imperial College London, UK.
@@ -160,6 +167,9 @@ people-list:
     url: http://www.andeekaplan.com
     github: http://github.com/andeek
     twitter: https://twitter.com/andeekaplan
+  - name: Ioannis Karagiannis
+    img: /img/people/ioannis-karagiannis.jpg
+    desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, United Kingdom.
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
