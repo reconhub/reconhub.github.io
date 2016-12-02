@@ -27,7 +27,7 @@ board-list:
     twitter: https://twitter.com/jennifergardy
     github: https://github.com/jlgardy
   - name: Oliver Morgan
-    desc: Acting Director, Health Emergency Information and Risk Assessment Department, WHO.
+    desc: Acting Director, Health Emergency Information and Risk Assessment Department, World Health Organisation. Geneva, Switzerland.
     img: /img/people/oliver-morgan.jpg
   - name: Jacco Wallinga
     img: /img/people/jacco-wallinga.jpg
