@@ -26,6 +26,9 @@ board-list:
     url: http://www.jennifergardy.com/
     twitter: https://twitter.com/jennifergardy
     github: https://github.com/jlgardy
+  - name: Oliver Morgan
+    desc: Acting Director, Health Emergency Information and Risk Assessment Department, WHO.
+    img: /img/people/oliver-morgan.jpg
   - name: Jacco Wallinga
     img: /img/people/jacco-wallinga.jpg
     desc:  Professor of infectious disease modelling at Leiden University Medical Center, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
