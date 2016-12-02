@@ -105,14 +105,14 @@ people-list:
     url: https://github.com/alexdemarsh
   - name: Xavier Didelot
     img: /img/people/xavier-didelot.jpg
-    desc: Genomic epidemiology of bacterial pathogens. Imperial College London, United Kingdom.
+    desc: Genomic epidemiology of bacterial pathogens. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/x.didelot
     url: http://www.imperial.ac.uk/people/x.didelot
     github: https://github.com/xavierdidelot/
     twitter: https://twitter.com/XavierDidelot
   - name: Jeff Eaton
     img: /img/people/jeff-eaton.jpg
-    desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, United Kingdom.
+    desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, UK.
     github: https://github.com/jeffeaton
     url: https://github.com/jeffeaton
   - name: Thomas Finnie
@@ -172,7 +172,7 @@ people-list:
     twitter: https://twitter.com/andeekaplan
   - name: Ioannis Karagiannis
     img: /img/people/ioannis-karagiannis.jpg
-    desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, United Kingdom.
+    desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, UK.
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
@@ -280,7 +280,7 @@ people-list:
     url: http://github.com/BlackEdder
   - name: Erik Volz
     img: /img/people/erik-volz.jpg
-    desc: Population genetics, phylogenetics, and mathematical epidemiology. Imperial College London, United Kingdom.
+    desc: Population genetics, phylogenetics, and mathematical epidemiology. Imperial College London, UK.
     github: https://github.com/emvolz
     url: https://github.com/emvolz
   - name: Oliver Watson
