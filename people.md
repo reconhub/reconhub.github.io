@@ -67,6 +67,12 @@ people-list:
     url: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Amrish Baidjoe
+    img: /img/people/amrish-baidjoe.jpg
+    desc: Infectious disease microbiologist / epidemiologist, with a strong affinity towards applied studies. Institut Pasteur / European Centre for Disease Prevention and Control, France.
+    website: https://ammer.tweakblogs.net/
+    url: https://ammer.tweakblogs.net/
+    twitter: https://twitter.com/ammerB
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
@@ -267,7 +273,7 @@ people-list:
     url: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
   - name: Bertrand Sudre
     img: /img/people/bertrand-sudre.jpg
-    desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control (ECDC), Sweden.
+    desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
     website: http://ecdc.europa.eu/en/Pages/home.aspx
     url: http://ecdc.europa.eu/en/Pages/home.aspx
   - name: Rolina van Gaalen
