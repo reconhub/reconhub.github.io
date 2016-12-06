@@ -72,7 +72,7 @@ people-list:
     desc: Infectious disease microbiologist / epidemiologist, with a strong affinity towards applied studies. Institut Pasteur / European Centre for Disease Prevention and Control, France.
     website: https://ammer.tweakblogs.net/
     url: https://ammer.tweakblogs.net/
-    twitter: https://twitter.com/ammerB
+    twitter: https://twitter.com/Ammer_B
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
