@@ -1,6 +1,6 @@
 ---
 title: RECON seminar at University of Lyon
-subtitle: Starting the year presenting RECON in one France's top biometry department 
+subtitle: Starting the year presenting RECON in one of France's top biometry department
 bigimg: /img/banners/big_epi_image.jpg
 ---
 
