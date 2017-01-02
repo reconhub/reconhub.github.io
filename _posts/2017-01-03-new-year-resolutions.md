@@ -6,7 +6,7 @@ bigimg: /img/banners/big_epi_image.jpg
 
 Only four months ago, the R Epidemics Consortium was posting its [birth certificate](http://www.repidemicsconsortium.org/2016-09-06-new-sections/) online. Since then, our project has received considerable enthusiasm from the community, and we have been lucky to be joined by some truly amazing people. And the list is growing, still.
 
-Many projects have emerged in our four months of existence, and a lot of exciting things are coming. In no specific order, our 2017 good resolutions will include:
+Many projects have emerged in our four months of existence, and a lot of exciting things are coming. In no specific order, our 2017 good resolutions include:
 
 * release core packages for outbreak response, including: contact data (*epicontacts*), delay estimation (*distcrete*), outbreak reconstruction (*outbreaker2*), data encryption (*cyphr*), compartmental models (*odin*), and more
 
@@ -21,6 +21,10 @@ Many projects have emerged in our four months of existence, and a lot of excitin
 * release free, open teaching material and tutorials in our [resources section](http://www.repidemicsconsortium.org/resources/)
 
 * increased collaborations with major Public Health institutions including WHO, ECDC, and MSF
+
+* participate to / co-organise teaching workshops
+
+* seek core funding
 
 
 
