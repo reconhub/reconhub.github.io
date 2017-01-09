@@ -147,6 +147,9 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     url: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: José Guerra
+    img: /img/people/josé-guerra.jpg
+    desc: Medical epidemiologist, support countries strengthening their public health surveillance systems; Rthusiastic for many years. World Health Organization, France.
   - name: Michael H&ouml;hle
     img: /img/people/michael-hohle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
@@ -247,6 +250,9 @@ people-list:
     github: https://github.com/noamross/
     url: https://github.com/noamross/
     twitter: https://twitter.com/noamross
+  - name: Maria Saavedra-Campos
+    img: /img/people/maria-saavedra-campos.jpg
+    desc: Senior epidemiology sicnetist invovled in outbreak investigation, surveillance and research. Public Health England, UK.
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
     desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
@@ -266,6 +272,11 @@ people-list:
     url: http://andysouth.co.uk
     github: https://github.com/AndySouth
     twitter: https://twitter.com/southmapr
+  - name: Alex Spina
+    img: /img/people/alex-spina.jpg
+    desc: Infectious disease epidemiologist using R for surveillance data and outbreak response. Austrian Agency for Food and Health Safety / European Centre for Disease Prevention and Control, Austria.
+    github: https://github.com/aspina7
+    url: https://github.com/aspina7
   - name: Tony Stewart
     img: /img/people/tony-stewart.jpg
     desc: Medical epidemiologist working on international epidemics, with a background in tools development for response. WHO/Global Outbreak Alert and Response Network, Switzerland.
@@ -296,6 +307,13 @@ people-list:
     url: http://www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
+  - name: Thomas Yokota
+    img: /img/people/thomas-yokota.jpg
+    desc: Survey analysis with emphasis on working with small area estimates. USA.
+    website: www.thomasyokota.com
+    url: www.thomasyokota.com
+    github: https://github.com/Tyokota
+    twitter: https://twitter.com/thomasyokota
 ---
 
 
