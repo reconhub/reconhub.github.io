@@ -1,6 +1,6 @@
 ---
 title:  New position at Imperial!
-subtitle: 1+ year working on spatial spread of outbreaks.
+subtitle: 18+ Months working on spatial spread of outbreaks.
 bigimg: /img/banners/big_epi_image.jpg
 ---
 
