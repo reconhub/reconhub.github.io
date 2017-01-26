@@ -27,7 +27,7 @@ Find below an excerpt of the job description:
 
 > It is essential that you have a PhD or equivalent, in one of the following areas: statistics, infectious disease epidemiology, population biology, bioinformatics, physics, or computer sciences.
 
-> The successful candidate will be members of both the [**MRC Centre for Outbreak Analysis and Modelling**](https://www1.imperial.ac.uk/publichealth/departments/ide/outbreaks/) and the [**Department of Infectious Disease Epidemiology**](https://www1.imperial.ac.uk/publichealth/departments/ide/) at Imperial College London, and will be based at the St Mary’s Campus, Paddington.
+> The successful candidate will be members of both the [**MRC Centre for Outbreak Analysis and Modelling**](https://www1.imperial.ac.uk/publichealth/departments/ide/outbreaks/) and the [**Department of Infectious Disease Epidemiology**](https://www1.imperial.ac.uk/publichealth/departments/ide/) at Imperial College London, and will be based at the St Mary's Campus, Paddington.
 
 > The post is available now full time for a fixed duration of 18 months in the first instance, with a potential extension until March 2019.
 
