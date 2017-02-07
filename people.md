@@ -147,6 +147,9 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     url: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: Joana Gomes Dias
+    img: /img/people/joana-gomes-dias.jpg
+    desc: Expert Biostatistics at ECDC. Applied statistical modelling. Epidemiology and Infection diseases. European Centre for Disease Prevention and Control (ECDC), Sweden.
   - name: José Guerra
     img: /img/people/josé-guerra.jpg
     desc: Medical epidemiologist, support countries strengthening their public health surveillance systems; Rthusiastic for many years. World Health Organization, France.
