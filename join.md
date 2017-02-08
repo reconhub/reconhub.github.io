@@ -5,7 +5,14 @@ subtitle: How to join the R Epidemics Consortium community?
 
 ## Who can join?
 
-RECON aims to gather a community of people actively involved in the development of R packages for outbreak response. We are also welcoming experienced R developers as well as public health officers specialised in outbreak response.
+RECON aims to gather a community of people actively involved in the development
+of R packages for outbreak response. We are also welcoming experienced R
+developers as well as public health officers specialised in outbreak
+response. If you are not directly involved in the development of R packages for
+outbreak response, please send an email to [Thibaut
+Jombart](mailto:thibautjombart@gmail.com) to explain briefly why you would like
+to join, after having filled the registration form below.
+
 
 
 ## What does 'joining' mean?
