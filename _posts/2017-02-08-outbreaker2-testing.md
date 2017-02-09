@@ -37,7 +37,7 @@ likekelihood functions, and even movement of parameters and augmented data. All
 of these modules are treated as separate ingredients of a big methodological
 recipe, and *outbreaker2* provides the cooking pot.
 
-[!outbreaker2_cooking_pot](img/cookingpot.png)
+<a><img src = "img/cookingpot.png" alt = "outbreaker2 cooking pot"></a>
 
 In fact, it also provides the kitchen, as it implements an infrastructure for
 handling data, defining settings of the method, and customising functions for
@@ -57,8 +57,9 @@ not all similar methods in the field, *outbreaker* had no unit testing. Not
 one. Nothing. *outbreaker2* will follow the standards defined by
 [RECON](http://www.repidemicsconsortium.org/) for package development, including
 complete coverage of the code (in R as well as C++) by unit testing (current
-coverage is about 70%) and the use of continuous integration tools (currently
-Travis and Appveyor).
+[coverage](https://codecov.io/github/reconhub/outbreaker2?branch=master) is
+about 70%) and the use of continuous integration tools (currently Travis and
+Appveyor).
 
 
 
