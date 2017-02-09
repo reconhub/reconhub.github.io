@@ -8,7 +8,7 @@ bigimg: /img/banners/big_epi_image.jpg
 A sequel, only better
 ---------------------
 
-*outbreaker2* is a total re-implementation of a model implemented in
+[*outbreaker2*](https://github.com/reconhub/outbreaker2) is a total re-implementation of a model implemented in
  [*outbreaker*](https://github.com/thibautjombart/outbreaker), for the
  reconstruction of transmission trees from densely sampled outbreaks (i.e., most
  cases observed). While the original version was computationally efficient, it
@@ -37,7 +37,7 @@ likekelihood functions, and even movement of parameters and augmented data. All
 of these modules are treated as separate ingredients of a big methodological
 recipe, and *outbreaker2* provides the cooking pot.
 
-<a><img src = "img/cookingpot.png" alt = "outbreaker2 cooking pot"></a>
+<a><img src = "/img/posts/cookingpot.png" alt = "outbreaker2 cooking pot"></a>
 
 In fact, it also provides the kitchen, as it implements an infrastructure for
 handling data, defining settings of the method, and customising functions for
