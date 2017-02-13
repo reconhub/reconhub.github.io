@@ -255,7 +255,7 @@ people-list:
     twitter: https://twitter.com/noamross
   - name: Maria Saavedra-Campos
     img: /img/people/maria-saavedra-campos.jpg
-    desc: Senior epidemiology sicnetist invovled in outbreak investigation, surveillance and research. Public Health England, UK.
+    desc: Senior epidemiology scientist involved in outbreak investigation, surveillance and research. Public Health England, UK.
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
     desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
