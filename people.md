@@ -313,8 +313,8 @@ people-list:
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
-    website: www.robin-thompson.co.uk
-    url: www.robin-thompson.co.uk
+    website: http://www.robin-thompson.co.uk
+    url: http://www.robin-thompson.co.uk
   - name: Rolina van Gaalen
     img: /img/people/rolina-van-gaalen.jpg
     desc: Infectious disease epidemiologist, mathematical and statistical modeller, and R programmer. National Institute for Public Health and the Environment (RIVM), The Netherlands.
@@ -338,8 +338,8 @@ people-list:
   - name: Thomas Yokota
     img: /img/people/thomas-yokota.jpg
     desc: Survey analysis with emphasis on working with small area estimates. USA.
-    website: www.thomasyokota.com
-    url: www.thomasyokota.com
+    website: http://www.thomasyokota.com
+    url: http://www.thomasyokota.com
     github: https://github.com/Tyokota
     twitter: https://twitter.com/thomasyokota
 ---
