@@ -127,6 +127,11 @@ people-list:
     website: www.gov.uk/phe
     url: www.gov.uk/phe
     github: https://github.com/twomagpi
+  - name: Simon Firestone
+    img: /img/people/simon-firestone.jpg
+    desc: Veterinary and public health epidemiologist. The University of Melbourne, Australia.
+    website: http://fvas.unimelb.edu.au/veam
+    url: http://fvas.unimelb.edu.au/veam
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -160,6 +165,11 @@ people-list:
     url: http://www.math.su.se/~hoehle
     github: https://github.com/hoehleatsu
     twitter: https://twitter.com/m_hoehle
+  - name: Martin Hinsch
+    img: /img/people/martin-hinsch.jpg
+    desc: Modeller working on outbreak analysis. Imperial College London, UK.
+    github: https://github.com/mhinsch
+    url: https://github.com/mhinsch
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
@@ -185,6 +195,11 @@ people-list:
   - name: Ioannis Karagiannis
     img: /img/people/ioannis-karagiannis.jpg
     desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, UK.
+  - name: Eben Kenah
+    img: /img/people/eben-kenah.jpg
+    desc: Survival analysis of infectious disease transmission data. University of Florida, USA.
+    github: https://github.com/ekenah
+    url: https://github.com/ekenah
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
@@ -247,6 +262,11 @@ people-list:
     website: http://nistara.net
     url: http://nistara.net
     github: https://github.com/nistara
+  - name: Lukas Richter
+    img: /img/people/lukas-richter.jpg
+    desc: Mathematical and statistical modelling in infectious disease epidemiology, R programming. Austrian Agency for Food and Health Safety, Austria.
+    github: https://github.com/lukric
+    url: https://github.com/lukric
   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Disease ecologist, working on zoonotic disease emergence, dynamical systems, economics and R programming standards. EcoHealth Alliance, USA.
@@ -290,6 +310,11 @@ people-list:
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
     website: http://ecdc.europa.eu/en/Pages/home.aspx
     url: http://ecdc.europa.eu/en/Pages/home.aspx
+  - name: Robin Thompson
+    img: /img/people/robin-thompson.jpg
+    desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
+    website: www.robin-thompson.co.uk
+    url: www.robin-thompson.co.uk
   - name: Rolina van Gaalen
     img: /img/people/rolina-van-gaalen.jpg
     desc: Infectious disease epidemiologist, mathematical and statistical modeller, and R programmer. National Institute for Public Health and the Environment (RIVM), The Netherlands.
