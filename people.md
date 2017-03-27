@@ -165,6 +165,13 @@ people-list:
     url: http://www.math.su.se/~hoehle
     github: https://github.com/hoehleatsu
     twitter: https://twitter.com/m_hoehle
+  - name: Andreas Handel
+    img: /img/people/andreas-handel.jpg
+    desc: Modeling and data analysis of infectious diseases on the within-host and between-host scales. Main focus on influenza, TB and Norovirus. University of Georgia, USA.
+    website: http://handelgroup.uga.edu/
+    url: http://handelgroup.uga.edu/
+    github: https://github.com/ahgroup
+    twitter: https://twitter.com/andreashandel
   - name: Martin Hinsch
     img: /img/people/martin-hinsch.jpg
     desc: Modeller working on outbreak analysis. Imperial College London, UK.
@@ -342,6 +349,13 @@ people-list:
     url: http://www.thomasyokota.com
     github: https://github.com/Tyokota
     twitter: https://twitter.com/thomasyokota
+  - name: Jon Zelner
+    img: /img/people/jon-zelner.jpg
+    desc: outbreak reconstruction, spatial epidemiology, social determinants of infection risk. University of Michigan School of Public Health, USA.
+    website: http://www.jonzelner.net
+    url: http://www.jonzelner.net
+    github: http://github.com/jzelner
+    twitter: http://twitter.com/jzelner
 ---
 
 
