@@ -40,6 +40,11 @@ related-list:
     github: http://github.com/thibautjombart/outbreaker
     url: http://github.com/thibautjombart/outbreaker
     img: /img/projects/red.png
+  - name: DSAIDE
+    desc: Dynamical Systems Approach to Infectious Disease Epidemiology - a Shiny/R based teaching tool.
+    github: http://github.com/ahgroup/DSAIDE
+    url: http://github.com/ahgroup/DSAIDE
+    img: /img/projects/blue.png
 upcoming-list:
   - name: cleanr
     desc: Rationalised and reproducible data cleaning.
