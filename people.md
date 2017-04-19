@@ -73,6 +73,9 @@ people-list:
     website: https://ammer.tweakblogs.net/
     url: https://ammer.tweakblogs.net/
     twitter: https://twitter.com/Ammer_B
+  - name: Robert Balshaw
+    img: /img/people/robert-balshaw.jpg
+    desc: Caretaker for the aberration detection algorithm PHIDO, shiny developer. British Columbia Centre for Disease Control, Canada.
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
@@ -242,6 +245,9 @@ people-list:
   - name: Christian Massidi
     img: /img/people/christian-massidi.jpg
     desc: Data developer. World Health Organization, Congo, Republic.
+  - name: Kevin McDermott
+    img: /img/people/kevin-mcdermott.jpg
+    desc: Water research using molecular biology, microbiology, bioinformatics and data science. Public Health Ontario, Canada.
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
