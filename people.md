@@ -255,6 +255,13 @@ people-list:
     url: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Pawel Piatkowski
+    img: /img/people/pawel-piatkowski.jpg
+    desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working for Genentech/Roche), Poland.
+    website: http://cosi1.github.io/
+    url: http://cosi1.github.io/
+    github: https://github.com/cosi1/
+    twitter: https://github.com/cosi1/
   - name: Jonathan Polonsky
     img: /img/people/jonathan-polonsky.jpg
     desc: Epidemiologist focusing on humanitarian and outbreak settings. I use R for automating analyses and reproducible reporting. World Health Organisation, Switzerland.
