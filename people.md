@@ -261,7 +261,7 @@ people-list:
     website: http://cosi1.github.io/
     url: http://cosi1.github.io/
     github: https://github.com/cosi1/
-    twitter: https://github.com/cosi1/
+    twitter: https://twitter.com/Cosi1125
   - name: Jonathan Polonsky
     img: /img/people/jonathan-polonsky.jpg
     desc: Epidemiologist focusing on humanitarian and outbreak settings. I use R for automating analyses and reproducible reporting. World Health Organisation, Switzerland.
