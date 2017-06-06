@@ -250,7 +250,7 @@ people-list:
     desc: Water research using molecular biology, microbiology, bioinformatics and data science. Public Health Ontario, Canada.
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
-    desc: Spatial statistics and disease surveillance. Lancaster University, UK. Lancaster University, United Kingdom.
+    desc: Spatial statistics and disease surveillance. Lancaster University, UK.
     website: https://paula-moraga.github.io/
     url: https://paula-moraga.github.io/
     github: https://github.com/Paula-Moraga
