@@ -248,6 +248,13 @@ people-list:
   - name: Kevin McDermott
     img: /img/people/kevin-mcdermott.jpg
     desc: Water research using molecular biology, microbiology, bioinformatics and data science. Public Health Ontario, Canada.
+  - name: Paula Moraga
+    img: /img/people/paula-moraga.jpg
+    desc: Spatial statistics and disease surveillance. Lancaster University, UK. Lancaster University, United Kingdom.
+    website: https://paula-moraga.github.io/
+    url: https://paula-moraga.github.io/
+    github: https://github.com/Paula-Moraga
+    twitter: https://twitter.com/paumose
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
