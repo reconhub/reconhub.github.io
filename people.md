@@ -262,6 +262,12 @@ people-list:
     url: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Pierre Nouvellet
+    img: /img/people/pierre-nouvellet.jpg
+    desc: Modelling for outbreak response and zoonotic diseases. Imperial College London, UK.
+    website: https://www.imperial.ac.uk/people/p.nouvellet
+    url: https://www.imperial.ac.uk/people/p.nouvellet
+    github: https://github.com/pnouvellet
   - name: Pawel Piatkowski
     img: /img/people/pawel-piatkowski.jpg
     desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working for Genentech/Roche), Poland.
