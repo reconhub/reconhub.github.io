@@ -77,7 +77,7 @@ upcoming-list:
     url: http://www.repidemicsconsortium.org/earlyR/
     img: /img/projects/blue.png
   - name: epicontacts.ui
-    desc: Graphical user interface for *epicontacts*
+    desc: Graphical user interface for epicontacts
     github: http://github.com/reconhub/epicontacts.ui
     url: http://www.repidemicsconsortium.org/epicontacts.ui
     img: /img/projects/blue.png
@@ -92,7 +92,7 @@ upcoming-list:
     url: http://github.com/reconhub/epitrix
     img: /img/projects/purple.png
   - name: incidence.ui
-    desc: Graphical user interface for *incidence*
+    desc: Graphical user interface for incidence
     github: http://github.com/reconhub/incidence.ui
     url: http://github.com/reconhub/incidence.ui
     img: /img/projects/yellow.png
