@@ -8,6 +8,11 @@ recon-list:
     url: http://reconhub.github.io/outbreaks
     website: http://reconhub.github.io/outbreaks
     img: /img/projects/blue.png
+  - name: epicontacts
+    desc: Handling, visualisation and analysis of epidemiological contacts.
+    github: http://github.com/reconhub/epicontacts
+    url: http://reconhub.github.io/incidence
+    img: /img/projects/purple.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: http://github.com/reconhub/incidence
@@ -46,35 +51,70 @@ related-list:
     url: http://github.com/ahgroup/DSAIDE
     img: /img/projects/blue.png
 upcoming-list:
+  - name: branchr
+    desc: R Estimation from Cluster Sizes
+    github: http://github.com/reconhub/branchr
+    url: http://github.com/reconhub/branchr
+    img: /img/projects/green.png
   - name: cleanr
     desc: Rationalised and reproducible data cleaning.
     github: http://github.com/Hackout3/cleanr
     url: http://github.com/Hackout3/cleanr
-    img: /img/projects/blue.png
+    img: /img/projects/purple.png
   - name: dibbler
     desc: Investigation of food-borne disease outbreaks.
-    github: http://github.com/thibautjombart/dibbler
-    url: http://github.com/thibautjombart/dibbler
+    github: http://github.com/reconhub/dibbler
+    url: http://github.com/reconhub/dibbler
     img: /img/projects/green.png
   - name: distcrete
     desc: Discretized probability distributions.
     github: http://github.com/reconhub/distcrete
     url: http://github.com/reconhub/distcrete
     img: /img/projects/yellow.png
-  - name: epicontacts
-    desc: Handling, visualisation and analysis of epidemiological contacts.
-    github: http://github.com/Hackout3/epicontacts
-    url: http://github.com/Hackout3/epicontacts
-    img: /img/projects/purple.png
+  - name: earlyR
+    desc: Estimation of infectiousness in the early stage of an outbreak
+    github: http://github.com/reconhub/earlyR
+    url: http://www.repidemicsconsortium.org/earlyR/
+    img: /img/projects/blue.png
+  - name: epicontacts.ui
+    desc: Graphical user interface for *epicontacts*
+    github: http://github.com/reconhub/epicontacts.ui
+    url: http://www.repidemicsconsortium.org/epicontacts.ui
+    img: /img/projects/blue.png
   - name: epimatch
     desc: Finding matching patient records across tabular data sets.
     github: http://github.com/Hackout3/epimatch
     url: http://github.com/Hackout3/epimatch
     img: /img/projects/orange.png
+  - name: epitrix
+    desc: Small utilitary functions for epidemiology
+    github: http://github.com/reconhub/epitrix
+    url: http://github.com/reconhub/epitrix
+    img: /img/projects/purple.png
+  - name: incidence.ui
+    desc: Graphical user interface for *incidence*
+    github: http://github.com/reconhub/incidence.ui
+    url: http://github.com/reconhub/incidence.ui
+    img: /img/projects/yellow.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
-    github: http://github.com/thibautjombart/outbreaker2
-    url: http://github.com/thibautjombart/outbreaker2
+    github: http://github.com/reconhub/outbreaker2
+    url: http://github.com/reconhub/outbreaker2
+    img: /img/projects/red.png
+  - name: projections
+    desc: Projections of future incidence
+    github: http://github.com/reconhub/projections
+    url: http://github.com/reconhub/projections
+    img: /img/projects/green.png
+  - name: recon.ui
+    desc: Template shiny GUI for RECON packages
+    github: http://github.com/reconhub/recon.ui
+    url: http://github.com/reconhub/recon.ui
+    img: /img/projects/purple.png
+  - name: recontools
+    desc: Tools to develop RECON packages
+    github: http://github.com/reconhub/recontools
+    url: http://github.com/reconhub/recontools
     img: /img/projects/red.png
   - name: vimes
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
