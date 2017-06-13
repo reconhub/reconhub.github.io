@@ -71,6 +71,11 @@ upcoming-list:
     github: http://github.com/reconhub/distcrete
     url: http://github.com/reconhub/distcrete
     img: /img/projects/yellow.png
+  - name: docker
+    desc: Docker images for RECON packages
+    github: http://github.com/reconhub/docker
+    url: http://github.com/reconhub/docker
+    img: /img/projects/red.png
   - name: earlyR
     desc: Estimation of infectiousness in the early stage of an outbreak
     github: http://github.com/reconhub/earlyR
