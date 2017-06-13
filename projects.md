@@ -45,8 +45,9 @@ related-list:
     github: http://github.com/thibautjombart/outbreaker
     url: http://github.com/thibautjombart/outbreaker
     img: /img/projects/red.png
- - name: surveillance
+  - name: surveillance
     desc: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
+    github: http://surveillance.r-forge.r-project.org/
     url: http://surveillance.r-forge.r-project.org/
     img: /img/projects/red.png
   - name: DSAIDE
