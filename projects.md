@@ -45,6 +45,11 @@ related-list:
     github: http://github.com/thibautjombart/outbreaker
     url: http://github.com/thibautjombart/outbreaker
     img: /img/projects/red.png
+ - name: surveillance
+    desc: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
+    github: https://r-forge.r-project.org/tracker/?group_id=45
+    url: http://surveillance.r-forge.r-project.org/
+    img: /img/projects/red.png
   - name: DSAIDE
     desc: Dynamical Systems Approach to Infectious Disease Epidemiology - a Shiny/R based teaching tool.
     github: http://github.com/ahgroup/DSAIDE
@@ -82,7 +87,7 @@ upcoming-list:
     url: http://www.repidemicsconsortium.org/earlyR/
     img: /img/projects/blue.png
   - name: epicontacts.ui
-    desc: Graphical user interface for epicontacts
+    desc: Graphical user interface for <i>epicontacts</i>
     github: http://github.com/reconhub/epicontacts.ui
     url: http://www.repidemicsconsortium.org/epicontacts.ui
     img: /img/projects/blue.png
@@ -97,7 +102,7 @@ upcoming-list:
     url: http://github.com/reconhub/epitrix
     img: /img/projects/purple.png
   - name: incidence.ui
-    desc: Graphical user interface for incidence
+    desc: Graphical user interface for <i>incidence</i>
     github: http://github.com/reconhub/incidence.ui
     url: http://github.com/reconhub/incidence.ui
     img: /img/projects/yellow.png
