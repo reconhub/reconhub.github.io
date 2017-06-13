@@ -3,7 +3,13 @@
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
-The **R** **E**pidemics **Con**sortium (RECON) assembles a group of international experts in infectious disease modelling, Public Health, and software development to create the next generation of analysis tools for disease outbreak response using the R software. This includes packages specifically designed for handling, visualising, and analysing outbreak data using cutting-edge statistical methods, as well as more general-purpose tools for data cleaning, versioning, and encryption.
+The **R** **E**pidemics **Con**sortium (RECON) assembles a group of
+international experts in infectious disease modelling, Public Health, and
+software development to create the next generation of analysis tools for disease
+outbreak response using the R software. This includes packages specifically
+designed for handling, visualising, and analysing outbreak data using
+cutting-edge statistical methods, as well as more general-purpose tools for data
+cleaning, versioning, and encryption, and system infrastructure.
 
 Our approach aims to fulfil three key aspects:
 
