@@ -89,7 +89,7 @@ upcoming-list:
   - name: epicontacts.ui
     desc: Graphical user interface for <i>epicontacts</i>
     github: http://github.com/reconhub/epicontacts.ui
-    url: http://www.repidemicsconsortium.org/epicontacts.ui
+    url: http://github.com/reconhub/epicontacts.ui
     img: /img/projects/blue.png
   - name: epimatch
     desc: Finding matching patient records across tabular data sets.
