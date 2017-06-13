@@ -49,7 +49,7 @@ related-list:
     desc: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
     github: http://surveillance.r-forge.r-project.org/
     url: http://surveillance.r-forge.r-project.org/
-    img: /img/projects/red.png
+    img: /img/projects/green.png
   - name: DSAIDE
     desc: Dynamical Systems Approach to Infectious Disease Epidemiology - a Shiny/R based teaching tool.
     github: http://github.com/ahgroup/DSAIDE
