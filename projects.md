@@ -47,7 +47,6 @@ related-list:
     img: /img/projects/red.png
  - name: surveillance
     desc: Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
-    github: https://r-forge.r-project.org/tracker/?group_id=45
     url: http://surveillance.r-forge.r-project.org/
     img: /img/projects/red.png
   - name: DSAIDE
