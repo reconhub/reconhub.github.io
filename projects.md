@@ -7,7 +7,7 @@ recon-list:
     github: http://github.com/reconhub/outbreaks
     url: http://reconhub.github.io/outbreaks
     website: http://reconhub.github.io/outbreaks
-    img: /img/projects/blue.png
+    img: http://raw.githubusercontent.com/reconhub/outbreaks/master/logo/logo.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
