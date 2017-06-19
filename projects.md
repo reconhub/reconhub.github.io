@@ -11,7 +11,7 @@ recon-list:
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
-    url: http://reconhub.github.io/incidence
+    url: http://reconhub.github.io/epicontacts
     img: /img/projects/purple.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
