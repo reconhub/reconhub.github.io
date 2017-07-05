@@ -205,6 +205,9 @@ people-list:
   - name: Ioannis Karagiannis
     img: /img/people/ioannis-karagiannis.jpg
     desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, UK.
+  - name: Patrick Keating
+    img: /img/people/patrick-keating.jpg
+    desc: Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Eben Kenah
     img: /img/people/eben-kenah.jpg
     desc: Survival analysis of infectious disease transmission data. University of Florida, USA.
@@ -274,6 +277,12 @@ people-list:
     github: https://github.com/AjayOza
     url: https://github.com/AjayOza
     twitter: https://twitter.com/ajayoza_actual
+  - name: Julia Palacios
+    img: /img/people/julia-palacios.jpg
+    desc: Method development and implementation of phylodynamic methods for infectious diseases. Stanford University, USA.
+    website: http://juliapalacios.github.io/
+    url: http://juliapalacios.github.io/
+    github: https://github.com/JuliaPalacios
   - name: Pawel Piatkowski
     img: /img/people/pawel-piatkowski.jpg
     desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working for Genentech/Roche), Poland.
