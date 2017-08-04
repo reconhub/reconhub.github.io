@@ -321,6 +321,13 @@ people-list:
     github: https://github.com/noamross/
     url: https://github.com/noamross/
     twitter: https://twitter.com/noamross
+  - name: Barry Rowlingson
+    img: /img/people/barry-rowlingson.jpg
+    desc: Spatial statistician and data scientist (R, Python) on tropical diseases and health surveillance. Lancaster University, UK.
+    website: http://barry.rowlingson.com/
+    url: http://barry.rowlingson.com/
+    github: https://github.com/barryrowlingson
+    twitter: https://twitter.com/geospacedman
   - name: Maria Saavedra-Campos
     img: /img/people/maria-saavedra-campos.jpg
     desc: Senior epidemiology scientist involved in outbreak investigation, surveillance and research. Public Health England, UK.
