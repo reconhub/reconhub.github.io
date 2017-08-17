@@ -155,6 +155,13 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     url: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: Stephan Gloeckner
+    img: /img/people/stephan-gloeckner.jpg
+    desc: Epidemiologist / computer scientist working on outbreak detection algorithms using R and python. Helmholtz Centre for Infection Research, Germany.
+    website: https://www.researchgate.net/profile/Stephan_Gloeckner
+    url: https://www.researchgate.net/profile/Stephan_Gloeckner
+    github: https://github.com/gstephan30
+    twitter: https://twitter.com/ericlindros84
   - name: Joana Gomes Dias
     img: /img/people/joana-gomes-dias.jpg
     desc: Expert Biostatistics at ECDC. Applied statistical modelling. Epidemiology and Infection diseases. European Centre for Disease Prevention and Control (ECDC), Sweden.
