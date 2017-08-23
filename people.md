@@ -155,6 +155,13 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     url: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: Stephan Gloeckner
+    img: /img/people/stephan-gloeckner.jpg
+    desc: Epidemiologist / computer scientist working on outbreak detection algorithms using R and python. Helmholtz Centre for Infection Research, Germany.
+    website: https://www.researchgate.net/profile/Stephan_Gloeckner
+    url: https://www.researchgate.net/profile/Stephan_Gloeckner
+    github: https://github.com/gstephan30
+    twitter: https://twitter.com/ericlindros84
   - name: Joana Gomes Dias
     img: /img/people/joana-gomes-dias.jpg
     desc: Expert Biostatistics at ECDC. Applied statistical modelling. Epidemiology and Infection diseases. European Centre for Disease Prevention and Control (ECDC), Sweden.
@@ -321,6 +328,13 @@ people-list:
     github: https://github.com/noamross/
     url: https://github.com/noamross/
     twitter: https://twitter.com/noamross
+  - name: Barry Rowlingson
+    img: /img/people/barry-rowlingson.jpg
+    desc: Spatial statistician and data scientist (R, Python) on tropical diseases and health surveillance. Lancaster University, UK.
+    website: http://barry.rowlingson.com/
+    url: http://barry.rowlingson.com/
+    github: https://github.com/barryrowlingson
+    twitter: https://twitter.com/geospacedman
   - name: Maria Saavedra-Campos
     img: /img/people/maria-saavedra-campos.jpg
     desc: Senior epidemiology scientist involved in outbreak investigation, surveillance and research. Public Health England, UK.

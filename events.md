@@ -24,5 +24,8 @@ bringing people together to make new advances in the development of tools for
 outbreak response.
 
 - [Hackfest 1](http://www.repidemicsconsortium.org/hackfest1/) (2017, London):
-  *making outbreak analysis easier and prettier.*
+  *making outbreak analysis easier and prettier*
+
+- [Hackfest 2](http://www.repidemicsconsortium.org/hackfest2/) (2017, London):
+  *mapping epidemics*
 
