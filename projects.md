@@ -66,6 +66,11 @@ upcoming-list:
     github: http://github.com/Hackout3/cleanr
     url: http://github.com/Hackout3/cleanr
     img: /img/projects/purple.png
+  - name: deployer
+    desc: Portable environment for epidemics analysis
+    github: http://github.com/reconhub/deployer
+    url: http://github.com/reconhub/deployer
+    img: /img/projects/yellow.png
   - name: dibbler
     desc: Investigation of food-borne disease outbreaks.
     github: http://github.com/reconhub/dibbler
@@ -90,6 +95,16 @@ upcoming-list:
     desc: Graphical user interface for <i>epicontacts</i>
     github: http://github.com/reconhub/epicontacts.ui
     url: http://github.com/reconhub/epicontacts.ui
+    img: /img/projects/red.png
+  - name: epiflows
+    desc: Visualisation and analysis of passenger flows
+    github: https://github.com/reconhub/epiflows
+    url: https://github.com/reconhub/epiflows
+    img: /img/projects/purple.png
+  - name: epimaps
+    desc: Helpers and wrappers for mapping diseases
+    github: https://github.com/reconhub/epimaps
+    url: https://github.com/reconhub/epimaps
     img: /img/projects/blue.png
   - name: epimatch
     desc: Finding matching patient records across tabular data sets.
@@ -101,11 +116,21 @@ upcoming-list:
     github: http://github.com/reconhub/epitrix
     url: http://github.com/reconhub/epitrix
     img: /img/projects/purple.png
+  - name: gisfirstaid
+    desc: Tutorials and code gists for mapping infectious diseases
+    github: https://github.com/reconhub/gisfirstaid 
+    url: https://gisfirstaid.netlify.com/
+    img: /img/projects/red.png
   - name: incidence.ui
     desc: Graphical user interface for <i>incidence</i>
     github: http://github.com/reconhub/incidence.ui
     url: http://github.com/reconhub/incidence.ui
     img: /img/projects/yellow.png
+  - name: nomad
+    desc: Pack up R to take away
+    github: http://github.com/reconhub/nomad
+    url: http://github.com/reconhub/nomad
+    img: /img/projects/green.png
   - name: outbreaker2
     desc: Inferring transmission chains by integrating epidemiological and genetic data.
     github: http://github.com/reconhub/outbreaker2
@@ -147,7 +172,7 @@ These packages have been developed following RECON's standards, are fully functi
 
 <br>
 
-## Up-and-coming packages
+## Up-and-coming packages and projects
 The RECON packages listed below are still in development. They may be functional already, but a stable version has yet to be released.
 
 {% include list-circles.html items=page.upcoming-list %}
