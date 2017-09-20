@@ -384,6 +384,12 @@ people-list:
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
     website: http://www.robin-thompson.co.uk
     url: http://www.robin-thompson.co.uk
+  - name: Salla Toikkanen
+    img: /img/people/salla-toikkanen.jpg
+    desc: Statistical and epidemiological analysis of infectious disease surveillance data. EPIET alumnus. National Institute for Health and Welfare, Finland.
+    github: https://github.com/stoikkanen/
+    url: https://github.com/stoikkanen/
+    twitter: https://twitter.com/stoekkane
   - name: Sai Thein Than Tun
     img: /img/people/sai-thein-than-tun.jpg
     desc: Mathematical and economic modeller with some experience in R package development. Mahidol-Oxford Tropical Medicine Research Unit, Myanmar.
