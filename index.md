@@ -5,7 +5,7 @@
 
 The **R** **E**pidemics **Con**sortium (RECON) assembles a group of
 international experts in infectious disease modelling, Public Health, and
-software development to create the **next generation of analysis tools for disease
+software development to create the **next generation of tools for disease
 outbreak analysis** using the [R software](https://www.r-project.org/).
 
 This includes packages specifically designed for handling, visualising, and
