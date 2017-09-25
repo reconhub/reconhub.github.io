@@ -19,4 +19,15 @@ Our approach aims to fulfil three key aspects:
 
 - *Accessibility*: our tools are free, open-source, and available on virtually any platform; they can be used with different levels of expertise, and provide graphical user interfaces implementing the most important functionalities.
 
-Besides its active involvement in the creation of tools, RECON also provides expertise to encourage and promote the use of R for epidemics analysis. See our [resources](/resources) section as well as the [RECON forum](/forum).
+<br>
+
+Besides its active involvement in the creation of tools, RECON is also increasingly dedicated to:
+
+- *disseminating knowledge*: RECON is developing a new training platform, and a
+   series of workshops and short courses on epidemics analysis and outbreak
+   response. Our [public forum ](/forum) is also dedicated to sharing exptertise
+   on these topics.
+
+- *outbreak response deployment*: RECON supports the deployment of data analysts
+   to the field as part of outbreak response teams; this includes the deployment
+   of staff as well as analysis systems adapted to low resources settings.
