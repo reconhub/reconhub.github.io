@@ -69,7 +69,7 @@ people-list:
     twitter: https://twitter.com/marcbaguelin
   - name: Amrish Baidjoe
     img: /img/people/amrish-baidjoe.jpg
-    desc: Infectious disease microbiologist / epidemiologist, with a strong affinity towards applied studies. Institut Pasteur / European Centre for Disease Prevention and Control, France.
+    desc: Field epidemiologist, outbreak response expert, and RECON trainer / analyst. Imperial College London, UK.
     website: https://ammer.tweakblogs.net/
     url: https://ammer.tweakblogs.net/
     twitter: https://twitter.com/Ammer_B
