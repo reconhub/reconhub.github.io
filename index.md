@@ -15,11 +15,11 @@ infrastructure.
 
 Our packages must fulfil three key aspects:
 
-- ** *Efficiency* **: our tools can be used in real time to improve situation awareness and inform intervention strategies.
+- *Efficiency*: our tools can be used in real time to improve situation awareness and inform intervention strategies.
 
-- ** *Reliability* **: our tools are thoroughly and constantly tested using professional software development methods.
+- *Reliability*: our tools are thoroughly and constantly tested using professional software development methods.
 
-- ** *Accessibility* **: our tools are free, open-source, and available on virtually any platform; they can be used with different levels of expertise, and provide graphical user interfaces implementing the most important functionalities.
+- *Accessibility*: our tools are free, open-source, and available on virtually any platform; they can be used with different levels of expertise, and provide graphical user interfaces implementing the most important functionalities.
 
 Besides its active involvement in the creation of tools, RECON is also increasingly dedicated to:
 
