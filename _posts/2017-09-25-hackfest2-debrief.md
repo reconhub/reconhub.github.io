@@ -31,7 +31,7 @@ aid**](https://gisfirstaid.netlify.com/) which contains gists of code for
 various types of maps. This platform is still under development, with the aim to
 facilitate further contributions from the community.
 
-<iframe src="https://gisfirstaid.netlify.com/" width="600" height="200">
+<iframe src="https://gisfirstaid.netlify.com/" width="600" height="400">
 	Snapshot of https://gisfirstaid.netlify.com/.
 </iframe>
 [sneak peek of GISfirstaid; click [here](http://gisfirstaid.netlify.com) for the full website ]
@@ -53,7 +53,7 @@ Blake](http://www.imperial.ac.uk/people/isobel.blake)'s
 
 
 
-### How can I contribute?
+### How to contribute?
 
 [**GIS first aid**](https://gisfirstaid.netlify.com/) has been designed as a
 contributed website. If you have some experience with
