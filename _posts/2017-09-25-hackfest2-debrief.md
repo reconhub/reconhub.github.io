@@ -31,10 +31,10 @@ aid**](https://gisfirstaid.netlify.com/) which contains gists of code for
 various types of maps. This platform is still under development, with the aim to
 facilitate further contributions from the community.
 
-<iframe src="https://gisfirstaid.netlify.com/" width="300" height="200">
+<iframe src="https://gisfirstaid.netlify.com/" width="600" height="200">
 	Snapshot of https://gisfirstaid.netlify.com/.
 </iframe>
-
+[sneak peek of GISfirstaid; click [here](http://gisfirstaid.netlify.com) for the full website ]
 
 We also created two new packages to address specific needs:
 
