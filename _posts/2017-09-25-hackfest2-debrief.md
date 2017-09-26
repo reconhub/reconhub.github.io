@@ -1,5 +1,5 @@
 ---
-title: <i>Hackfest 2</i>: mapping diseases 
+title: <i>Hackfest 2<i> -- mapping diseases 
 subtitle: What have we been up to?
 bigimg: /img/banners/devel.jpg
 ---
@@ -51,3 +51,15 @@ Blake](http://www.imperial.ac.uk/people/isobel.blake)'s
 `incidence` objects and shapefiles to produce maps time series.
 
 
+
+
+### How can I contribute?
+
+[**GIS first aid**](https://gisfirstaid.netlify.com/) has been designed as a
+contributed website. If you have some experience with
+[github](https://github.com/) and [Rmarkdown](http://rmarkdown.rstudio.com/),
+contributing should be very easy -- merely a pull request after adding your own
+article(s).
+
+More information on this on our [github
+page](https://github.com/reconhub/gisfirstaid).
