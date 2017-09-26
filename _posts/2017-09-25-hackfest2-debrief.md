@@ -1,5 +1,5 @@
 ---
-title: <i>Hackfest 2<i> -- mapping diseases 
+title: "<i>Hackfest 2</i>: mapping diseases "
 subtitle: What have we been up to?
 bigimg: /img/banners/devel.jpg
 ---
