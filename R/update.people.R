@@ -2,110 +2,115 @@
 ## RECON registration google forms.
 
 read.registrations <- function(title = "Registrations", quiet=FALSE){
+  if (!require("googlesheets")) {
+    devtools::install_github("jennybc/googlesheets")
     if (!require("googlesheets")) {
-        devtools::install_github("jennybc/googlesheets")
-        if (!require("googlesheets")) {
-            stop("googlesheets is not present and cannot be installed")
-        }
+      stop("googlesheets is not present and cannot be installed")
     }
+  }
 
-    tib <- gs_read(gs_title(title))
-    tib <- as.data.frame(tib)
+  tib <- gs_read(gs_title(title))
+  tib <- as.data.frame(tib)
 
-    ## Processing of the tibble: we need to ensure lower case for the column
-    ## names, and to sort
+  ## Processing of the tibble: we need to ensure lower case for the column
+  ## names, and to sort
 
-    ## the entries as follows:
-    ## 1st: Jombart
-    ## rest: alphabetically after the last name
+  ## the entries as follows:
+  ## 1st: Jombart
+  ## rest: alphabetically after the last name
 
-    names(tib) <- tolower(names(tib))
-    lastnames <- tolower(tib[, 3])
-    rownames(tib) <- lastnames
+  names(tib) <- tolower(names(tib))
+  lastnames <- tolower(tib[, 3])
+  firstnames <- tolower(tib[, 2])
+  fullnames <- paste(lastnames, firstnames, sep = "_")
+  tj <- "thibaut_jombart"
+  rownames(tib) <- fullnames
 
-    id.tj <- grep("jombart", lastnames)
-    if (length(id.tj > 0)) {
-        order <- c("jombart", sort(setdiff(lastnames, "jombart")))
-    } else {
-        order <- order(lastnames)
-    }
+  id.tj <- grep(tj, fullnames)
+  if (length(id.tj > 0)) {
+    order <- c(tj, sort(setdiff(fullnames, tj)))
+  } else {
+    order <- order(fullnames)
+  }
 
-    tib <- tib[order, ]
+  tib <- tib[order, ]
 
-    ## The output will be the 'people-list:' item from the header of the .md
-    ## file. We make a character vector, each item being a separate line in the
-    ## output. The function 'read.one' will read one record and shape it into
-    ## the relevant characters.
+  ## The output will be the 'people-list:' item from the header of the .md
+  ## file. We make a character vector, each item being a separate line in the
+  ## output. The function 'read.one' will read one record and shape it into
+  ## the relevant characters.
 
-    out <- "people-list:"
+  out <- "people-list:"
 
-    read.one <- function(x){
+  read.one <- function(x){
 
-        ## name
-        out <- paste("  - name:", x[2], x[3], sep=" ")
+    ## name
+    out <- paste("  - name:", x[2], x[3], sep=" ")
 
-        ## image
-        img.txt <- tolower(paste0("    img: /img/people/",
-                                     gsub(" ", "-", x[2]),
-                                     "-",
-                                     gsub(" ", "-",  x[3]),
-                                     ".jpg"))
-        img.txt <- gsub("&ouml;", "o", img.txt)
-
-        out <- c(out, img.txt)
-
-        ## if image does not exist, copy the anonymous pic by default
-        path.to.pic <- tolower(paste0("../img/people/",
-                              gsub(" ", "-", x[2]), "-",
+    ## image
+    img.txt <- tolower(paste0("    img: /img/people/",
+                              gsub(" ", "-", x[2]),
+                              "-",
                               gsub(" ", "-",  x[3]),
                               ".jpg"))
+    img.txt <- gsub("&ouml;", "o", img.txt)
 
-        ## handle non ascii characters like ö
-        path.to.pic <- gsub("&ouml;", "o", path.to.pic)
+    out <- c(out, img.txt)
 
-        if (!file.exists(path.to.pic)) {
-            message("file ", path.to.pic, " does not exist - using default picture")
-            file.copy("../img/people/anonymous.jpg", path.to.pic)
-        }
+    ## if image does not exist, copy the anonymous pic by default
+    path.to.pic <- tolower(paste0("../img/people/",
+                                  gsub(" ", "-", x[2]), "-",
+                                  gsub(" ", "-",  x[3]),
+                                  ".jpg"))
 
-        ## description
-        x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
-        out <- c(out, paste(paste0("    desc: ", x[6]), " ", x[7], ", ", x[8], ".", collapse="", sep=""))
+    ## handle non ascii characters like ö
+    path.to.pic <- gsub("&ouml;", "o", path.to.pic)
 
-        ## website
-        if (!is.na(x$website)) {
-            out <- c(out, paste0("    website: ", x$website))
-            out <- c(out, paste0("    url: ", x$website))
-        }
-
-        ## github
-        if (!is.na(x$github)) {
-            out <- c(out, paste0("    github: ", x$github))
-            if (is.na(x$website)) {
-                            out <- c(out, paste0("    url: ", x$github))
-            }
-        }
-
-        ## twitter
-        if (!is.na(x$twitter)) {
-            out <- c(out, paste0("    twitter: ", x$twitter))
-               if (is.na(x$website) && is.na(x$github)) {
-                            out <- c(out, paste0("    url: ", x$twitter))
-            }
-     }
-
-        return(out)
+    if (!file.exists(path.to.pic)) {
+      message("file ", path.to.pic, " does not exist - using default picture")
+      file.copy("../img/people/anonymous.jpg", path.to.pic)
     }
 
-    ## generate output - one item per row
-    out <- c(out, unlist(lapply(seq_len(nrow(tib)), function(i) read.one(tib[i, ]))))
-    out <- gsub("[.],", ",", out)
-    out <- gsub(" NA,", "", out)
+    ## description
+    x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
+    out <- c(out, paste(
+      paste0("    desc: ", x[6]), " ", x[7], ", ", x[8], ".", collapse="", sep=""))
 
-    if (!quiet) {
-        cat("\n\n\n *** Copy-paste the following into people.md's header ***\n", out, "\n\n", sep="\n")
+    ## website
+    if (!is.na(x$website)) {
+      out <- c(out, paste0("    website: ", x$website))
+      out <- c(out, paste0("    url: ", x$website))
     }
-    return(invisible(out))
+
+    ## github
+    if (!is.na(x$github)) {
+      out <- c(out, paste0("    github: ", x$github))
+      if (is.na(x$website)) {
+        out <- c(out, paste0("    url: ", x$github))
+      }
+    }
+
+    ## twitter
+    if (!is.na(x$twitter)) {
+      out <- c(out, paste0("    twitter: ", x$twitter))
+      if (is.na(x$website) && is.na(x$github)) {
+        out <- c(out, paste0("    url: ", x$twitter))
+      }
+    }
+
+    return(out)
+  }
+
+  ## generate output - one item per row
+  out <- c(out, unlist(lapply(seq_len(nrow(tib)), function(i) read.one(tib[i, ]))))
+  out <- gsub("[.],", ",", out)
+  out <- gsub(" NA,", "", out)
+
+  if (!quiet) {
+    cat("\n\n\n *** Copy-paste the following into people.md's header ***\n",
+        out, "\n\n", sep="\n")
+  }
+  return(invisible(out))
 
 }
 
@@ -115,17 +120,17 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
 
 ## This function generates a new, updated people.md
 update.people <- function(file = "../people.md", input = file, ...) {
-    current <- suppressWarnings(readLines(input))
-    head.stop <- grep("people-list", current)[1] - 1
-    tail.start <- tail(grep("---", current), 1)
-    replacement <- read.registrations(...)
+  current <- suppressWarnings(readLines(input))
+  head.stop <- grep("people-list", current)[1] - 1
+  tail.start <- tail(grep("---", current), 1)
+  replacement <- read.registrations(...)
 
-    out <- c(current[1:head.stop],
-             replacement,
-             current[tail.start:length(current)]
-             )
+  out <- c(current[1:head.stop],
+           replacement,
+           current[tail.start:length(current)]
+           )
 
-    cat("\n\n *** Create a new file:", file, "***\n")
-    cat(out, file = file, sep = "\n")
-    return(invisible(out))
+  cat("\n\n *** Create a new file:", file, "***\n")
+  cat(out, file = file, sep = "\n")
+  return(invisible(out))
 }

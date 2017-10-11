@@ -46,13 +46,6 @@ admin-list:
     url: http://www.imperial.ac.uk/people/e.markvardt
     desc: Administrative support. Imperial College London, UK.
 people-list:
-  - name: Thibaut Jombart
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
-    url: https://sites.google.com/site/thibautjombart/
-    github: https://github.com/thibautjombart/
-    twitter: https://twitter.com/TeebzR
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. Canada.
@@ -155,6 +148,13 @@ people-list:
     website: http://www.imperial.ac.uk/people/t.garske
     url: http://www.imperial.ac.uk/people/t.garske
     github: http://github.com/tinigarske
+  - name: George Githinji
+    img: /img/people/george-githinji.jpg
+    desc: Bioinformatician with a strong research interest in epidemiology. KEMRI-Wellcome Trust Research Programme, Kenya.
+    website: http://virec-group.org
+    url: http://virec-group.org
+    github: https://github.com/biorelated
+    twitter: https://twitter.com/george_l
   - name: Stephan Gloeckner
     img: /img/people/stephan-gloeckner.jpg
     desc: Epidemiologist / computer scientist working on outbreak detection algorithms using R and python. Helmholtz Centre for Infection Research, Germany.
@@ -190,6 +190,13 @@ people-list:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Thibaut Jombart
+    img: /img/people/thibaut-jombart.jpg
+    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
+    website: https://sites.google.com/site/thibautjombart/
+    url: https://sites.google.com/site/thibautjombart/
+    github: https://github.com/thibautjombart/
+    twitter: https://twitter.com/TeebzR
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
@@ -408,6 +415,13 @@ people-list:
     desc: Population genetics, phylogenetics, and mathematical epidemiology. Imperial College London, UK.
     github: https://github.com/emvolz
     url: https://github.com/emvolz
+  - name: Brooke Watson
+    img: /img/people/brooke-watson.jpg
+    desc: Epidemiologist studying ecological, biological, and behavioral drivers of zoonotic disease emergence. EcoHealth Alliance, USA.
+    website: https://brooke.science
+    url: https://brooke.science
+    github: https://github.com/brooke-watson
+    twitter: https://twitter.com/brooklynevery1
   - name: Oliver Watson
     img: /img/people/oliver-watson.jpg
     desc: Modeller and R programmer specialised in malaria population genetics. Imperial College London, UK.
