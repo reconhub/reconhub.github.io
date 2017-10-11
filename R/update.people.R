@@ -23,7 +23,7 @@ read.registrations <- function(title = "Registrations", quiet=FALSE){
   lastnames <- tolower(tib[, 3])
   firstnames <- tolower(tib[, 2])
   fullnames <- paste(lastnames, firstnames, sep = "_")
-  tj <- "thibaut_jombart"
+  tj <- "jombart_thibaut"
   rownames(tib) <- fullnames
 
   id.tj <- grep(tj, fullnames)

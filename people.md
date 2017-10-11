@@ -46,6 +46,13 @@ admin-list:
     url: http://www.imperial.ac.uk/people/e.markvardt
     desc: Administrative support. Imperial College London, UK.
 people-list:
+  - name: Thibaut Jombart
+    img: /img/people/thibaut-jombart.jpg
+    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
+    website: https://sites.google.com/site/thibautjombart/
+    url: https://sites.google.com/site/thibautjombart/
+    github: https://github.com/thibautjombart/
+    twitter: https://twitter.com/TeebzR
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. Canada.
@@ -190,13 +197,6 @@ people-list:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
-  - name: Thibaut Jombart
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://sites.google.com/site/thibautjombart/
-    url: https://sites.google.com/site/thibautjombart/
-    github: https://github.com/thibautjombart/
-    twitter: https://twitter.com/TeebzR
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
