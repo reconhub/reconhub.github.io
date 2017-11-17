@@ -101,6 +101,9 @@ people-list:
     github: https://github.com/tc13
     url: https://github.com/tc13
     twitter: https://twitter.com/TomCrellen
+  - name: Irina Czogiel
+    img: /img/people/irina-czogiel.jpg
+    desc: Statistician, bioinformatician and EPIET project supervisor, with expertise in machine learning methods for to epidemiological and molecular data. Robert Koch Institut, Germany.
   - name: Elisabeth Dahlqwist
     img: /img/people/elisabeth-dahlqwist.jpg
     desc: PhD student in biostatistics and R programmer. Karolinska Institutet, Department of Medical Epidemiology and Biostatistics, Sweden.
@@ -265,6 +268,11 @@ people-list:
   - name: Kevin McDermott
     img: /img/people/kevin-mcdermott.jpg
     desc: Water research using molecular biology, microbiology, bioinformatics and data science. Public Health Ontario, Canada.
+  - name: Lore Merdrignac
+    img: /img/people/lore-merdrignac.jpg
+    desc: Epidemiologist, Bioinformatics engineer, R and Shiny programmer. EpiConcept, France.
+    website: http://www.epiconcept.fr/en/
+    url: http://www.epiconcept.fr/en/
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -272,6 +280,9 @@ people-list:
     url: https://paula-moraga.github.io/
     github: https://github.com/Paula-Moraga
     twitter: https://twitter.com/paumose
+  - name: Roger Morbey
+    img: /img/people/roger-morbey.jpg
+    desc: Statistician working in public health real-time surveillance. Public Health England, UK.
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
@@ -345,6 +356,11 @@ people-list:
   - name: Maria Saavedra-Campos
     img: /img/people/maria-saavedra-campos.jpg
     desc: Senior epidemiology scientist involved in outbreak investigation, surveillance and research. Public Health England, UK.
+  - name: Adom San Koffi
+    img: /img/people/adom-san-koffi.jpg
+    desc: Field epidemiologist and outbreak response expert. World Health Organization, Côte d'Ivoire.
+    website: http://www.who.int/countries/civ/fr/
+    url: http://www.who.int/countries/civ/fr/
   - name: Sompob Saralamba
     img: /img/people/sompob-saralamba.jpg
     desc: Mathematical modeller and R programmer. Thailand.
@@ -378,7 +394,7 @@ people-list:
     url: https://github.com/aspina7
   - name: Tony Stewart
     img: /img/people/tony-stewart.jpg
-    desc: Medical epidemiologist working on international epidemics, with a background in tools development for response. WHO/Global Outbreak Alert and Response Network, Switzerland.
+    desc: Medical epidemiologist working on international epidemics, with a background in tools development for response. World Health Organization, GOARN, Switzerland.
     website: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
     url: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
   - name: Bertrand Sudre
