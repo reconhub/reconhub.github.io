@@ -13,7 +13,7 @@ recon-list:
     github: http://github.com/reconhub/epicontacts
     url: http://www.repidemicsconsortium.org/epicontacts
     website: http://www.repidemicsconsortium.org/epicontacts
-    img: http://raw.githubusercontent.com/reconhub/epitrix/master/logo/logo.png
+    img: http://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png
   - name: epitrix
     desc: Small helpers and tricks for epidemics analysis
     github: http://github.com/reconhub/epitrix
