@@ -37,7 +37,7 @@ recon-list:
     github: http://github.com/reconhub/outbreaks
     url: http://reconhub.github.io/outbreaks
     website: http://reconhub.github.io/outbreaks
-    img: http://raw.githubusercontent.com/reconhub/outbreaks/master/logo/logo.png
+    img: https://github.com/reconhub/outbreaker2/raw/master/logo/logo.png
   - name: RECON learn
     desc: Open training platform for epidemics analysis
     github: http://github.com/reconhub/learn 
