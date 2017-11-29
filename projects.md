@@ -31,7 +31,7 @@ recon-list:
     github: http://github.com/reconhub/outbreaker2
     url: http://www.repidemicsconsortium.org/outbreaker2/
     website: http://www.repidemicsconsortium.org/outbreaker2/
-    img: /img/projects/red.png
+    img: http://raw.githubusercontent.com/reconhub/outbreaker2/master/logo/logo.png
   - name: outbreaks
     desc: Collection of outbreak data.
     github: http://github.com/reconhub/outbreaks
