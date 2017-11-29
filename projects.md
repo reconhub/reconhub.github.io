@@ -7,7 +7,7 @@ recon-list:
     github: http://github.com/reconhub/distcrete
     url: http://www.repidemicsconsortium.org/distcrete
     website: http://www.repidemicsconsortium.org/distcrete
-    img: /img/projects/blue.png
+    img: http://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
