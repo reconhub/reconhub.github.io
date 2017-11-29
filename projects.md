@@ -7,7 +7,7 @@ recon-list:
     github: http://github.com/reconhub/distcrete
     url: http://www.repidemicsconsortium.org/distcrete
     website: http://www.repidemicsconsortium.org/distcrete
-    img: /img/projects/yellow.png
+    img: /img/projects/blue.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
@@ -19,7 +19,7 @@ recon-list:
     github: http://github.com/reconhub/epitrix
     url: http://www.repidemicsconsortium.org/epitrix/
     website: http://www.repidemicsconsortium.org/epitrix/
-    img: /img/projects/blue.png
+    img: http://raw.githubusercontent.com/reconhub/epitrix/master/logo/logo.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: http://github.com/reconhub/incidence
