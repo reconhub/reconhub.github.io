@@ -2,23 +2,43 @@
 title: Projects
 bigimg: /img/banners/devel.jpg
 recon-list:
-  - name: outbreaks
-    desc: Collection of outbreak data.
-    github: http://github.com/reconhub/outbreaks
-    url: http://reconhub.github.io/outbreaks
-    website: http://reconhub.github.io/outbreaks
-    img: http://raw.githubusercontent.com/reconhub/outbreaks/master/logo/logo.png
+  - name: distcrete
+    desc: Discretized probability distributions.
+    github: http://github.com/reconhub/distcrete
+    url: http://www.repidemicsconsortium.org/distcrete
+    img: /img/projects/yellow.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
     url: http://reconhub.github.io/epicontacts
     img: /img/projects/purple.png
+  - name: epitrix
+    desc: Small helpers and tricks for epidemics analysis
+    github: http://github.com/reconhub/epitrix
+    url: http://www.repidemicsconsortium.org/epitrix/
+    img: /img/projects/blue.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: http://github.com/reconhub/incidence
     url: http://reconhub.github.io/incidence
     website: http://reconhub.github.io/incidence
     img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
+  - name: outbreaker2
+    desc: Modular framework for outbreak reconstruction.
+    github: http://github.com/reconhub/outbreaker2
+    url: http://www.repidemicsconsortium.org/outbreaker2/
+    img: /img/projects/red.png
+  - name: outbreaks
+    desc: Collection of outbreak data.
+    github: http://github.com/reconhub/outbreaks
+    url: http://reconhub.github.io/outbreaks
+    website: http://reconhub.github.io/outbreaks
+    img: http://raw.githubusercontent.com/reconhub/outbreaks/master/logo/logo.png
+  - name: RECON learn
+    desc: Open training platform for epidemics analysis
+    github: https://github.com/reconhub/learn 
+    url: https://reconlearn.netlify.com
+    img: /img/projects/green.png
 related-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
@@ -76,11 +96,6 @@ upcoming-list:
     github: http://github.com/reconhub/dibbler
     url: http://github.com/reconhub/dibbler
     img: /img/projects/green.png
-  - name: distcrete
-    desc: Discretized probability distributions.
-    github: http://github.com/reconhub/distcrete
-    url: http://github.com/reconhub/distcrete
-    img: /img/projects/yellow.png
   - name: docker
     desc: Docker images for RECON packages
     github: http://github.com/reconhub/docker
@@ -111,11 +126,6 @@ upcoming-list:
     github: http://github.com/Hackout3/epimatch
     url: http://github.com/Hackout3/epimatch
     img: /img/projects/orange.png
-  - name: epitrix
-    desc: Small utilitary functions for epidemiology
-    github: http://github.com/reconhub/epitrix
-    url: http://github.com/reconhub/epitrix
-    img: /img/projects/purple.png
   - name: gisfirstaid
     desc: Tutorials and code gists for mapping infectious diseases
     github: https://github.com/reconhub/gisfirstaid 
@@ -131,11 +141,6 @@ upcoming-list:
     github: http://github.com/reconhub/nomad
     url: http://github.com/reconhub/nomad
     img: /img/projects/green.png
-  - name: outbreaker2
-    desc: Inferring transmission chains by integrating epidemiological and genetic data.
-    github: http://github.com/reconhub/outbreaker2
-    url: http://github.com/reconhub/outbreaker2
-    img: /img/projects/red.png
   - name: projections
     desc: Projections of future incidence
     github: http://github.com/reconhub/projections
