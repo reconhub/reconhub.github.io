@@ -6,16 +6,19 @@ recon-list:
     desc: Discretized probability distributions.
     github: http://github.com/reconhub/distcrete
     url: http://www.repidemicsconsortium.org/distcrete
+    website: http://www.repidemicsconsortium.org/distcrete
     img: /img/projects/yellow.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
-    url: http://reconhub.github.io/epicontacts
+    url: http://www.repidemicsconsortium.org/epicontacts
+    website: http://www.repidemicsconsortium.org/epicontacts
     img: /img/projects/purple.png
   - name: epitrix
     desc: Small helpers and tricks for epidemics analysis
     github: http://github.com/reconhub/epitrix
     url: http://www.repidemicsconsortium.org/epitrix/
+    website: http://www.repidemicsconsortium.org/epitrix/
     img: /img/projects/blue.png
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
@@ -27,6 +30,7 @@ recon-list:
     desc: Modular framework for outbreak reconstruction.
     github: http://github.com/reconhub/outbreaker2
     url: http://www.repidemicsconsortium.org/outbreaker2/
+    website: http://www.repidemicsconsortium.org/outbreaker2/
     img: /img/projects/red.png
   - name: outbreaks
     desc: Collection of outbreak data.
@@ -36,8 +40,9 @@ recon-list:
     img: http://raw.githubusercontent.com/reconhub/outbreaks/master/logo/logo.png
   - name: RECON learn
     desc: Open training platform for epidemics analysis
-    github: https://github.com/reconhub/learn 
-    url: https://reconlearn.netlify.com
+    github: http://github.com/reconhub/learn 
+    url: http://reconlearn.netlify.com
+    website: http://reconlearn.netlify.com
     img: /img/projects/green.png
 related-list:
   - name: EpiEstim
@@ -167,8 +172,10 @@ upcoming-list:
 
 <br>
 
-## Released packages
-These packages have been developed following RECON's standards, are fully functional, documented and tested, and have been released on CRAN.
+## Released projects and packages
+These projects are in a usable form. Packages have been developed following
+RECON's standards, are fully functional, documented and tested, and have been
+released on CRAN.
 
 {% include list-circles.html items=page.recon-list %}
 
@@ -177,8 +184,9 @@ These packages have been developed following RECON's standards, are fully functi
 
 <br>
 
-## Up-and-coming packages and projects
-The RECON packages listed below are still in development. They may be functional already, but a stable version has yet to be released.
+## Up-and-coming packages
+The RECON packages listed below are still in development. They may be functional
+already, but a stable version has yet to be released.
 
 {% include list-circles.html items=page.upcoming-list %}
 
@@ -188,6 +196,7 @@ The RECON packages listed below are still in development. They may be functional
 <br>
 
 ## Related packages
-The packages listed below mostly predate RECON, but have been authored by RECON members and are relevant for infectious disease epidemiology.
+The packages listed below mostly predate RECON, but have been authored by RECON
+members and are relevant for infectious disease epidemiology.
 
 {% include list-circles.html items=page.related-list %}
