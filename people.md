@@ -69,7 +69,7 @@ people-list:
     twitter: https://twitter.com/marcbaguelin
   - name: Amrish Baidjoe
     img: /img/people/amrish-baidjoe.jpg
-    desc: Field epidemiologist, outbreak response expert, and RECON trainer / analyst. Imperial College London, UK.
+    desc: Field epidemiologist, outbreak response expert, and RECON trainer / analyst. President of the EPIET alumni network. Imperial College London, UK.
     website: https://ammer.tweakblogs.net/
     url: https://ammer.tweakblogs.net/
     twitter: https://twitter.com/Ammer_B
