@@ -55,7 +55,7 @@ people-list:
     twitter: https://twitter.com/TeebzR
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
-    desc: Web and R developer, designer of the RECON website. Canada.
+    desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
     website: http://deanattali.com/
     url: http://deanattali.com/
     github: https://github.com/daattali/
@@ -89,6 +89,9 @@ people-list:
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fCampbell93
+  - name: David Champredon
+    img: /img/people/david-champredon.jpg
+    desc: Epidemic modelling. McMaster University, Canada.
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
