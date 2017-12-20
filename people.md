@@ -475,13 +475,6 @@ people-list:
     url: http://www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
-  - name: Thomas Yokota
-    img: /img/people/thomas-yokota.jpg
-    desc: Survey analysis with emphasis on working with small area estimates. USA.
-    website: http://www.thomasyokota.com
-    url: http://www.thomasyokota.com
-    github: https://github.com/Tyokota
-    twitter: https://twitter.com/thomasyokota
   - name: Jon Zelner
     img: /img/people/jon-zelner.jpg
     desc: outbreak reconstruction, spatial epidemiology, social determinants of infection risk. University of Michigan School of Public Health, USA.
