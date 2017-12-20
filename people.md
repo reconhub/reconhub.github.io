@@ -104,6 +104,13 @@ people-list:
     github: https://github.com/tc13
     url: https://github.com/tc13
     twitter: https://twitter.com/TomCrellen
+  - name: Zulma Cucunuba
+    img: /img/people/zulma-cucunuba.jpg
+    desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, United Kingdom.
+    website: http://www.imperial.ac.uk/people/zulma.cucunuba
+    url: http://www.imperial.ac.uk/people/zulma.cucunuba
+    github: https://github.com/zulmac
+    twitter: https://twitter.com/Zulma.Cucunuba
   - name: Irina Czogiel
     img: /img/people/irina-czogiel.jpg
     desc: Statistician, bioinformatician and EPIET project supervisor, with expertise in machine learning methods for to epidemiological and molecular data. Robert Koch Institut, Germany.
@@ -286,6 +293,13 @@ people-list:
   - name: Roger Morbey
     img: /img/people/roger-morbey.jpg
     desc: Statistician working in public health real-time surveillance. Public Health England, UK.
+  - name: Kamarul Imran Musa
+    img: /img/people/kamarul-imran-musa.jpg
+    desc: Quantitative epidemiologist and public health physician. School of Medical Sciences, Universiti Sains Malaysia, Malaysia.
+    website: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    url: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    github: https://github.com/drkamarul
+    twitter: https://twitter.com/kamarul_imran
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
@@ -343,6 +357,13 @@ people-list:
     desc: Mathematical and statistical modelling in infectious disease epidemiology, R programming. Austrian Agency for Food and Health Safety, Austria.
     github: https://github.com/lukric
     url: https://github.com/lukric
+  - name: Benjamin Roche
+    img: /img/people/benjamin-roche.jpg
+    desc: Evolutionary ecologist specialist in mathematical modeling of zoonotic diseases and optimization of public health strategies. IRD, France / Mexico.
+    website: http://roche.ben.googlepages.com
+    url: http://roche.ben.googlepages.com
+    github: https://github.com/rocheben
+    twitter: https://twitter.com/BenRocheGroup
   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Disease ecologist, working on zoonotic disease emergence, dynamical systems, economics and R programming standards. EcoHealth Alliance, USA.
@@ -383,6 +404,12 @@ people-list:
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
     github: https://github.com/EllieSherrardSmith
     url: https://github.com/EllieSherrardSmith
+  - name: Pavel Skums
+    img: /img/people/pavel-skums.jpg
+    desc: Epidemiology and intra-host viral evolution using computational genomics and mathematical modeling. Georgia State University, USA.
+    website: http://alan.cs.gsu.edu/compbel/
+    url: http://alan.cs.gsu.edu/compbel/
+    github: https://github.com/skumsp
   - name: Andy South
     img: /img/people/andy-south.jpg
     desc: R developer currently working on insecticide resistance in malaria vectors. Norwich, UK.
