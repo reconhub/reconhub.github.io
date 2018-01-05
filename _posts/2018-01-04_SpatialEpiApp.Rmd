@@ -4,7 +4,7 @@ author: "Paula Moraga"
 date: 2018-01-04
 categories: ["R"]
 tags: ["Disease mapping", "clusters", "Shiny", "leaflet"]
-banner: "img/2018-01-04_SpatialEpiApp/exinteractive.png"
+banner: "/img/posts/2018-01-04_SpatialEpiApp/exinteractive.png"
 ---
 
 
@@ -43,7 +43,7 @@ The 'Inputs' page is the first page we see when we launch the application. In th
 - Upload data (csv file with area id, date, population, cases and covariates);
 - Select analysis (temporal unit, date range, spatial or spatio-temporal analysis).
 
-<img src="/img/2018-01-04_SpatialEpiApp/exinput.png" width="100%">
+<img src="/img/posts/2018-01-04_SpatialEpiApp/exinput.png" width="100%">
 
 
 
@@ -57,7 +57,7 @@ In the 'Analysis' page we can visualize the data, perform the statistical analys
 - 'Estimate risk' which is used for estimating the disease risk and their uncertainty;
 - 'Detect clusters' used for the detection of disease clusters.
 
-<img src="/img/2018-01-04_SpatialEpiApp/animation.gif" width="100%">
+<img src="/img/posts/2018-01-04_SpatialEpiApp/animation.gif" width="100%">
 
 
 
@@ -68,21 +68,21 @@ The 'Analysis' page also contains four tabs called 'Interactive', 'Maps', 'Clust
 The 'Maps' tab shows a summary table, maps and temporal trend plots of the population, observed cases, expected cases, SIR, risk and lower and upper limits of 95% credible intervals that were obtained by clicking the 'Map Pop O E SIR' and the 'Estimate risk' buttons.
 
 
-<img src="/img/2018-01-04_SpatialEpiApp/exmaps.png" width="100%">
+<img src="/img/posts/2018-01-04_SpatialEpiApp/exmaps.png" width="100%">
 
 #### Clusters
 
 The 'Clusters tab' shows, for each of the dates of the period of study, a map with the clusters detected and a plot with all clusters over time. This tab also includes a table with the information relative to each of the clusters such as the areas included and the significance. 
 
 
-<img src="/img/2018-01-04_SpatialEpiApp/exclusters.png" width="100%">
+<img src="/img/posts/2018-01-04_SpatialEpiApp/exclusters.png" width="100%">
 
 #### Report
 
 In the 'Report tab' we can download a PDF document showing the results of our analysis. The report includes maps and tables summarizing the variables population, observed, expected, SIR, risk, lower and upper limits of the 95% credible intervals and clusters for each of the periods of time. 
 
 
-<img src="/img/2018-01-04_SpatialEpiApp/exreport.png" width="100%">
+<img src="/img/posts/2018-01-04_SpatialEpiApp/exreport.png" width="100%">
 
 ### Help
 The 'Help' button redirects to the 'Help' page which shows information about the use of the application, the statistiscal methodology and the developing tools employed.
