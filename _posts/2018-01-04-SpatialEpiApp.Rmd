@@ -1,7 +1,7 @@
 ---
 title: "Disease risk mapping and cluster detection with SpatialEpiApp"
-subtitle: "by Paula Moraga"
-bigimg: "/img/posts/2018-01-04-SpatialEpiApp/exinteractive.png"
+author: "Paula Moraga"
+bigimg: "/img/banner/binary.png"
 ---
 
 
