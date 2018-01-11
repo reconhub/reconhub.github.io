@@ -80,6 +80,11 @@ related-list:
     github: http://github.com/ahgroup/DSAIDE
     url: http://github.com/ahgroup/DSAIDE
     img: /img/projects/blue.png
+  - name: EpiModel
+    desc: Mathematical Modeling of Infectious Disease Dynamics
+    github: https://github.com/statnet/EpiModel
+    url: http://epimodel.org/
+    img: /img/projects/purple.png
 upcoming-list:
   - name: branchr
     desc: R Estimation from Cluster Sizes
