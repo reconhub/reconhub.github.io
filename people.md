@@ -292,7 +292,7 @@ people-list:
     url: http://www.epiconcept.fr/en/
   - name: Amy Mikhail
     img: /img/people/amy-mikhail.jpg
-    desc: Epidemiologist and R programmer, combining epidemiological and genomic data for early outbreak detection.  EUPHEM alum and EPIET/EUPHEM co-supervisor. Public Health England, UK.
+    desc: Epidemiologist and R programmer using genomics for early outbreak detection.  EUPHEM alum and EPIET/EUPHEM supervisor. Public Health England, UK.
     github: https://github.com/AmyMikhail
     url: https://github.com/AmyMikhail
   - name: Paula Moraga
