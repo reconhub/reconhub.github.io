@@ -55,7 +55,7 @@ people-list:
     twitter: https://twitter.com/TeebzR
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
-    desc: Web and R developer, designer of the RECON website. Canada.
+    desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
     website: http://deanattali.com/
     url: http://deanattali.com/
     github: https://github.com/daattali/
@@ -69,7 +69,7 @@ people-list:
     twitter: https://twitter.com/marcbaguelin
   - name: Amrish Baidjoe
     img: /img/people/amrish-baidjoe.jpg
-    desc: Field epidemiologist, outbreak response expert, and RECON trainer / analyst. Imperial College London, UK.
+    desc: Field epidemiologist, outbreak response expert, and RECON trainer / analyst. President of the EPIET alumni network. Imperial College London, UK.
     website: https://ammer.tweakblogs.net/
     url: https://ammer.tweakblogs.net/
     twitter: https://twitter.com/Ammer_B
@@ -89,6 +89,9 @@ people-list:
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fCampbell93
+  - name: David Champredon
+    img: /img/people/david-champredon.jpg
+    desc: Epidemic modelling. McMaster University, Canada.
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -101,6 +104,13 @@ people-list:
     github: https://github.com/tc13
     url: https://github.com/tc13
     twitter: https://twitter.com/TomCrellen
+  - name: Zulma Cucunuba
+    img: /img/people/zulma-cucunuba.jpg
+    desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, United Kingdom.
+    website: http://www.imperial.ac.uk/people/zulma.cucunuba
+    url: http://www.imperial.ac.uk/people/zulma.cucunuba
+    github: https://github.com/zulmac
+    twitter: https://twitter.com/Zulma.Cucunuba
   - name: Irina Czogiel
     img: /img/people/irina-czogiel.jpg
     desc: Statistician, bioinformatician and EPIET project supervisor, with expertise in machine learning methods for to epidemiological and molecular data. Robert Koch Institut, Germany.
@@ -200,6 +210,13 @@ people-list:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Samuel Jenness
+    img: /img/people/samuel-jenness.jpg
+    desc: Epidemic modeling, network science, HIV/STI epidemiology. Emory University, USA.
+    website: http://www.samueljenness.org
+    url: http://www.samueljenness.org
+    github: https://github.com/EpiModel
+    twitter: https://twitter.com/SamuelJenness
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
@@ -273,6 +290,11 @@ people-list:
     desc: Epidemiologist, Bioinformatics engineer, R and Shiny programmer. EpiConcept, France.
     website: http://www.epiconcept.fr/en/
     url: http://www.epiconcept.fr/en/
+  - name: Amy Mikhail
+    img: /img/people/amy-mikhail.jpg
+    desc: Epidemiologist and R programmer using genomics for early outbreak detection.  EUPHEM alum and EPIET/EUPHEM supervisor. Public Health England, UK.
+    github: https://github.com/AmyMikhail
+    url: https://github.com/AmyMikhail
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -283,6 +305,13 @@ people-list:
   - name: Roger Morbey
     img: /img/people/roger-morbey.jpg
     desc: Statistician working in public health real-time surveillance. Public Health England, UK.
+  - name: Kamarul Imran Musa
+    img: /img/people/kamarul-imran-musa.jpg
+    desc: Quantitative epidemiologist and public health physician. School of Medical Sciences, Universiti Sains Malaysia, Malaysia.
+    website: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    url: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    github: https://github.com/drkamarul
+    twitter: https://twitter.com/kamarul_imran
   - name: VP Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
@@ -340,6 +369,13 @@ people-list:
     desc: Mathematical and statistical modelling in infectious disease epidemiology, R programming. Austrian Agency for Food and Health Safety, Austria.
     github: https://github.com/lukric
     url: https://github.com/lukric
+  - name: Benjamin Roche
+    img: /img/people/benjamin-roche.jpg
+    desc: Evolutionary ecologist specialist in mathematical modeling of zoonotic diseases and optimization of public health strategies. IRD, France / Mexico.
+    website: http://roche.ben.googlepages.com
+    url: http://roche.ben.googlepages.com
+    github: https://github.com/rocheben
+    twitter: https://twitter.com/BenRocheGroup
   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Disease ecologist, working on zoonotic disease emergence, dynamical systems, economics and R programming standards. EcoHealth Alliance, USA.
@@ -380,6 +416,12 @@ people-list:
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
     github: https://github.com/EllieSherrardSmith
     url: https://github.com/EllieSherrardSmith
+  - name: Pavel Skums
+    img: /img/people/pavel-skums.jpg
+    desc: Epidemiology and intra-host viral evolution using computational genomics and mathematical modeling. Georgia State University, USA.
+    website: http://alan.cs.gsu.edu/compbel/
+    url: http://alan.cs.gsu.edu/compbel/
+    github: https://github.com/skumsp
   - name: Andy South
     img: /img/people/andy-south.jpg
     desc: R developer currently working on insecticide resistance in malaria vectors. Norwich, UK.
@@ -445,13 +487,6 @@ people-list:
     url: http://www.ojwatson.co.uk
     github: https://github.com/OJWatson
     twitter: https://twitter.com/ojwatson92
-  - name: Thomas Yokota
-    img: /img/people/thomas-yokota.jpg
-    desc: Survey analysis with emphasis on working with small area estimates. USA.
-    website: http://www.thomasyokota.com
-    url: http://www.thomasyokota.com
-    github: https://github.com/Tyokota
-    twitter: https://twitter.com/thomasyokota
   - name: Jon Zelner
     img: /img/people/jon-zelner.jpg
     desc: outbreak reconstruction, spatial epidemiology, social determinants of infection risk. University of Michigan School of Public Health, USA.
