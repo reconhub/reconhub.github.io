@@ -210,6 +210,13 @@ people-list:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Samuel Jenness
+    img: /img/people/samuel-jenness.jpg
+    desc: Epidemic modeling, network science, HIV/STI epidemiology. Emory University, USA.
+    website: http://www.samueljenness.org
+    url: http://www.samueljenness.org
+    github: https://github.com/EpiModel
+    twitter: https://twitter.com/SamuelJenness
   - name: Joshua Kaminsky
     img: /img/people/joshua-kaminsky.jpg
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
@@ -283,6 +290,11 @@ people-list:
     desc: Epidemiologist, Bioinformatics engineer, R and Shiny programmer. EpiConcept, France.
     website: http://www.epiconcept.fr/en/
     url: http://www.epiconcept.fr/en/
+  - name: Amy Mikhail
+    img: /img/people/amy-mikhail.jpg
+    desc: Epidemiologist and R programmer, focused on integrated analysis of epidemiological and whole genome sequencing data for early outbreak detection, characterization and resolution.  EUPHEM alum and EPIET/EUPHEM co-supervisor. Public Health England, UK.
+    github: https://github.com/AmyMikhail
+    url: https://github.com/AmyMikhail
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
