@@ -137,6 +137,11 @@ people-list:
     desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, UK.
     github: https://github.com/jeffeaton
     url: https://github.com/jeffeaton
+  - name: Roz Eggo
+    img: /img/people/roz-eggo.jpg
+    desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
+    github: https://github.com/rozeggo
+    url: https://github.com/rozeggo
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
@@ -188,13 +193,6 @@ people-list:
   - name: José Guerra
     img: /img/people/josé-guerra.jpg
     desc: Medical epidemiologist, support countries strengthening their public health surveillance systems; Rthusiastic for many years. World Health Organization, France.
-  - name: Michael H&ouml;hle
-    img: /img/people/michael-hohle.jpg
-    desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
-    website: http://www.math.su.se/~hoehle
-    url: http://www.math.su.se/~hoehle
-    github: https://github.com/hoehleatsu
-    twitter: https://twitter.com/m_hoehle
   - name: Andreas Handel
     img: /img/people/andreas-handel.jpg
     desc: Modeling and data analysis of infectious diseases on the within-host and between-host scales. Main focus on influenza, TB and Norovirus. University of Georgia, USA.
@@ -207,6 +205,13 @@ people-list:
     desc: Modeller working on outbreak analysis. Imperial College London, UK.
     github: https://github.com/mhinsch
     url: https://github.com/mhinsch
+  - name: Michael H&ouml;hle
+    img: /img/people/michael-hohle.jpg
+    desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
+    website: http://www.math.su.se/~hoehle
+    url: http://www.math.su.se/~hoehle
+    github: https://github.com/hoehleatsu
+    twitter: https://twitter.com/m_hoehle
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
@@ -285,11 +290,21 @@ people-list:
   - name: Kevin McDermott
     img: /img/people/kevin-mcdermott.jpg
     desc: Water research using molecular biology, microbiology, bioinformatics and data science. Public Health Ontario, Canada.
+  - name: Oliver McManus
+    img: /img/people/oliver-mcmanus.jpg
+    desc: Epidemics analyst with an interest in R. Public Health England, United Kingdom.
+    github: https://github.com/cucumberry
+    url: https://github.com/cucumberry
   - name: Lore Merdrignac
     img: /img/people/lore-merdrignac.jpg
     desc: Epidemiologist, Bioinformatics engineer, R and Shiny programmer. EpiConcept, France.
     website: http://www.epiconcept.fr/en/
     url: http://www.epiconcept.fr/en/
+  - name: Eve Miguel
+    img: /img/people/eve-miguel.jpg
+    desc: Ecologist  specialised in diseases pillover at the wild / domestic / human interface. IRD, France.
+    website: https://evemiguelblog.wordpress.com/
+    url: https://evemiguelblog.wordpress.com/
   - name: Amy Mikhail
     img: /img/people/amy-mikhail.jpg
     desc: Epidemiologist and R programmer using genomics for early outbreak detection.  EUPHEM alum and EPIET/EUPHEM supervisor. Public Health England, UK.
@@ -305,6 +320,13 @@ people-list:
   - name: Roger Morbey
     img: /img/people/roger-morbey.jpg
     desc: Statistician working in public health real-time surveillance. Public Health England, UK.
+  - name: Facundo Munoz
+    img: /img/people/facundo-munoz.jpg
+    desc: Biostatistician at the French agricultural research and international cooperation organization (Cirad). Cirad, France.
+    website: https://www.uv.es/famarmu/
+    url: https://www.uv.es/famarmu/
+    github: https://github.com/famuvie
+    twitter: https://twitter.com/famuvie
   - name: Kamarul Imran Musa
     img: /img/people/kamarul-imran-musa.jpg
     desc: Quantitative epidemiologist and public health physician. School of Medical Sciences, Universiti Sains Malaysia, Malaysia.
@@ -439,6 +461,11 @@ people-list:
     desc: Medical epidemiologist working on international epidemics, with a background in tools development for response. World Health Organization, GOARN, Switzerland.
     website: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
     url: http://www.who.int/ihr/alert_and_response/outbreak-network/en/
+  - name: Savina Stoitsova
+    img: /img/people/savina-stoitsova.jpg
+    desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Sofia.
+    website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+    url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
   - name: Bertrand Sudre
     img: /img/people/bertrand-sudre.jpg
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
@@ -455,6 +482,12 @@ people-list:
     github: https://github.com/stoikkanen/
     url: https://github.com/stoikkanen/
     twitter: https://twitter.com/stoekkane
+  - name: Gerry Tonkin-Hill
+    img: /img/people/gerry-tonkin-hill.jpg
+    desc: Mathematical Genomics PhD student interested in statistics and infectious disease. Wellcome Sanger Institute, UK.
+    github: https://github.com/gtonkinhill
+    url: https://github.com/gtonkinhill
+    twitter: https://twitter.com/gerrythill
   - name: Sai Thein Than Tun
     img: /img/people/sai-thein-than-tun.jpg
     desc: Mathematical and economic modeller with some experience in R package development. Mahidol-Oxford Tropical Medicine Research Unit, Myanmar.
