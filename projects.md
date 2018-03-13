@@ -43,12 +43,12 @@ recon-list:
     url: http://reconhub.github.io/outbreaks
     website: http://reconhub.github.io/outbreaks
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
-   - name: projections
+  - name: projections
     desc: Projections of future incidence
     github: http://github.com/reconhub/projections
     url: http://github.com/reconhub/projections
     img: /img/projects/green.png
-   - name: RECON learn
+  - name: RECON learn
     desc: Open training platform for epidemics analysis
     github: http://github.com/reconhub/learn 
     url: http://reconlearn.netlify.com
