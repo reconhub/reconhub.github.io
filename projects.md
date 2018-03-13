@@ -8,6 +8,11 @@ recon-list:
     url: http://www.repidemicsconsortium.org/distcrete
     website: http://www.repidemicsconsortium.org/distcrete
     img: http://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
+  - name: earlyR
+    desc: Estimation of infectiousness in the early stage of an outbreak
+    github: http://github.com/reconhub/earlyR
+    url: http://www.repidemicsconsortium.org/earlyR/
+    img: /img/projects/blue.png
   - name: epicontacts
     desc: Handling, visualisation and analysis of epidemiological contacts.
     github: http://github.com/reconhub/epicontacts
@@ -38,7 +43,12 @@ recon-list:
     url: http://reconhub.github.io/outbreaks
     website: http://reconhub.github.io/outbreaks
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
-  - name: RECON learn
+   - name: projections
+    desc: Projections of future incidence
+    github: http://github.com/reconhub/projections
+    url: http://github.com/reconhub/projections
+    img: /img/projects/green.png
+   - name: RECON learn
     desc: Open training platform for epidemics analysis
     github: http://github.com/reconhub/learn 
     url: http://reconlearn.netlify.com
@@ -111,11 +121,6 @@ upcoming-list:
     github: http://github.com/reconhub/docker
     url: http://github.com/reconhub/docker
     img: /img/projects/red.png
-  - name: earlyR
-    desc: Estimation of infectiousness in the early stage of an outbreak
-    github: http://github.com/reconhub/earlyR
-    url: http://www.repidemicsconsortium.org/earlyR/
-    img: /img/projects/blue.png
   - name: epicontacts.ui
     desc: Graphical user interface for <i>epicontacts</i>
     github: http://github.com/reconhub/epicontacts.ui
@@ -150,11 +155,6 @@ upcoming-list:
     desc: Pack up R to take away
     github: http://github.com/reconhub/nomad
     url: http://github.com/reconhub/nomad
-    img: /img/projects/green.png
-  - name: projections
-    desc: Projections of future incidence
-    github: http://github.com/reconhub/projections
-    url: http://github.com/reconhub/projections
     img: /img/projects/green.png
   - name: recon.ui
     desc: Template shiny GUI for RECON packages
