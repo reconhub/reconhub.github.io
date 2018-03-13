@@ -29,3 +29,19 @@ outbreak response.
 - [Hackfest 2](http://www.repidemicsconsortium.org/hackfest2/) (2017, London):
   *mapping epidemics*
 
+
+
+<br>
+
+### RECON gathering
+
+These events are larger meetings aimed at fostering exchanges within the
+community, drawing a snapshot of state-of-the-art epidemic analysis tools,
+discussing recent outbreak response challenges as well as future directions
+taken by our field, and creating new projects.
+
+- [RECON gathering 1](https://recon-gathering-march2018.netlify.com/) (2018,
+  London): *Challenges and Opportunities in Outbreak Response Analytics*; this
+  event includes a one-day symposium followed by a day of workshops with 2
+  parallel sessions: i) a discussion of analytic resources for field
+  epidemiology training, and ii) a community-driven hackathon.
