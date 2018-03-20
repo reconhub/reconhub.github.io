@@ -33,7 +33,7 @@ slides-list:
 free, open training material, including lectures, practicals, gists of code, and
 case studies. Click on the image below to access the website:
 
-<a href="https://reconlearn.netlify.com/"><img src="https://reconlearn.netlify.com/img/logo/learn.png" alt="RECON learn" align="center"></a> <br> <br>
+<a href="https://reconlearn.netlify.com/"><img src="https://reconlearn.netlify.com/img/logo/learn.png" alt="RECON learn" align="center" width="50%"></a> <br> <br>
 
 
 # Presentations
