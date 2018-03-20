@@ -2,12 +2,6 @@
 title: Resources
 subtitle: Teaching material, guidelines for package development, ...
 comments: true
-tutorials-list:
-  - name: Phylogenetics using R
-    img: /img/tutorials/green.png
-    url:  https://github.com/reconhub/phylo-practical
-    desc: Overview of phylogenetics in R using seasonal influenza sequences.
-    github: https://github.com/reconhub/phylo-practical
 devel-list:
   - name: Best practices
     img: /img/devel/purple.png
@@ -33,13 +27,15 @@ slides-list:
 ---
 
 
-# Tutorials
+# RECON learn
 
-{% include list-circles.html items=page.tutorials-list %}
+[RECON learn](https://reconlearn.netlify.com/) is our new platform for sharing
+free, open training material, including lectures, practicals, gists of code, and
+case studies. Click on the image below to access the website:
 
-
-<br>
-<br>
+<a href="https://reconlearn.netlify.com/"> <img
+src="https://reconlearn.netlify.com/img/logo/learn.png" alt="RECON learn"
+align="center")></a> <br> <br>
 
 
 # Presentations
