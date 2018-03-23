@@ -50,23 +50,3 @@ Use the following form to get in touch with the community, (or follow <a href="h
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdm0TH7Y6Ihq4v-I7_z0iJA77khzsx4aEzMogm8z8Er62Ew4Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <br>
-
-
-
-# Presentations
-
-{% include list-circles.html items=page.slides-list %}
-
-
-<br>
-<br>
-
-
-
-# Development tips
-
-{% include list-circles.html items=page.devel-list %}
-
-
-<br>
-<br>
