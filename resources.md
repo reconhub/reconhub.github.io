@@ -1,6 +1,6 @@
 ---
 title: Resources
-subtitle: Teaching material, guidelines for package development, ...
+bigimg: /img/banners/mixed-deepblue.png
 comments: true
 devel-list:
   - name: Best practices
