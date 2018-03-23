@@ -27,7 +27,6 @@ slides-list:
 ---
 
 
-# RECON learn
 
 [RECON learn](https://reconlearn.netlify.com/) is our new platform for sharing
 free, open training material, including lectures, practicals, gists of code, and
