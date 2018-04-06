@@ -37,9 +37,9 @@ Use the following form to get in touch with the community, (or follow <a href="h
 
 RECON aims to champion good practices for R package development. Check out the following resources:
 
-- our [recommended practices](resources/guidelines), if you are developping a package
+- our [recommended practices](guidelines), if you are developping a package
 
-- our [review guidelines](resources/review), if you are contributing a code review
+- our [review guidelines](review), if you are contributing a code review
 
 
 
