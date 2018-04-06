@@ -53,7 +53,7 @@ recon-list:
     github: http://github.com/reconhub/learn 
     url: http://reconlearn.netlify.com
     website: http://reconlearn.netlify.com
-    img: /img/projects/green.png
+    img: /img/projects/orange.png
 related-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
