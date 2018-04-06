@@ -47,7 +47,7 @@ recon-list:
     desc: Projections of future incidence
     github: http://github.com/reconhub/projections
     url: http://github.com/reconhub/projections
-    img: /img/projects/blue.png
+    img: /img/projects/purple.png
   - name: RECON learn
     desc: Open training platform for epidemics analysis
     github: http://github.com/reconhub/learn 
