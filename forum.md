@@ -16,14 +16,12 @@ The RECON forum provides a platform for public as well as private discussions re
 RECON member or not, you should feel free to join the forum and send post
 relating to outbreak analysis. This can be, for instance:
 
-- to ask a question about statistical methods, the use of a package, or on how to achieve a specific task in R
-
-- to advertise a new position, an R package, a blog post, a relevant paper, or an event
-
+- to ask a question about statistical methods, the use of a package, or on how
+  to achieve a specific task in R
+- to advertise a new position, an R package, a blog post, a relevant paper, or
+  an event
 - to advertise a need for staff deployment for an outbreak response
-
 - to ask for help for a given project
-
 - to offer a specific type of help
 
 
@@ -53,9 +51,7 @@ Follow [this link](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to sub
 Slack is designed for chat and interactive discussions; it will typically be more suitable than emails for:
 
 - live project coordination
-
 - rapid technical help
-
 - chatting across computers and mobile devices
 
 
