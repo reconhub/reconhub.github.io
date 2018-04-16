@@ -28,9 +28,9 @@ RECON aims to champion good practices for R package development. Check out the f
 - our [review guidelines](review), if you are contributing a code review
 
 
+<br>
+<br>
 
-<br>
-<br>
 
 
 # R tips podcast
@@ -43,9 +43,9 @@ You can request new videos by filling the form below.
 Currently available videos include:
 
 - [R tips annoucement](https://www.youtube.com/watch?v=-l680LGAmzs)
-- R tips 1: [installing R](https://www.youtube.com/watch?v=LbezGA_Yle8)
-- R tips 2: [using development versions of packages](https://www.youtube.com/watch?v=9ADX-OPzdzA)
-- R tips 3: [anonymising data](https://www.youtube.com/watch?v=1Zx0aQNxatY)
+- [R tips 1: installing R](https://www.youtube.com/watch?v=LbezGA_Yle8)
+- [R tips 2: using development versions of packages](https://www.youtube.com/watch?v=9ADX-OPzdzA)
+- [R tips 3: anonymising data](https://www.youtube.com/watch?v=1Zx0aQNxatY)
 
 
 <br>
