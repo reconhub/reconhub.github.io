@@ -486,11 +486,6 @@ people-list:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Sofia.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
-  - name: Ying-shih Su
-    img: /img/people/ying-shih-su.jpg
-    desc: Infection disease specialist, epidemiologist and pharmacology and toxicology. Taiwan CDC, Taiwan.
-    twitter: https://twitter.com/ying_shih0818
-    url: https://twitter.com/ying_shih0818
   - name: Bertrand Sudre
     img: /img/people/bertrand-sudre.jpg
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
