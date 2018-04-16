@@ -261,6 +261,11 @@ people-list:
     desc: Survival analysis of infectious disease transmission data. University of Florida, USA.
     github: https://github.com/ekenah
     url: https://github.com/ekenah
+  - name: Nelson Kibinge
+    img: /img/people/nelson-kibinge.jpg
+    desc: Bioinformatician with an interest in RSV diversity and surveillance efficiency. KEMRI-Wellcome Trust Research program Kenya, Kenya.
+    github: https://github.com/nelkibs
+    url: https://github.com/nelkibs
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
@@ -494,6 +499,11 @@ people-list:
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
     website: http://ecdc.europa.eu/en/Pages/home.aspx
     url: http://ecdc.europa.eu/en/Pages/home.aspx
+  - name: Callum Thirkell
+    img: /img/people/callum-thirkell.jpg
+    desc: Intensive care paramedic currently undertaking the Australian Field Epidemiology Training Program. Australian National University - National Centre for Epidemiology and Population Health, Australia.
+    twitter: https://twitter.com/callumthirkell
+    url: https://twitter.com/callumthirkell
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
