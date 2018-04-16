@@ -55,7 +55,7 @@ people-list:
     twitter: https://twitter.com/TeebzR
   - name: Rawan Araj
     img: /img/people/rawan-araj.jpg
-    desc: EMPHNET Program Manager. GHD/EMPHNET, Jordan.
+    desc: EMPHNET Program Manager. GHD, EMPHNET, Jordan.
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
@@ -278,7 +278,7 @@ people-list:
     desc: R developper with background in bioinformatics and network analysis. Working on transmission analysis for disease surveillance. Robert Koch Institute, Germany.
     website: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
     url: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
-  - name: Henry Kyobe Bosa
+  - name: Henry Kyobe-Bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
     website: http://www.africanriskcapacity.org
@@ -448,7 +448,7 @@ people-list:
     twitter: https://twitter.com/slphyx
   - name: Ilana Schafer
     img: /img/people/ilana-schafer.jpg
-    desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. U.S. Centers for Disease Control and Prevention, USA.
+    desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
     desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
