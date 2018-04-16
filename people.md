@@ -53,6 +53,9 @@ people-list:
     url: https://sites.google.com/site/thibautjombart/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
+  - name: Rawan Araj
+    img: /img/people/rawan-araj.jpg
+    desc: EMPHNET Program Manager. GHD/EMPHNET, Jordan.
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
@@ -142,6 +145,12 @@ people-list:
     desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
     github: https://github.com/rozeggo
     url: https://github.com/rozeggo
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Epidemiological modelling, cholera, real-time analysis, spatial dynamics, environmental determinants of outbreaks. London School of Hygiene and Tropical Medicine, United Kingdom.
+    website: ffinger.github.io
+    url: ffinger.github.io
+    github: https://github.com/ffinger
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
@@ -193,6 +202,13 @@ people-list:
   - name: José Guerra
     img: /img/people/josé-guerra.jpg
     desc: Medical epidemiologist, support countries strengthening their public health surveillance systems; Rthusiastic for many years. World Health Organization, France.
+  - name: Michael H&ouml;hle
+    img: /img/people/michael-hohle.jpg
+    desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
+    website: http://www.math.su.se/~hoehle
+    url: http://www.math.su.se/~hoehle
+    github: https://github.com/hoehleatsu
+    twitter: https://twitter.com/m_hoehle
   - name: Andreas Handel
     img: /img/people/andreas-handel.jpg
     desc: Modeling and data analysis of infectious diseases on the within-host and between-host scales. Main focus on influenza, TB and Norovirus. University of Georgia, USA.
@@ -205,13 +221,6 @@ people-list:
     desc: Modeller working on outbreak analysis. Imperial College London, UK.
     github: https://github.com/mhinsch
     url: https://github.com/mhinsch
-  - name: Michael H&ouml;hle
-    img: /img/people/michael-hohle.jpg
-    desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
-    website: http://www.math.su.se/~hoehle
-    url: http://www.math.su.se/~hoehle
-    github: https://github.com/hoehleatsu
-    twitter: https://twitter.com/m_hoehle
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
@@ -252,6 +261,11 @@ people-list:
     desc: Survival analysis of infectious disease transmission data. University of Florida, USA.
     github: https://github.com/ekenah
     url: https://github.com/ekenah
+  - name: Nelson Kibinge
+    img: /img/people/nelson-kibinge.jpg
+    desc: Bioinformatician with an interest in RSV diversity and surveillance efficiency. KEMRI-Wellcome Trust Research program Kenya, Kenya.
+    github: https://github.com/nelkibs
+    url: https://github.com/nelkibs
   - name: Don Klinkenberg
     img: /img/people/don-klinkenberg.jpg
     desc: Infectious disease epidemiologist, mathematical modeller, and R developer. RIVM (National Institute for Public Health and the Environment), The Netherlands.
@@ -264,6 +278,12 @@ people-list:
     desc: R developper with background in bioinformatics and network analysis. Working on transmission analysis for disease surveillance. Robert Koch Institute, Germany.
     website: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
     url: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
+  - name: Henry Kyobe Bosa
+    img: /img/people/henry-kyobe-bosa.jpg
+    desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
+    website: www.africanriskcapacity.org
+    url: www.africanriskcapacity.org
+    twitter: https://twitter.com/hskyobe
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
@@ -426,6 +446,9 @@ people-list:
     url: http://www.sakngoi.com
     github: https://github.com/slphyx
     twitter: https://twitter.com/slphyx
+  - name: Ilana Schafer
+    img: /img/people/ilana-schafer.jpg
+    desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. U.S. Centers for Disease Control and Prevention, USA.
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
     desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
@@ -466,11 +489,21 @@ people-list:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Sofia.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+  - name: Ying-shih Su
+    img: /img/people/ying-shih-su.jpg
+    desc: Infection disease specialist, epidemiologist and pharmacology and toxicology. Taiwan CDC, Taiwan.
+    twitter: https://twitter.com/ying_shih0818
+    url: https://twitter.com/ying_shih0818
   - name: Bertrand Sudre
     img: /img/people/bertrand-sudre.jpg
     desc: Epidemiology, outbreak response, Emerging and vector-borne dieases, data analysis, GIS and outbreak mapping,  data vizualisation,  long term R user. European Centre for Disease Prevention and Control, Sweden.
     website: http://ecdc.europa.eu/en/Pages/home.aspx
     url: http://ecdc.europa.eu/en/Pages/home.aspx
+  - name: Callum Thirkell
+    img: /img/people/callum-thirkell.jpg
+    desc: Intensive care paramedic currently undertaking the Australian Field Epidemiology Training Program. Australian National University: National Centre for Epidemiology and Population Health, Australia.
+    twitter: https://twitter.com/callumthirkell
+    url: https://twitter.com/callumthirkell
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
