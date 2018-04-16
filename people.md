@@ -426,6 +426,9 @@ people-list:
     url: http://www.sakngoi.com
     github: https://github.com/slphyx
     twitter: https://twitter.com/slphyx
+  - name: Ilana Schafer
+    img: /img/people/ilana-schafer.jpg
+    desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
   - name: Dirk Schumacher
     img: /img/people/dirk-schumacher.jpg
     desc: R developer with experience in infectious disease epidemiology, surveillance and outbreak response. Berlin, Germany.
