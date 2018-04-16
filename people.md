@@ -148,8 +148,8 @@ people-list:
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
     desc: Epidemiological modelling, cholera, real-time analysis, spatial dynamics, environmental determinants of outbreaks. London School of Hygiene and Tropical Medicine, United Kingdom.
-    website: ffinger.github.io
-    url: ffinger.github.io
+    website: http://ffinger.github.io
+    url: http://ffinger.github.io
     github: https://github.com/ffinger
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
@@ -281,8 +281,8 @@ people-list:
   - name: Henry Kyobe Bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
-    website: www.africanriskcapacity.org
-    url: www.africanriskcapacity.org
+    website: http://www.africanriskcapacity.org
+    url: http://www.africanriskcapacity.org
     twitter: https://twitter.com/hskyobe
   - name: John Lees
     img: /img/people/john-lees.jpg
