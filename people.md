@@ -142,6 +142,12 @@ people-list:
     desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
     github: https://github.com/rozeggo
     url: https://github.com/rozeggo
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Epidemiological modelling, cholera, real-time analysis, spatial dynamics, environmental determinants of outbreaks. London School of Hygiene and Tropical Medicine, United Kingdom.
+    website: http://ffinger.github.io
+    url: http://ffinger.github.io
+    github: https://github.com/ffinger
   - name: Thomas Finnie
     img: /img/people/thomas-finnie.jpg
     desc: Modeller and Data-Scientist specializing in applying High Performance Computing to public health problems. Public Health England, UK.
@@ -264,6 +270,12 @@ people-list:
     desc: R developper with background in bioinformatics and network analysis. Working on transmission analysis for disease surveillance. Robert Koch Institute, Germany.
     website: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
     url: https://www2.informatik.hu-berlin.de/~kroeger/Research.html
+  - name: Henry Kyobe-Bosa
+    img: /img/people/henry-kyobe-bosa.jpg
+    desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
+    website: http://www.africanriskcapacity.org
+    url: http://www.africanriskcapacity.org
+    twitter: https://twitter.com/hskyobe
   - name: John Lees
     img: /img/people/john-lees.jpg
     desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
