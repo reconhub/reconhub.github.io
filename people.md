@@ -55,7 +55,7 @@ people-list:
     twitter: https://twitter.com/TeebzR
   - name: Rawan Araj
     img: /img/people/rawan-araj.jpg
-    desc: EMPHNET Program Manager. GHD, EMPHNET, Jordan.
+    desc: EMPHNET Program Manager. GHD-EMPHNET, Jordan.
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
