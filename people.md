@@ -79,6 +79,18 @@ people-list:
   - name: Robert Balshaw
     img: /img/people/robert-balshaw.jpg
     desc: Caretaker for the aberration detection algorithm PHIDO, shiny developer. British Columbia Centre for Disease Control, Canada.
+  - name: Kazim Beebeejaun
+    img: /img/people/kazim-beebeejaun.jpg
+    desc: EPIET fellow, cohort 2017. Public Health England, United Kingdom.
+    twitter: www.twitter.com/KazimB
+    url: www.twitter.com/KazimB
+  - name: Sangeeta Bhatia
+    img: /img/people/sangeeta-bhatia.jpg
+    desc: Modeller and software developer contributing packages for outbreak analysis using digital surveillance data. Imperial College London, UK.
+    website: https://sangeetabhatia03.github.io
+    url: https://sangeetabhatia03.github.io
+    github: https://github.com/sangeetabhatia03
+    twitter: https://twitter.com/sangeeta0312
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
@@ -176,12 +188,11 @@ people-list:
     url: http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
     github: http://github.com/sdwfrost
     twitter: https://twitter.com/sdwfrost
-  - name: Tini Garske
-    img: /img/people/tini-garske.jpg
-    desc: Outbreak analysis and infectious disease modelling. Imperial College London, UK.
-    website: http://www.imperial.ac.uk/people/t.garske
-    url: http://www.imperial.ac.uk/people/t.garske
-    github: http://github.com/tinigarske
+  - name: Daniel Gardiner
+    img: /img/people/daniel-gardiner.jpg
+    desc: Infectious disease epidemiologist using R for analysis and automated reporting. Public Health England, UK.
+    github: http://github.com/DanielGardiner
+    url: http://github.com/DanielGardiner
   - name: George Githinji
     img: /img/people/george-githinji.jpg
     desc: Bioinformatician with a strong research interest in epidemiology. KEMRI-Wellcome Trust Research Programme, Kenya.
