@@ -395,7 +395,7 @@ people-list:
     twitter: https://twitter.com/jonny_polonsky
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
+    desc: Data scientist and ecologist, Karthik is also heading the <a href="http,//ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
     website: http://karthik.io/
     url: http://karthik.io/
     github: https://github.com/karthik
@@ -461,6 +461,11 @@ people-list:
     desc: Epidemiologist specialized in statistics and data analysis, with strong focus on malaria. Imperial College London, UK.
     github: https://github.com/EllieSherrardSmith
     url: https://github.com/EllieSherrardSmith
+  - name: Janetta Skarp
+    img: /img/people/janetta-skarp.jpg
+    desc: MRes student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
+    github: https://github.com/jeskarp
+    url: https://github.com/jeskarp
   - name: Pavel Skums
     img: /img/people/pavel-skums.jpg
     desc: Epidemiology and intra-host viral evolution using computational genomics and mathematical modeling. Georgia State University, USA.
