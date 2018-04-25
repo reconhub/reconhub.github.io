@@ -485,7 +485,7 @@ people-list:
     github: https://github.com/skumsp
   - name: Andy South
     img: /img/people/andy-south.jpg
-    desc: R developer currently working on insecticide resistance in malaria vectors. Norwich, UK.
+    desc: R developer, mapping, insecticide resistance, QGIS training for operational disease vector surveillance. Liverpool School of Tropical Medicine, UK.
     website: http://andysouth.co.uk
     url: http://andysouth.co.uk
     github: https://github.com/AndySouth
@@ -520,6 +520,9 @@ people-list:
     desc: Intensive care paramedic currently undertaking the Australian Field Epidemiology Training Program. Australian National University - National Centre for Epidemiology and Population Health, Australia.
     twitter: https://twitter.com/callumthirkell
     url: https://twitter.com/callumthirkell
+  - name: Daniel Thomas
+    img: /img/people/daniel-thomas.jpg
+    desc: Epidemiologist and EPIET Scientific Coordinator. Public Health Wales, Wales, UK.
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
