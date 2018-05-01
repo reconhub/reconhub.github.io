@@ -36,3 +36,23 @@ Members of RECON will:
 To register as a member, follow [this link](https://goo.gl/forms/VdkkofZmuB5BP9HT2) or fill in the form below:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWeyiSPHifEZt38jPEGEQkzJQUHzmCZiOhi6XV0anj6vdi7g/viewform?embedded=true" width="740" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+
+## Your data
+
+In relation to the
+[General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/),
+we hereby provide you with information regarding the data you provide while
+joining RECON. In short:
+
+- 'your data' refers to the information you provide when sending a request to
+  join RECON using the form linked above, including the profile picture
+  displayed online
+- your data will not be used for any commercial purpose
+- your data will not be shared with any third party
+- part of your data will be used to generate your
+  [public profile](http://www.repidemicsconsortium.org/people/) on the RECON
+  website, with the exception of your email address, which will not be made
+  public
+- you can review, amend, or remove your data by sending [us](mailto:thibautjombart@gmail.com) an email 
