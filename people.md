@@ -81,7 +81,7 @@ people-list:
     desc: Caretaker for the aberration detection algorithm PHIDO, shiny developer. British Columbia Centre for Disease Control, Canada.
   - name: Kazim Beebeejaun
     img: /img/people/kazim-beebeejaun.jpg
-    desc: EPIET fellow, cohort 2017. Public Health England, United Kingdom.
+    desc: EPIET fellow, cohort 2017. Public Health England, UK.
     twitter: www.twitter.com/KazimB
     url: www.twitter.com/KazimB
   - name: Sangeeta Bhatia
@@ -91,6 +91,9 @@ people-list:
     url: https://sangeetabhatia03.github.io
     github: https://github.com/sangeetabhatia03
     twitter: https://twitter.com/sangeeta0312
+  - name: Matthew Biggerstaff
+    img: /img/people/matthew-biggerstaff.jpg
+    desc: Epidemiologist focused on using modeling and forecasting outputs to inform public health decision making. U.S. Centers for Disease Control and Prevention, USA.
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
@@ -232,6 +235,9 @@ people-list:
     desc: Modeller working on outbreak analysis. Imperial College London, UK.
     github: https://github.com/mhinsch
     url: https://github.com/mhinsch
+  - name: Tambri Housen
+    img: /img/people/tambri-housen.jpg
+    desc: Field epidemiologist and research fellow on Australia's FETP. Australian National University, Australia.
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
@@ -522,7 +528,7 @@ people-list:
     url: https://twitter.com/callumthirkell
   - name: Daniel Thomas
     img: /img/people/daniel-thomas.jpg
-    desc: Epidemiologist and EPIET Scientific Coordinator. Public Health Wales, Wales, UK.
+    desc: Epidemiologist and EPIET Scientific Coordinator. Public Health Wales, UK.
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
