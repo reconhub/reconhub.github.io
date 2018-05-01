@@ -39,7 +39,9 @@ To register as a member, follow [this link](https://goo.gl/forms/VdkkofZmuB5BP9H
 
 
 
-## Your data
+<br>
+
+## Your data (legal stuff)
 
 In relation to the
 [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/),
