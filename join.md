@@ -8,16 +8,18 @@ subtitle: How to join the R Epidemics Consortium community?
 RECON aims to gather a community of people actively involved in the development
 of R packages for outbreak response. We are also welcoming experienced R
 developers as well as public health officers specialised in outbreak
-response. If you are not directly involved in the development of R packages for
-outbreak response, please send an email to [Thibaut
-Jombart](mailto:thibautjombart@gmail.com) to explain briefly why you would like
-to join, after having filled the registration form below.
+response. If you are not directly involved in outbreak response analytics,
+please send an email to [Thibaut Jombart](mailto:thibautjombart@gmail.com) to
+explain briefly why you would like to join, after having filled the registration
+form below. It is not uncommon for registrations to be put on a waiting list, so
+feel free to enquire if the process takes too long.
 
 
 
 ## What does 'joining' mean?
 
-Members have no obligation towards RECON. The ownership of any published material remains with their author(s).
+Members have no obligation towards RECON. The ownership of any published
+material remains with their author(s).
 
 Members of RECON will:
 
@@ -33,7 +35,13 @@ Members of RECON will:
 
 ## How to join?
 
-To register as a member, follow [this link](https://goo.gl/forms/VdkkofZmuB5BP9HT2) or fill in the form below:
+To register as a member, you need to:
+
+1. **fill the form** (this is quick!): follow
+   [this link](https://goo.gl/forms/VdkkofZmuB5BP9HT2) or fill in the form below
+2. **send us a photo**: by [email](mailto:thibautjombart@gmail.com), ideally
+   square, at least 250 pixels wide; if we do not hear from you after a few
+   reminders, your registration may be put back on the waiting list or cancelled
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWeyiSPHifEZt38jPEGEQkzJQUHzmCZiOhi6XV0anj6vdi7g/viewform?embedded=true" width="740" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
