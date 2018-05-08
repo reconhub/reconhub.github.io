@@ -53,6 +53,9 @@ people-list:
     url: https://sites.google.com/site/thibautjombart/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
+  - name: Philip AbdelMalik
+    img: /img/people/philip-abdelmalik.jpg
+    desc: Epidemiologist focused on epidemic intelligence and health informatics. World Health Organization, Switzerland.
   - name: Rawan Araj
     img: /img/people/rawan-araj.jpg
     desc: EMPHNET Program Manager. GHD-EMPHNET, Jordan.
@@ -116,12 +119,6 @@ people-list:
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
-  - name: Thomas Crellen
-    img: /img/people/thomas-crellen.jpg
-    desc: PhD student proficient in R, joining MSF in 2017 so will put packages to use in the field. Imperial College London, UK.
-    github: https://github.com/tc13
-    url: https://github.com/tc13
-    twitter: https://twitter.com/TomCrellen
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
     desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, United Kingdom.
@@ -230,11 +227,6 @@ people-list:
     url: http://handelgroup.uga.edu/
     github: https://github.com/ahgroup
     twitter: https://twitter.com/andreashandel
-  - name: Martin Hinsch
-    img: /img/people/martin-hinsch.jpg
-    desc: Modeller working on outbreak analysis. Imperial College London, UK.
-    github: https://github.com/mhinsch
-    url: https://github.com/mhinsch
   - name: Tambri Housen
     img: /img/people/tambri-housen.jpg
     desc: Field epidemiologist and research fellow on Australia's FETP. Australian National University, Australia.
@@ -273,11 +265,6 @@ people-list:
   - name: Patrick Keating
     img: /img/people/patrick-keating.jpg
     desc: Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
-  - name: Eben Kenah
-    img: /img/people/eben-kenah.jpg
-    desc: Survival analysis of infectious disease transmission data. University of Florida, USA.
-    github: https://github.com/ekenah
-    url: https://github.com/ekenah
   - name: Nelson Kibinge
     img: /img/people/nelson-kibinge.jpg
     desc: Bioinformatician with an interest in RSV diversity and surveillance efficiency. KEMRI-Wellcome Trust Research program Kenya, Kenya.
@@ -301,13 +288,6 @@ people-list:
     website: http://www.africanriskcapacity.org
     url: http://www.africanriskcapacity.org
     twitter: https://twitter.com/hskyobe
-  - name: John Lees
-    img: /img/people/john-lees.jpg
-    desc: Genomics PhD student. Wellcome Trust Sanger Institute, UK.
-    website: http://johnlees.me
-    url: http://johnlees.me
-    github: https://github.com/johnlees
-    twitter: https://twitter.com/johnlees6
   - name: Justin Lessler
     img: /img/people/justin-lessler.jpg
     desc: Epidemiology and infectious disease dynamics. Johns Hopkins Bloomberg School of Public Health, USA.
@@ -412,7 +392,7 @@ people-list:
     twitter: https://twitter.com/jonny_polonsky
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the <a href="http,//ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
+    desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
     website: http://karthik.io/
     url: http://karthik.io/
     github: https://github.com/karthik
@@ -571,13 +551,6 @@ people-list:
     url: https://brooke.science
     github: https://github.com/brooke-watson
     twitter: https://twitter.com/brooklynevery1
-  - name: Oliver Watson
-    img: /img/people/oliver-watson.jpg
-    desc: Modeller and R programmer specialised in malaria population genetics. Imperial College London, UK.
-    website: http://www.ojwatson.co.uk
-    url: http://www.ojwatson.co.uk
-    github: https://github.com/OJWatson
-    twitter: https://twitter.com/ojwatson92
   - name: Jon Zelner
     img: /img/people/jon-zelner.jpg
     desc: outbreak reconstruction, spatial epidemiology, social determinants of infection risk. University of Michigan School of Public Health, USA.
@@ -617,3 +590,17 @@ We are extremely lucky to have the following people supporting and guiding our e
 RECON also benefits from some outstanding administrative support from the following people:
 
 {% include list-circles.html items=page.admin-list %}
+
+
+
+## Former members
+
+Their interests may have shifted since, but these people were at some point
+members of RECON for at least a year:
+
+- Thomas Crellen
+- Tini Garske
+- Martin Hinsch
+- Eben Kenah
+- John Lees
+- Oliver Watson
