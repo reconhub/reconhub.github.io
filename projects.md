@@ -28,7 +28,7 @@ recon-list:
   - name: incidence
     desc: Computation, handling, visualisation and simple modelling of incidence.
     github: http://github.com/reconhub/incidence
-    url: http://reconhub.github.io/incidence
+    url: http://www.repidemicsconsortium.org/incidence
     website: http://reconhub.github.io/incidence
     img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
   - name: outbreaker2
@@ -40,13 +40,14 @@ recon-list:
   - name: outbreaks
     desc: Collection of outbreak data.
     github: http://github.com/reconhub/outbreaks
-    url: http://reconhub.github.io/outbreaks
-    website: http://reconhub.github.io/outbreaks
+    url: http://www.repidemicsconsortium.org/outbreaks
+    website: http://www.repidemicsconsortium.org/outbreaks
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
   - name: projections
     desc: Projections of future incidence
     github: http://github.com/reconhub/projections
-    url: http://github.com/reconhub/projections
+    url: http://www.repidemicsconsortium.org/projections
+    website: http://www.repidemicsconsortium.org/projections
     img: /img/projects/purple.png
   - name: RECON learn
     desc: Open training platform for epidemics analysis
