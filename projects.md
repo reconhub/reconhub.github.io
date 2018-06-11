@@ -108,7 +108,7 @@ upcoming-list:
     url: http://github.com/Hackout3/cleanr
     img: /img/projects/purple.png
   - name: drat
-    desc: Rationalised and reproducible data cleaning.
+    desc: Install devel versions of RECON packages by default.
     github: http://github.com/reconhub/drat
     url: http://github.com/reconhub/drat
     img: /img/projects/red.png
