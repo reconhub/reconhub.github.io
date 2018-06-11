@@ -107,6 +107,11 @@ upcoming-list:
     github: http://github.com/Hackout3/cleanr
     url: http://github.com/Hackout3/cleanr
     img: /img/projects/purple.png
+  - name: drat
+    desc: Rationalised and reproducible data cleaning.
+    github: http://github.com/reconhub/drat
+    url: http://github.com/reconhub/drat
+    img: /img/projects/red.png
   - name: deployer
     desc: Portable environment for epidemics analysis
     github: http://github.com/reconhub/deployer
@@ -126,7 +131,7 @@ upcoming-list:
     desc: Graphical user interface for <i>epicontacts</i>
     github: http://github.com/reconhub/epicontacts.ui
     url: http://github.com/reconhub/epicontacts.ui
-    img: /img/projects/red.png
+    img: /img/projects/orange.png
   - name: epiflows
     desc: Visualisation and analysis of passenger flows
     github: https://github.com/reconhub/epiflows
