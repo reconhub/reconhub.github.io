@@ -162,16 +162,21 @@ upcoming-list:
     github: http://github.com/reconhub/nomad
     url: http://github.com/reconhub/nomad
     img: /img/projects/green.png
-  - name: recon.ui
-    desc: Template shiny GUI for RECON packages
-    github: http://github.com/reconhub/recon.ui
-    url: http://github.com/reconhub/recon.ui
-    img: /img/projects/purple.png
   - name: recontools
     desc: Tools to develop RECON packages
     github: http://github.com/reconhub/recontools
     url: http://github.com/reconhub/recontools
     img: /img/projects/red.png
+  - name: recon.ui
+    desc: Template shiny GUI for RECON packages
+    github: http://github.com/reconhub/recon.ui
+    url: http://github.com/reconhub/recon.ui
+    img: /img/projects/purple.png
+  - name: reportfactory
+    desc: Facilitate rmarkdown workflows
+    github: http://github.com/reconhub/reportfactory
+    url: http://github.com/reconhub/reportfactory
+    img: /img/projects/blue.png
   - name: vimes
     desc: Visualisation and Monitoring of Epidemics, including some outbreak detection algorithms.
     github: http://github.com/thibautjombart/vimes
