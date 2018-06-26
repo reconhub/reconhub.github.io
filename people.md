@@ -247,7 +247,7 @@ people-list:
     url: http://iddynamics.jhsph.edu
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
-    desc: R developer and population geneticist. Oregon State University, USA.
+    desc: R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
     website: http://zkamvar.github.io
     url: http://zkamvar.github.io
     github: https://github.com/zkamvar
@@ -392,7 +392,7 @@ people-list:
     twitter: https://twitter.com/jonny_polonsky
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
+    desc: Data scientist and ecologist, Karthik is also heading the <a href="http,//ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
     website: http://karthik.io/
     url: http://karthik.io/
     github: https://github.com/karthik
@@ -506,9 +506,6 @@ people-list:
     desc: Intensive care paramedic currently undertaking the Australian Field Epidemiology Training Program. Australian National University - National Centre for Epidemiology and Population Health, Australia.
     twitter: https://twitter.com/callumthirkell
     url: https://twitter.com/callumthirkell
-  - name: Daniel Thomas
-    img: /img/people/daniel-thomas.jpg
-    desc: Epidemiologist and EPIET Scientific Coordinator. Public Health Wales, UK.
   - name: Robin Thompson
     img: /img/people/robin-thompson.jpg
     desc: Epidemiological modeller and computer programmer, interested in diseases of humans, animals and plants. University of Oxford, UK.
