@@ -30,7 +30,7 @@ recon-list:
     github: http://github.com/reconhub/incidence
     url: http://www.repidemicsconsortium.org/incidence
     website: http://reconhub.github.io/incidence
-    img: http://raw.githubusercontent.com/reconhub/incidence/master/logo/logo.png
+    img: http://raw.githubusercontent.com/reconhub/incidence/master/images/logo/logo.png
   - name: outbreaker2
     desc: Modular framework for outbreak reconstruction.
     github: http://github.com/reconhub/outbreaker2
