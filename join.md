@@ -3,6 +3,14 @@ title: Joining us
 subtitle: How to join the R Epidemics Consortium community?
 ---
 
+## Change to come!
+
+RECON is currently being turned into a formal NGO structure. As such, membership
+will be formally redefined within a few weeks. In the meantime, registrations
+are frozen. The descriptions below relate to the former membership rules.
+
+
+
 ## Who can join?
 
 RECON aims to gather a community of people actively involved in the development
@@ -35,17 +43,7 @@ Members of RECON will:
 
 ## How to join?
 
-To register as a member, you need to:
-
-1. **fill the form** (this is quick!): follow
-   [this link](https://goo.gl/forms/VdkkofZmuB5BP9HT2) or fill in the form below
-2. **send us a photo**: by [email](mailto:thibautjombart@gmail.com), ideally
-   square, at least 250 pixels wide; if we do not hear from you after a few
-   reminders, your registration may be put back on the waiting list or cancelled
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWeyiSPHifEZt38jPEGEQkzJQUHzmCZiOhi6XV0anj6vdi7g/viewform?embedded=true" width="740" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
+Registrations are frozen whilst RECON is being transformed into a formal NGO structure.
 
 <br>
 
