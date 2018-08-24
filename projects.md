@@ -96,6 +96,16 @@ related-list:
     github: https://github.com/statnet/EpiModel
     url: http://epimodel.org/
     img: /img/projects/purple.png
+  - name: treedater
+    desc: Molecular clock dating of pathogen phylogenies. 
+    github: https://github.com/emvolz/treedater
+    url: https://cran.r-project.org/web/packages/treedater/index.html
+    img: /img/projects/orange.png
+  - name: skygrowth
+    desc: Phylodynamic inference of effective population size through time.
+    github: https://github.com/mrc-ide/skygrowth
+    url: https://github.com/mrc-ide/skygrowth
+    img: /img/projects/yellow.png
 upcoming-list:
   - name: branchr
     desc: R Estimation from Cluster Sizes
