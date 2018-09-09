@@ -20,6 +20,30 @@ taken by our field, and creating new projects.
 
 <br>
 
+### Training workshops
+
+We organise, often with partner institutions, regular training workshops and
+short courses. 
+
+*To come*:
+
+- [ESCAIDE 2018 pre-worshop](https://recon-malta-2018.netlify.com/), introdution to epiedemic analysis using R, 19-20 November 2018, Malta
+
+- [outbreak analysis in Sofia](https://recon-sofia-2018.netlify.com/), introduction to outbreak response analytics, 8-11 October 2018, Sofia, Bulgaria 
+
+
+*Past*:
+
+- 3-days training in early outbreak assessment, influenza group, 10-12 April 2018 CDC Atlanta, USA
+
+- [1 week short course Bogota](https://epicoursebogota.netlify.com/), epidemics analysis and modelling, 11-15 December 2017, Bogota, Colombia
+
+- [Epidemics6 pre-workshop](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics/programme/pre-conference-workshop), outbreak analytics, 28 November 2017, Sitges, Spain
+
+
+
+<br>
+
 ### RECON Hackfests
 
 RECON Hackfests continue the process initiated during the Hackout events:
@@ -45,4 +69,5 @@ RECON has been created in the aftermath of *Hackouts* 1, 2, and 3, a series of H
 - [Hackout 2: G.R.I.N.D.E.R.](https://sites.google.com/site/hackout2/) (2015, London): *Graphical Resources for Infectious Disease Epidemiology in R*
 
 - [Hackout 3](http://hackout3.ropensci.org/) (2016, Berkeley): *analysis and modelling tools for emergency outbreak response*
+
 
