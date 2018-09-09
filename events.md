@@ -25,14 +25,23 @@ taken by our field, and creating new projects.
 We organise, often with partner institutions, regular training workshops and
 short courses. 
 
-*To come*:
+#### To come
 
-- [ESCAIDE 2018 pre-worshop](https://recon-malta-2018.netlify.com/), introdution to epiedemic analysis using R, 19-20 November 2018, Malta
+From the closest to the more distant:
 
 - [outbreak analysis in Sofia](https://recon-sofia-2018.netlify.com/), introduction to outbreak response analytics, 8-11 October 2018, Sofia, Bulgaria 
 
+- [ESCAIDE 2018 pre-workshop](https://recon-malta-2018.netlify.com/), introdution to epiedemic analysis using R, 19-20 November 2018, Malta
 
-*Past*:
+- WHO Afro workshop on outbreak response analytics, 10-14 December 2018, Dakar, Senegal
+
+
+
+#### Past
+
+From the most recent to the oldest:
+
+- introduction to infectious disease modelling, 21-23 May 2018, Johannesburg, South Africa
 
 - 3-days training in early outbreak assessment, influenza group, 10-12 April 2018 CDC Atlanta, USA
 
