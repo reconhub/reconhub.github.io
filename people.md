@@ -35,10 +35,10 @@ board-list:
     website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
     url: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
 admin-list:
-  - name: James Hayward
-    img: /img/people/james-hayward.jpg
-    website: http://www.imperial.ac.uk/people/j.hayward
-    url: http://www.imperial.ac.uk/people/j.hayward
+  - name: Claire Thomson
+    img: /img/people/claire-thomson.jpg
+    website: http://www.imperial.ac.uk/people/c.thomson
+    url: http://www.imperial.ac.uk/people/c.thomson
     desc: Administrative support. Imperial College London, UK.
   - name: Evgenia Markvardt
     img: /img/people/evgenia-markvardt.jpg
@@ -601,3 +601,5 @@ members of RECON for at least a year:
 - Eben Kenah
 - John Lees
 - Oliver Watson
+- James Hayward
+
