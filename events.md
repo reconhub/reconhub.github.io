@@ -59,11 +59,14 @@ RECON Hackfests continue the process initiated during the Hackout events:
 bringing people together to make new advances in the development of tools for
 outbreak response.
 
-- [Hackfest 1](http://www.repidemicsconsortium.org/hackfest1/) (2017, London):
-  *making outbreak analysis easier and prettier*
+- [Hackfest 3](https://recon-hackfest-3.netlify.com) (2018, Malta):
+  *SitReps and Case Studies*
 
 - [Hackfest 2](http://www.repidemicsconsortium.org/hackfest2/) (2017, London):
   *mapping epidemics*
+
+- [Hackfest 1](http://www.repidemicsconsortium.org/hackfest1/) (2017, London):
+  *making outbreak analysis easier and prettier*
 
 
 
