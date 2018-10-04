@@ -87,7 +87,7 @@ and can be summarised as:
 
 To send a membership application, follow [this link](https://goo.gl/forms/EZZekGD1tMPoGmPJ2) or fill the form below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSep9aVVyACKi4SnPu7F_NZckK3oned5sL3-oWLRbRkFVo6X4g/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSep9aVVyACKi4SnPu7F_NZckK3oned5sL3-oWLRbRkFVo6X4g/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 
