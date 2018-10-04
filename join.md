@@ -1,12 +1,12 @@
 ---
 title: Joining us
-subtitle: How to join the R Epidemics Consortium?
 ---
 
 
 ## How can I join the RECON community?
 
-There are two ways to join our community, corresponding to different involvements:
+There are two ways to join our community, corresponding to different degrees of
+involvement:
 
 - as a *follower*, by signing up to our 
 [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) 
