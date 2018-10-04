@@ -19,6 +19,7 @@ and getting involved in discussions on our
   section below
 
 
+<br>
 
 ## Becoming a member
 
