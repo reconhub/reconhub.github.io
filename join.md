@@ -39,22 +39,16 @@ in the Executive Board.
 Members benefit from a number of advantages; they can:
 
 - attend and vote at general assemblies to shape the activities of RECON
-
 - be candidates to any post of the executive board during its election
 - have free access to the RECON mailing lists and forums
-
 - advertise their work, when in line with the remit of RECON, on the association
   media, including newsletters, mailing lists, discussion forums, blogs and
   websites
-
 - possess a confidential list of other RECON members to facilitate networking
   within the association
-
 - attend meetings not otherwise open to the public, such as internal training
   workshops, hackathons and retreats organised by the association
-
 - typically get a discount on RECON events where a registration fee applies
-
 - apply for, and benefit from internal resources of RECON (e.g. funding,
   equipment)
 
