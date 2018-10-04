@@ -3,11 +3,11 @@
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
-The **R** **E**pidemics **Con**sortium (RECON) is not-for-profit,
-non-governmental organisation gathering international experts in data science,
-modelling methodology, public health, and software development to create the
-**next generation of analytics tools** for **informing the response to disease
-outbreaks, health emergencies and humanitarian crises*, using the [R
+The **R** **E**pidemics **Con**sortium (RECON) is international
+*not-for-profit*, *non-governmental organisation* gathering experts in data
+science, modelling methodology, public health, and software development to
+create the **next generation of analytics tools** for **informing the response
+to disease outbreaks, health emergencies and humanitarian crises*, using the [R
 software](https://www.r-project.org/) and other free, open-source resources.
 
 This includes packages specifically designed for handling, visualising, and
@@ -40,7 +40,7 @@ increasingly dedicated to:
    of staff as well as analysis systems adapted to low resources settings.
 
 
-<br> As of 19th September 2018, RECON is a non-profit, incorporated association
-regulated by the French law, in accordance to the association law of 1st July
-1901 and the decree of the 16th August 1901. For more information about the
-remit of RECON, check our [official statutes](documents/statutes_en_1.1.pdf).
+<br> As of 19th September 2018, RECON is a not-for-profit, incorporated
+association regulated by the French law, in accordance to the association law of
+1st July 1901 and the decree of the 16th August 1901. For more information about
+the remit of RECON, check our [official statutes](documents/statutes_en_1.1.pdf).
