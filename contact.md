@@ -2,7 +2,29 @@
 title: Contact us
 ---
 
-If you want to get in touch with RECON, you can either email <a href="mailto:thibautjombart@gmail.com">Thibaut Jombart</a> or fill out the form below. 
+RECON is headed by an Executive Board. The right person to contact depends on
+the nature of your enquiry.
+
+
+## Specific enquiries
+
+Our *coordinators* are our focal points for some of our main activities. Contact
+them in priority if your enquiry relates to one of these topics:
+
+- *field deployment*: [Patrick Keating](mailto:Patrick.Keating@lshtm.ac.uk)
+
+- *methodology*: [Anne Cori](mailto:a.cori@imperial.ac.uk)
+
+- *software development*: [Zhian Kamvar](mailto:zkamvar@gmail.com)
+
+- *training and capacity building*: [Amrish Baidjoe](mailto:amrish.baidjoe@gmail.com)
+
+
+
+## General enquiries
+
+For all other enquiries, including questions regarding membership, funding, or
+donations, please fill out the form below:
 
 <form action="https://formspree.io/thibautjombart@gmail.com" method="POST" class="form" id="contact-form">
   <div class="row">
@@ -13,7 +35,7 @@ If you want to get in touch with RECON, you can either email <a href="mailto:thi
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from RECON website">
+  <input type="hidden" name="_subject" value="General enquiry from RECON website">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
