@@ -1,66 +1,128 @@
 ---
 title: Joining us
-subtitle: How to join the R Epidemics Consortium community?
+subtitle: How to join the R Epidemics Consortium?
 ---
 
-## Change to come!
 
-RECON is currently being turned into a formal NGO structure. As such, membership
-will be formally redefined within a few weeks. In the meantime, registrations
-are frozen. The descriptions below relate to the former membership rules.
+## How can I join the RECON community?
+
+There are two ways to join our community, corresponding to different involvements:
+
+- as a *follower*, by signing up to our 
+[mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) 
+and getting involved in discussions on our
+[Slack organisation](https://reconhub.slack.com)
+
+- as a *member*, who actively contributes to the development of analytics
+  resources for RECON's areas of interest; this is typically more involved but
+  also offers advantages reserved to members; see the *Becoming a member*
+  section below
 
 
 
-## Who can join?
+## Becoming a member
+
+### Who are our members?
+
+[Members](people) form the backbone of RECON. They are actively involved in the
+development of analytics tools, contribute free and open training material, run
+our workshops, teach at our short courses, or are deployed to the field where
+they battle-test our resources to inform the response to disease outbreaks,
+health emergencies, and humanitarian crises. Through votes at our annual General
+Assembly, they can shape activities of RECON, and are also elligible for roles
+in the Executive Board. 
+
+
+### Why become a member?
+
+Members benefit from a number of advantages; they can:
+
+- attend and vote at general assemblies to shape the activities of RECON
+
+- be candidates to any post of the executive board during its election
+- have free access to the RECON mailing lists and forums
+
+- advertise their work, when in line with the remit of RECON, on the association
+  media, including newsletters, mailing lists, discussion forums, blogs and
+  websites
+
+- possess a confidential list of other RECON members to facilitate networking
+  within the association
+
+- attend meetings not otherwise open to the public, such as internal training
+  workshops, hackathons and retreats organised by the association
+
+- typically get a discount on RECON events where a registration fee applies
+
+- apply for, and benefit from internal resources of RECON (e.g. funding,
+  equipment)
+
+Benefits to members are formally defined in *Article 5.4* of our 
+[statutes](documents/statutes_en_1.1.pdf)
+
+
+
+### How to become a member?
 
 RECON aims to gather a community of people actively involved in the development
-of R packages for outbreak response. We are also welcoming experienced R
-developers as well as public health officers specialised in outbreak
-response. If you are not directly involved in outbreak response analytics,
-please send an email to [Thibaut Jombart](mailto:thibautjombart@gmail.com) to
-explain briefly why you would like to join, after having filled the registration
-form below. It is not uncommon for registrations to be put on a waiting list, so
-feel free to enquire if the process takes too long.
+of free analytics resources to inform the response to disease outbreaks, health
+emergencies, and humanitarian crises. Beyond the development of analytics tools,
+this also includes people contributing to training and capacity building, and
+people battle-testing our resources in the field.
+
+To become a member, you need to send an application via the online form provided
+below, and fulfil at least one contribution criteria. These criteria are
+detailed in the article 5.2 of our [statutes](documents/statutes_en_1.1.pdf),
+and can be summarised as:
+
+- *software development*: you made a substantial contribution to our packages,
+  either through new functions, new automated tests, documented datasets, or by
+  contributing new documentation
+  
+- *training and capacity building*: you contributed training material, typically on
+  [reconlearn.org](https://reconlearn.org), taught at one of our short courses,
+  or co-organised a workshop or a similar event
+  
+- *field deployment*: you battle-tested our resources during a deployment *in
+  country* to respond to a disease outbreak, a health emergency, or a
+  humanitarian crisis
 
 
+### Online application form
 
-## What does 'joining' mean?
+To send a membership application, follow [this link](https://goo.gl/forms/EZZekGD1tMPoGmPJ2) or fill the form below:
 
-Members have no obligation towards RECON. The ownership of any published
-material remains with their author(s).
-
-Members of RECON will:
-
-- be able to advertise their packages and relevant publications on this website
-- be able to publish posts on the [RECON blog](../blog)
-- be able to use the [Resources](../resources) section to share data, scripts, and teaching material
-- be automatically invited to the [RECON forum](../forum), which will host private and public discussions relating to outbreak analysis, modelling, and R programming
-- benefit from the expertise of other members in R package development
-- be invited to future RECON events (depending on practical constraints)
-- be able to host their package on the [RECON github organization](https://github.com/reconhub/), although this is by no way mandatory
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSep9aVVyACKi4SnPu7F_NZckK3oned5sL3-oWLRbRkFVo6X4g/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
-
-## How to join?
-
-Registrations are frozen whilst RECON is being transformed into a formal NGO structure.
 
 <br>
+
+
 
 ## Your data (legal stuff)
 
 In relation to the
 [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/),
 we hereby provide you with information regarding the data you provide while
-joining RECON. In short:
+joining RECON as a member. In short:
 
-- 'your data' refers to the information you provide when sending a request to
-  join RECON using the form linked above, including the profile picture
-  displayed online
+- '*your data*' refers to the information you provide when sending a request to
+  become a RECON member using the form linked above, including the profile
+  picture displayed online; when filling in the form, it will be made clear
+  which data becomes public or remains private; private data will typically be
+  your contact details
+  
 - your data will not be used for any commercial purpose
-- your data will not be shared with any third party
-- part of your data will be used to generate your
+
+- the public part of your data will be used to generate your
   [public profile](http://www.repidemicsconsortium.org/people/) on the RECON
-  website, with the exception of your email address, which will not be made
-  public
-- you can review, amend, or remove your data by sending [us](mailto:thibautjombart@gmail.com) an email 
+  website; this does not include personal contact information
+
+- your private data may be made available to other RECON members; when filling
+  in the form, you will be asked if you wish for this data to be made available
+
+- you can review, amend, or remove your data by [contacting us](contact) via
+  email
+  
+
