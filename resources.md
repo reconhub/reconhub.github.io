@@ -7,12 +7,12 @@ bigimg: /img/banners/mixed-deepblue.png
 
 # RECON learn
 
-[RECON learn](https://reconlearn.netlify.com/) is our new platform for sharing
+[reconlearn.org](https://reconlearn.org/) is our new platform for sharing
 free, open training material, including lectures, practicals, gists of code, and
 case studies. Click on the image below to access the website:
 
 <div class="list-circles">
-<a href="https://reconlearn.netlify.com/"><img src="https://reconlearn.netlify.com/img/logo/learn.png" alt="RECON learn" width="50%"></a>
+<a href="https://reconlearn.org/"><img src="https://reconlearn.netlify.com/img/logo/learn.png" alt="RECON learn" width="50%"></a>
 </div>
 
 <br>
