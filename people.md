@@ -119,7 +119,7 @@ members:
     twitter: http://twitter.com/fCampbell93
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
-    desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, United Kingdom.
+    desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/zulma.cucunuba
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
@@ -230,7 +230,7 @@ members:
     url: https://github.com/aspina7
   - name: Savina Stoitsova
     img: /img/people/savina-stoitsova.jpg
-    desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Sofia.
+    desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Bulgaria.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
 ---
