@@ -1,52 +1,7 @@
 ---
 title: People
 subtitle: The humans behind this project
-executive-board:
-  - name: Amrish Baidjoe
-    img: /img/people/amrish-baidjoe.jpg
-    desc: Vice president, Training and Capacity Building coordinator. Field epidemiologist/microbiologist, outbreak response expert. President of the EPIET alumni network. Imperial College London, UK.
-    website: https://ammer.tweakblogs.net/
-    url: https://ammer.tweakblogs.net/
-    twitter: https://twitter.com/Ammer_B
-  - name: Anne Cori
-    img: /img/people/anne-cori.jpg
-    desc: Methodology coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
-    website: http://www.imperial.ac.uk/people/a.cori
-    url: http://www.imperial.ac.uk/people/a.cori
-    github: https://github.com/annecori/
-  - name: Roz Eggo
-    img: /img/people/roz-eggo.jpg
-    desc: Deputy Treasurer. Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
-    github: https://github.com/rozeggo
-    url: https://github.com/rozeggo
-  - name: Thibaut Jombart
-    img: /img/people/thibaut-jombart.jpg
-    desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
-    website: https://thibautjombart.netlify.com/
-    url: https://thibautjombart.netlify.com/
-    github: https://github.com/thibautjombart/
-    twitter: https://twitter.com/TeebzR
-  - name: Zhian Kamvar
-    img: /img/people/zhian-kamvar.jpg
-    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
-    website: http://zkamvar.github.io
-    url: http://zkamvar.github.io
-    github: https://github.com/zkamvar
-    twitter: https://twitter.com/zkamvar
-  - name: Patrick Keating
-    img: /img/people/patrick-keating.jpg
-    desc: Deputy Secretary, Field Deployment coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
-  - name: Lulla Opatowski
-    img: /img/people/lulla-opatowski.jpg
-    desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
-    website: https://research.pasteur.fr/en/member/lulla-opatowski/
-    url: https://research.pasteur.fr/en/member/lulla-opatowski/
-  - name: Claire Thomson
-    img: /img/people/claire-thomson.jpg
-    website: http://www.imperial.ac.uk/people/c.thomson
-    url: http://www.imperial.ac.uk/people/c.thomson
-    desc: Deputy Treasurer. Imperial College London, UK.
-advisory-board:
+board-list:
   - name: Gregory Armstrong
     img: /img/people/gregory-armstrong.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
@@ -79,7 +34,25 @@ advisory-board:
     desc:  Professor of infectious disease modelling at Leiden University Medical Center, Head of the Infectious Disease Modelling Department at the National Institute for Public Health and the Environment (RIVM), The Netherlands.
     website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
     url: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
-members:
+admin-list:
+  - name: Claire Thomson
+    img: /img/people/claire-thomson.jpg
+    website: http://www.imperial.ac.uk/people/c.thomson
+    url: http://www.imperial.ac.uk/people/c.thomson
+    desc: Administrative support. Imperial College London, UK.
+  - name: Evgenia Markvardt
+    img: /img/people/evgenia-markvardt.jpg
+    website: http://www.imperial.ac.uk/people/e.markvardt
+    url: http://www.imperial.ac.uk/people/e.markvardt
+    desc: Administrative support. Imperial College London, UK.
+people-list:
+  - name: Thibaut Jombart
+    img: /img/people/thibaut-jombart.jpg
+    desc: Founder of RECON. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
+    website: https://sites.google.com/site/thibautjombart/
+    url: https://sites.google.com/site/thibautjombart/
+    github: https://github.com/thibautjombart/
+    twitter: https://twitter.com/TeebzR
   - name: Philip AbdelMalik
     img: /img/people/philip-abdelmalik.jpg
     desc: Epidemiologist focused on epidemic intelligence and health informatics. World Health Organization, Switzerland.
@@ -100,6 +73,12 @@ members:
     url: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Amrish Baidjoe
+    img: /img/people/amrish-baidjoe.jpg
+    desc: Field epidemiologist/microbiologist, outbreak response expert, and RECON coordinator. President of the EPIET alumni network. Imperial College London, UK.
+    website: https://ammer.tweakblogs.net/
+    url: https://ammer.tweakblogs.net/
+    twitter: https://twitter.com/Ammer_B
   - name: Robert Balshaw
     img: /img/people/robert-balshaw.jpg
     desc: Caretaker for the aberration detection algorithm PHIDO, shiny developer. British Columbia Centre for Disease Control, Canada.
@@ -134,6 +113,12 @@ members:
   - name: David Champredon
     img: /img/people/david-champredon.jpg
     desc: Epidemic modelling. McMaster University, Canada.
+  - name: Anne Cori
+    img: /img/people/anne-cori.jpg
+    desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/a.cori
+    url: http://www.imperial.ac.uk/people/a.cori
+    github: https://github.com/annecori/
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
     desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, United Kingdom.
@@ -167,6 +152,11 @@ members:
     desc: HIV surveillance, estimation, mathematical modelling, and policy in sub-Saharan Africa. Imperial College London, UK.
     github: https://github.com/jeffeaton
     url: https://github.com/jeffeaton
+  - name: Roz Eggo
+    img: /img/people/roz-eggo.jpg
+    desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
+    github: https://github.com/rozeggo
+    url: https://github.com/rozeggo
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
     desc: Epidemiological modelling, cholera, real-time analysis, spatial dynamics, environmental determinants of outbreaks. London School of Hygiene and Tropical Medicine, United Kingdom.
@@ -255,6 +245,13 @@ members:
     desc: Developer of the R package spatialpred. Johns Hopkins Bloomberg School of Public Health, USA.
     website: http://iddynamics.jhsph.edu
     url: http://iddynamics.jhsph.edu
+  - name: Zhian Kamvar
+    img: /img/people/zhian-kamvar.jpg
+    desc: R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
+    website: http://zkamvar.github.io
+    url: http://zkamvar.github.io
+    github: https://github.com/zkamvar
+    twitter: https://twitter.com/zkamvar
   - name: Andee Kaplan
     img: /img/people/andee-kaplan.jpg
     desc: shiny, D3, JavaScript. Iowa State University, USA.
@@ -265,6 +262,9 @@ members:
   - name: Ioannis Karagiannis
     img: /img/people/ioannis-karagiannis.jpg
     desc: Epidemiologist and coordinator of the UK field epidemiology training programme (FETP), EPIET alumnus with a background in biostatistics. Public Health England, UK.
+  - name: Patrick Keating
+    img: /img/people/patrick-keating.jpg
+    desc: Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Nelson Kibinge
     img: /img/people/nelson-kibinge.jpg
     desc: Bioinformatician with an interest in RSV diversity and surveillance efficiency. KEMRI-Wellcome Trust Research program Kenya, Kenya.
@@ -564,20 +564,12 @@ members:
 ---
 
 
-## Executive board
+## Community
 
-These people are currently heading RECON.
+RECON is a group of people sharing their time and expertise to lead, facilitate, advise, and promote the development of analysis tools for outbreak response using the [R software](https://www.r-project.org/). The list of people below is growing as we are recruiting more members. See [this page](../join) to join us.
 
-{% include list-circles.html items=page.executive-board %}
+{% include list-circles.html items=page.people-list %}
 
-
-
-## Members
-
-Members are people actively involved in, and contributing to, RECON's activities. 
-See [this page](../join) if you would like more information on membership.
-
-{% include list-circles.html items=page.members %}
 
 
 
@@ -585,7 +577,29 @@ See [this page](../join) if you would like more information on membership.
 
 We are extremely lucky to have the following people supporting and guiding our efforts:
 
-{% include list-circles.html items=page.advisory-board %}
+{% include list-circles.html items=page.board-list %}
 
 
+
+
+## Administration
+
+RECON also benefits from some outstanding administrative support from the following people:
+
+{% include list-circles.html items=page.admin-list %}
+
+
+
+## Former members
+
+Their interests may have shifted since, but these people were at some point
+members of RECON for at least a year:
+
+- Thomas Crellen
+- Tini Garske
+- Martin Hinsch
+- Eben Kenah
+- John Lees
+- Oliver Watson
+- James Hayward
 
