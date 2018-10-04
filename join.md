@@ -25,7 +25,7 @@ and getting involved in discussions on our
 
 ### Who are our members?
 
-[Members](people) form the backbone of RECON. They are actively involved in the
+[Our members](people) form the backbone of RECON. They are actively involved in the
 development of analytics tools, contribute free and open training material, run
 our workshops, teach at our short courses, or are deployed to the field where
 they battle-test our resources to inform the response to disease outbreaks,
