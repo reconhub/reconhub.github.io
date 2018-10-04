@@ -94,8 +94,7 @@ To send a membership application, follow [this link](https://goo.gl/forms/EZZekG
 <br>
 
 
-
-## Your data (legal stuff)
+## Data privacy statement
 
 In relation to the
 [General Data Protection Regulation (GDPR)](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/),
@@ -111,13 +110,13 @@ joining RECON as a member. In short:
 - your data will not be used for any commercial purpose
 
 - the public part of your data will be used to generate your
-  [public profile](http://www.repidemicsconsortium.org/people/) on the RECON
+  [public profile](../people) on the RECON
   website; this does not include personal contact information
 
 - your private data may be made available to other RECON members; when filling
   in the form, you will be asked if you wish for this data to be made available
 
-- you can review, amend, or remove your data by [contacting us](contact) via
+- you can review, amend, or remove your data by [contacting us](../contact) via
   email
   
 
