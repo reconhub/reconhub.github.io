@@ -6,9 +6,10 @@
 The **R** **E**pidemics **Con**sortium (RECON) is international
 not-for-profit, **non-governmental organisation** gathering experts in data
 science, modelling methodology, public health, and software development to
-create the **next generation of analytics tools** for *informing the response
-to disease outbreaks, health emergencies and humanitarian crises*, using the [R
-software](https://www.r-project.org/) and other free, open-source resources.
+create the next generation of analytics tools for informing the response
+to *disease outbreaks*, *health emergencies* and *humanitarian crises*, 
+using the [R software](https://www.r-project.org/) and other free, 
+open-source resources.
 
 This includes packages specifically designed for handling, visualising, and
 analysing outbreak data using cutting-edge statistical methods, as well as more
