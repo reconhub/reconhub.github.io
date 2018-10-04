@@ -28,7 +28,7 @@ executive-board:
     twitter: https://twitter.com/TeebzR
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
-    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
+    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: http://zkamvar.github.io
     url: http://zkamvar.github.io
     github: https://github.com/zkamvar
@@ -45,7 +45,7 @@ executive-board:
     img: /img/people/claire-thomson.jpg
     website: http://www.imperial.ac.uk/people/c.thomson
     url: http://www.imperial.ac.uk/people/c.thomson
-    desc: Deputy Treasurer. Imperial College London, UK.
+    desc: Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
 advisory-board:
   - name: Gregory Armstrong
     img: /img/people/gregory-armstrong.jpg
