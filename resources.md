@@ -57,4 +57,4 @@ Currently available videos include:
 # Make a request
 
 Do you feel there is a need for a new package, new training resources, or would
-you like to request a training workshop or a hackathon? See our [contact page](../contacts) to get in touch with us.
+you like to request a training workshop or a hackathon? See our [contact page](../contact) to get in touch with us.
