@@ -11,12 +11,12 @@ From the closest to the more distant, these are our next events:
 
 - [ESCAIDE 2018 pre-workshop](https://recon-malta-2018.netlify.com/): 2 days **short course** giving an introdution to outbreak response analytics using R, 19-20 November 2018, Malta
 
-- WHO Afro workshop on outbreak response analytics, 10-14 December 2018, Dakar, Senegal
-
 - [Hackfest 3: *SitReps and Case Studies*](https://recon-hackfest-3.netlify.com)
   (2018, Malta): 2 days interactive workshop where participants can bring their
   data, problems and questions, and go back home with a customised case study or
   sitrep, using state-of-the art analysis tools.
+
+- WHO Afro workshop on outbreak response analytics, 10-14 December 2018, Dakar, Senegal
 
 
 <br>
