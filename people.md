@@ -161,6 +161,9 @@ members:
     website: http://www.africanriskcapacity.org
     url: http://www.africanriskcapacity.org
     twitter: https://twitter.com/hskyobe
+  - name: Olivier Le Polain
+    img: /img/people/olivier-le-polain.jpg
+    desc: Senior Epidemiologist, UK-Public Health Rapid Support Team, UK.
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -233,6 +236,9 @@ members:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Bulgaria.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+  - name: Jean-Pierre Veyrenche
+    img: /img/people/jean-pierre-veyrenche.jpg
+    desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
 ---
 
 
