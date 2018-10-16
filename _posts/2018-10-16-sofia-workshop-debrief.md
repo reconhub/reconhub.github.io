@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R in Sofia, Bulgaria"
-subtitle: "Reporting back from RECON's first training workshop"
+subtitle: "Reporting back from RECON's first FETP-tailored workshop"
 bigimg: "/img/posts/sofia-2018/sofia-bg.jpg"
 ---
 
