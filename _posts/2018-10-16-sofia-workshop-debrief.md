@@ -9,7 +9,7 @@ The R Epidemics Consortium (RECON) together with the [EPIET Alumni Network
 introduction into using R for surveillance and outbreak
 analytics](https://recon-sofia-2018.netlify.com/)". The course was held from
 the 8-11 October 2018 in Sofia, Bulgaria, and delivered by Thibaut Jombart,
-Zhian Kamvar, Janetta Skarp, and Savina Soistova. This was the first course
+Zhian Kamvar, Janetta Skarp, and Savina Stoitsova. This was the first course
 RECON organised tailored to participants with a Field-Epidemiology background.
 The course was attended by more than 25 participants, arriving from all over
 Europe (Albania, Belgium, Bulgaria, Germany, Greece, Kosovo, Montenegro,
@@ -18,7 +18,7 @@ by a survey sent to the participants well before the course started in which
 they stated their interests for subjects within the course.
 
 ![
-Savina Soistova giving the introductory lecture with an overview of the
+Savina Stoitsova giving the introductory lecture with an overview of the
 techniques used in the practicals
 ](/img/posts/sofia-2018/photo2.png)
 
