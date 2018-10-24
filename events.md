@@ -7,8 +7,6 @@ title: Events
 
 From the closest to the more distant, these are our next events:
 
-- [outbreak analysis in Sofia](https://recon-sofia-2018.netlify.com/): 4 days **short course** giving an introduction to epidemiological case studies and outbreak response analytics; 8-11 October 2018, Sofia, Bulgaria 
-
 - [ESCAIDE 2018 pre-workshop](https://recon-malta-2018.netlify.com/): 2 days **short course** giving an introdution to outbreak response analytics using R, 19-20 November 2018, Malta
 
 - [Hackfest 3: *SitReps and Case Studies*](https://recon-hackfest-3.netlify.com)
@@ -27,6 +25,9 @@ From the closest to the more distant, these are our next events:
 
 From the most recent to the oldest, here are our short courses and training
 workshops:
+
+
+- [outbreak analysis in Sofia](https://recon-sofia-2018.netlify.com/): 4 days **short course** giving an introduction to epidemiological case studies and outbreak response analytics; 8-11 October 2018, Sofia, Bulgaria 
 
 - introduction to infectious disease modelling, 21-23 May 2018, Johannesburg,
   South Africa
