@@ -4,27 +4,46 @@ subtitle: Discussing outbreak analytics and R programming.
 ---
 
 
-## The forum
 
-### What is the RECON forum?
+## Getting in touch quickly using *slack*
 
-The RECON forum provides a platform for public as well as private discussions relating to the use and development of tools for disease outbreaks analysis in R. Since March 2018, we have replaced the former *Discourse* forum by a simple [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum), which turns out to be easier to use for most people. 
+### What is slack?
+
+[*Slack*](https://slack.com/) is a free instant messaging application running on multiple platforms, including mobile phones. It is ideal for short discussions which do not need archiving. Whether it is to ask methodological questions, get some help with **R**, coordinate meetings or developments, to announce an event, or for social purposes. This is the best place to interact virtually with our community.
 
 
 ### What to use it for?
 
-RECON member or not, you should feel free to join the forum and send post
-relating to outbreak analysis. This can be, for instance:
+Slack is designed for chats and interactive discussions; it will be your go-to for most topics such as:
 
-- to ask a question about statistical methods, the use of a package, or on how
-  to achieve a specific task in R
+- getting general help with **R**
+- getting help on a specific data analysis
+- discussing methods and statistics
+- discussing events such as conferences and workshops
+- coordinating social events
+- getting together a working group on a topic of your choice
+
+
+### How to use it?
+
+You can join our slack organisation by registering your email [here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI). Once you confirmed your address, you can acess our slack by going to [reconhub.slack.com](https://reconhub.slack.com). Slack will work from most web browsers; alternatively, you can install the slack app for your system once you have logged into slack (check [this video](https://www.youtube.com/watch?v=vKeo1YTVfZI) to see how).
+
+
+<br>
+
+## Announcements and news: use our mailing list *RECON forum*
+
+
+### What to use it for?
+
+Our mailing list is opened to all, RECON member or not, and is used mostly for announcements about new packages, events, job ads, and some occasional in-depth discussions on health analytics.
+
 - to advertise a new position, an R package, a blog post, a relevant paper, or
   an event
 - to advertise a need for staff deployment for an outbreak response
 - to ask for help for a given project
-- to offer a specific type of help
-
-
+- to ask a question about statistical methods, the use of a package, or on how
+  to achieve a specific task in R (although we may point you to slack for practical help, sharing code etc.)
 
 
 
@@ -34,29 +53,6 @@ Follow [this link](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to sub
 
 **To post** to the forum, send an email to [recon-forum@imperial.ac.uk](mailto:recon-forum@imperial.ac.uk). Note that the list is moderated for non-members, so that you will need to [subscribe](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to make sure your post goes through.
 
-<br>
 
 
-
-
-## RECON on slack
-
-### What is slack?
-
-[*Slack*](https://slack.com/) is a free instant messaging application running on multiple platforms, including mobile phones. It is ideal for discussing projects, coordinating ongoing developments, or getting help on technical issues.
-
-
-### What to use it for?
-
-Slack is designed for chat and interactive discussions; it will typically be more suitable than emails for:
-
-- live project coordination
-- rapid technical help
-- chatting across computers and mobile devices
-
-
-
-### How to use it?
-
-You can join our slack organisation by registering your email [here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI). Once you confirmed your address, you can acess our slack by going to [reconhub.slack.com](https://reconhub.slack.com). Slack will work from most web browsers; alternatively, you can install the slack app for your system once you have logged into slack (check [this video](https://www.youtube.com/watch?v=vKeo1YTVfZI) to see how).
 
