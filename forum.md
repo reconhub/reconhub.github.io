@@ -54,5 +54,3 @@ Follow [this link](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to sub
 **To post** to the forum, send an email to [recon-forum@imperial.ac.uk](mailto:recon-forum@imperial.ac.uk). Note that the list is moderated for non-members, so that you will need to [subscribe](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to make sure your post goes through.
 
 
-
-
