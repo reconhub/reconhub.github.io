@@ -61,6 +61,11 @@ recon-list:
     url: http://reconlearn.netlify.com
     website: http://reconlearn.netlify.com
     img: /img/projects/orange.png
+  - name: epiflows
+    desc: Visualisation and analysis of passenger flows
+    github: https://github.com/reconhub/epiflows
+    url: https://repidemicsconsortium.org/epiflows
+    img: /img/projects/purple.png
 related-list:
   - name: EpiEstim
     desc: Quantifying transmissibility throughout an epidemic from incidence time series.
@@ -138,11 +143,6 @@ upcoming-list:
     github: http://github.com/reconhub/epicontacts.ui
     url: http://github.com/reconhub/epicontacts.ui
     img: /img/projects/orange.png
-  - name: epiflows
-    desc: Visualisation and analysis of passenger flows
-    github: https://github.com/reconhub/epiflows
-    url: https://github.com/reconhub/epiflows
-    img: /img/projects/purple.png
   - name: epimaps
     desc: Helpers and wrappers for mapping diseases
     github: https://github.com/reconhub/epimaps
