@@ -26,7 +26,7 @@ Slack is designed for chats and interactive discussions; it will be your go-to f
 
 ### How to use it?
 
-You can join our slack organisation by registering your email [here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI). Once you confirmed your address, you can acess our slack by going to [reconhub.slack.com](https://reconhub.slack.com). Slack will work from most web browsers; alternatively, you can install the slack app for your system once you have logged into slack (check [this video](https://www.youtube.com/watch?v=vKeo1YTVfZI) to see how).
+You can [join our slack organisation by registering your email here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI). Once you confirmed your address, you can acess our slack by going to [reconhub.slack.com](https://reconhub.slack.com). Slack will work from most web browsers; alternatively, you can install the slack app for your system once you have logged into slack (check [this video](https://www.youtube.com/watch?v=vKeo1YTVfZI) to see how).
 
 
 <br>
