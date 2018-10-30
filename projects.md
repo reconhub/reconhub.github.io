@@ -100,12 +100,12 @@ related-list:
     desc: Molecular clock dating of pathogen phylogenies. 
     github: https://github.com/emvolz/treedater
     url: https://cran.r-project.org/web/packages/treedater/index.html
-    img: http://raw.githubusercontent.com/emvolz/treedater/master/figure/tdlogo.png
+    img: https://raw.githubusercontent.com/emvolz/treedater/master/figure/tdlogo.png
   - name: skygrowth
     desc: Phylodynamic inference of effective population size through time.
     github: https://github.com/mrc-ide/skygrowth
     url: https://github.com/mrc-ide/skygrowth
-    img: http://raw.githubusercontent.com/mrc-ide/skygrowth/master/figure/sglogo.png
+    img: https://raw.githubusercontent.com/mrc-ide/skygrowth/master/figure/sglogo.png
 upcoming-list:
   - name: branchr
     desc: R Estimation from Cluster Sizes
