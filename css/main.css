@@ -678,7 +678,7 @@ td.gutter {
 }
 
 .list-circles-item .item-img {
-  width: 200px;
+  max-width: 200px;
   height: 200px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
