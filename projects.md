@@ -31,12 +31,6 @@ recon-list:
     url: https://www.repidemicsconsortium.org/incidence
     website: https://reconhub.github.io/incidence
     img: https://raw.githubusercontent.com/reconhub/incidence/master/artwork/logo/logo.png
-  - name: linelist
-    desc: Tools to Import and Tidy Case Linelist Data
-    github: https://github.com/reconhub/linelist
-    url: https://www.repidemicsconsortium.org/linelist
-    website: https://www.repidemicsconsortium.org/linelist
-    img: /img/projects/purple.png
   - name: outbreaker2
     desc: Modular framework for outbreak reconstruction.
     github: https://github.com/reconhub/outbreaker2
@@ -174,6 +168,12 @@ upcoming-list:
     github: https://github.com/reconhub/incidence.ui
     url: https://github.com/reconhub/incidence.ui
     img: /img/projects/yellow.png
+  - name: linelist
+    desc: Tools to Import and Tidy Case Linelist Data
+    github: https://github.com/reconhub/linelist
+    url: https://www.repidemicsconsortium.org/linelist
+    website: https://www.repidemicsconsortium.org/linelist
+    img: /img/projects/purple.png
   - name: nomad
     desc: Pack up R to take away
     github: https://github.com/reconhub/nomad
