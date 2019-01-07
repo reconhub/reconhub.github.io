@@ -5,19 +5,12 @@ title: Events
 
 ## Up and coming!
 
-From the closest to the more distant, these are our next events:
+<!-- From the closest to the more distant, these are our next events: -->
 
-- [ESCAIDE 2018 pre-workshop](https://recon-malta-2018.netlify.com/): 2 days **short course** giving an introdution to outbreak response analytics using R, 19-20 November 2018, Malta
-
-- [Hackfest 3: *SitReps and Case Studies*](https://recon-hackfest-3.netlify.com)
-  (2018, Malta): 2 days interactive workshop where participants can bring their
-  data, problems and questions, and go back home with a customised case study or
-  sitrep, using state-of-the art analysis tools.
-
-- WHO Afro workshop on outbreak response analytics, 10-14 December 2018, Dakar, Senegal
+Our future events are being confirmed. Watch this space for some news soon!
 
 
-<br>
+
 
 ## Past events
 
@@ -26,6 +19,9 @@ From the closest to the more distant, these are our next events:
 From the most recent to the oldest, here are our short courses and training
 workshops:
 
+- Introduction to outbreak response analytics using R with WHO Afro, 10-14 December 2018, Cotonou, Bénin
+
+- [ESCAIDE 2018 pre-workshop](https://recon-malta-2018.netlify.com/): 2 days **short course** giving an introdution to outbreak response analytics using R, 19-20 November 2018, Malta
 
 - [outbreak analysis in Sofia](https://recon-sofia-2018.netlify.com/): 4 days **short course** giving an introduction to epidemiological case studies and outbreak response analytics; 8-11 October 2018, Sofia, Bulgaria 
 
@@ -46,6 +42,11 @@ workshops:
 RECON Hackfests continue the process initiated during the Hackout events:
 bringing people together to make new advances in the development of tools for
 outbreak response.
+
+- [Hackfest 3: *SitReps and Case Studies*](https://recon-hackfest-3.netlify.com)
+  (2018, Malta): 2 days interactive workshop where participants can bring their
+  data, problems and questions, and go back home with a customised case study or
+  sitrep, using state-of-the art analysis tools.
 
 - [Hackfest 2](http://www.repidemicsconsortium.org/hackfest2/) (2017, London):
   *mapping epidemics*
