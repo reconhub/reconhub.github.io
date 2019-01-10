@@ -45,5 +45,5 @@ increasingly dedicated to:
 *incorporated association* regulated by the French law (registration number
 W751246083), in accordance to the association law of 1st July 1901 and the
 decree of the 16th August 1901. For more information about the remit of RECON,
-check our official statutes [in English](documents/statutes_en_1.1.pdf) or in
+check our official statutes in [English](documents/statutes_en_1.1.pdf) or in
 [French](documents/statutes_fr_1.1.pdf).
