@@ -113,6 +113,11 @@ related-list:
     url: https://github.com/mrc-ide/skygrowth
     img: https://raw.githubusercontent.com/mrc-ide/skygrowth/master/figure/sglogo.png
 upcoming-list:
+  - name: bpmodels
+    desc: Analysis of transmission chains using branching processes.
+    github: https://github.com/sbfnk/bpmodels
+    url: https://github.com/sbfnk/bpmodels
+    img: /img/projects/orange.png
   - name: branchr
     desc: R Estimation from Cluster Sizes
     github: https://github.com/reconhub/branchr
