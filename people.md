@@ -200,7 +200,7 @@ members:
     twitter: https://twitter.com/jonny_polonsky
   - name: Juliet Pulliam
     img: /img/people/juliet-pulliam.jpg
-    desc: Infectious disease modeler focusing on outbreaks and zoonotic diseases. Acting Program Director of the International Clinics on Infectious Disease Dynamics and Data (<a href="http://ici3d.org">ICI3D</a>). Director, South African Centre for Epidemioligcal Modelling and Analysis (SACEMA), South Africa.
+    desc: Infectious disease modeler focusing on outbreaks and zoonotic diseases. Acting Program Director of the <a href="http://ici3d.org">ICI3D</a>. Director, South African Centre for Epidemioligcal Modelling and Analysis (SACEMA), South Africa.
     website: http://www.sacema.org
     url: http://www.sacema.org/people/staff
     github: https://github.com/jrcpulliam
