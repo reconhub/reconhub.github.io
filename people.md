@@ -246,6 +246,9 @@ members:
   - name: Jean-Pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
+  - name: Christopher Jarvis
+    img: /img/people/Jarvis.jpg
+    desc: Statistician and Researcher at LSHTM.
 ---
 
 
