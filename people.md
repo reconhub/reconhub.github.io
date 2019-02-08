@@ -164,6 +164,13 @@ members:
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
     desc: Senior Epidemiologist, UK-Public Health Rapid Support Team, UK.
+  - name: Greg Martin
+    img: /img/people/greg-martin.jpeg
+    desc: Health service executive; Host of Global Health and R Programming 101 YouTube series
+    website: https://www.youtube.com/c/drgregmartin
+    url: https://www.youtube.com/c/drgregmartin
+    twitter: https://twitter.com/drgregmartin
+    github: https://github.com/drgregmartin
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
