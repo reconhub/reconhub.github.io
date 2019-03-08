@@ -31,6 +31,12 @@ recon-list:
     url: https://www.repidemicsconsortium.org/incidence
     website: https://reconhub.github.io/incidence
     img: https://raw.githubusercontent.com/reconhub/incidence/master/artwork/logo/logo.png
+  - name: aweek
+    desc: Convert dates to arbitrary week definitions including epiweek, isoweek, and more
+    github: https://github.com/reconhub/aweek
+    url: https://www.repidemicsconsortium.org/aweek
+    website: https://www.repidemicsconsortium.org/aweek
+    img: /img/projects/purple.png
   - name: outbreaker2
     desc: Modular framework for outbreak reconstruction.
     github: https://github.com/reconhub/outbreaker2
