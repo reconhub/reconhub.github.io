@@ -3,7 +3,7 @@
 
 <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
 
-The **R** **E**pidemics **Con**sortium (RECON) is international
+The **R** **E**pidemics **Con**sortium (RECON) is an international
 not-for-profit, **non-governmental organisation** gathering experts in data
 science, modelling methodology, public health, and software development to
 create the next generation of analytics tools for informing the response
