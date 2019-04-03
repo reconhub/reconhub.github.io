@@ -25,20 +25,23 @@ Our packages must fulfil three key aspects:
   professional software development methods.
 
 - *Accessibility*: our tools are free, open-source, and available on virtually
-  any platform; they can be used with different levels of expertise, and provide
-  graphical user interfaces implementing the most important functionalities.
+  any platform; they can be used with different levels of expertise, and aim to
+  provide graphical user interfaces implementing the most important
+  functionalities.
 
 Besides its active involvement in the creation of tools, RECON is also
 increasingly dedicated to:
 
-- *disseminating knowledge*: RECON is developing a new training platform, and a
-   series of workshops and short courses on epidemics analysis and outbreak
-   response. Our [public forum ](/forum) is also dedicated to sharing exptertise
-   on these topics.
+- *disseminating knowledge*: RECON provides free, open-access training material
+   on its training platform [reconlearn.org](https://reconlearn.org), and
+   regularly organises workshops and short courses on outbreak analytics and
+   data science. Our [public forum ](/forum), freely accessible to anyone, is
+   dedicated to sharing exptertise on these topics.
 
-- *outbreak response deployment*: RECON supports the deployment of data analysts
-   to the field as part of outbreak response teams; this includes the deployment
-   of staff as well as analysis systems adapted to low resources settings.
+- *outbreak response deployment*: RECON supports the deployment of data
+   analytics resources to the field as part of the response to health
+   emergencies; this includes the deployment of staff as well as analysis
+   systems adapted to low resources settings.
 
 
 <br> As of 19th September 2018, RECON is registered as a *not-for-profit*,
