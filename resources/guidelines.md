@@ -84,7 +84,7 @@ When collaborating with other people on a package, it's easy to feel overwhelmed
 with keeping track of a moving target. Here, we'll outline a few practices that
 will help make the experience easier:
 
- - **Define a clear code of conduct**. You can use `usethis::use_coc()` to
+ - **Define a clear code of conduct**. You can use `usethis::use_code_of_conduct()` to
    template it if you haven't done so already.
 
  - **Add a CONTRIBUTING.md file**. This file will describe the kind of
@@ -104,7 +104,9 @@ will help make the experience easier:
 
 ## Credits
 
-Besides the [*rOpenSci*](http://ropensci.org/) whose guidelines we largely adopted, the following people contributed to these guidelines; in alphabetic order:
+Besides the [*rOpenSci*](http://ropensci.org/) whose guidelines we largely
+adopted, the following people contributed to these guidelines; in alphabetic
+order:
 
 - Gabor Csardi
 - Rich Fitzjohn
@@ -112,5 +114,3 @@ Besides the [*rOpenSci*](http://ropensci.org/) whose guidelines we largely adopt
 - Zhian N. Kamvar
 - Noam Ross
 
-<br>
-<br>

@@ -12,6 +12,7 @@ navbar-links:
     - What we do: ""
     - Join us: "join"
     - Contact: "contact"
+    - Code of Conduct: "CODE_OF_CONDUCT"
   News: "blog"
   People: "people"
   Projects: "projects"

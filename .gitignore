@@ -1,5 +1,6 @@
 _site/
 *~
+*.swp
 R/.Rhistory
 R/.httr-oauth
 R/.RData
