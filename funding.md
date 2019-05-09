@@ -21,6 +21,7 @@ acknowledge institutions who supported RECON in terms of:
   
 
 
+<br>
 
 ## Direct funding
 
@@ -28,6 +29,7 @@ RECON has received no direct funding this far. If you would like to support our
 activities, please be in touch by [email](mailto:thibautjombart@gmail.com).
 
 
+<br>
 
 ## Indirect funding
 
@@ -58,12 +60,13 @@ Malta in 2018.
 
 
 
+<br>
 
 ## Partners
 
 In alphabetic order, our partners include:
 
-### the EPIET Alumni Network (EAN)
+### The EPIET Alumni Network (EAN)
 
 The [EAN](https://epietalumni.net/) is a regular partner for co-organising
 workshops and shot-courses, including satellite events to the ESCAIDE conference
