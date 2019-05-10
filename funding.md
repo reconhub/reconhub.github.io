@@ -60,6 +60,21 @@ Malta in 2018.
 
 
 
+### UK Public Health Rapid Support Team (UK-PHRST)
+
+The [UK-PHRST](https://www.lshtm.ac.uk/UKPHRST) is a unique collaboration
+between Public Health England and the London School of Hygiene and Tropical
+Medicine to provide and coordinate the UK’s public health response to outbreaks
+in low- and middle-income countries. In addition to the public health response,
+the UK-PHRST conducts outbreak-related research and capacity building for
+outbreak response. The UK-PHRST is financed through UK Official Development
+Assistance funding and supports RECON primarily through salary support of some
+members and meeting sponsorship.
+
+
+
+
+
 <br>
 
 ## Partners
