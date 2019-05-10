@@ -50,12 +50,14 @@ the creation of RECON, as well as for our first meeting on outbreak analytics in
 ### NIHR Health Protection Research Unit for Modelling Methodology (NIHR HPRU MM)
 
 A structural collaboration between Public Health England and Imperial College
-London, the NIHR HPRU MM has supported events, activities and members salaries
-since the emergence of RECON. In particular, it funded most of our short course
-in
-[Sofia](https://recon-sofia-2018.netlify.com/) and the satelite
-[short course](https://recon-malta-2018.netlify.com/) and 
-[workshop](https://recon-hackfest-3.netlify.com/) for the ESCAIDE conference in 
+London, the [NIHR HPRU MM](https://www.imperial.ac.uk/hpru-modelling)
+(HPRU-2012-10080) has been established in 2014 with the aim of developing novel
+analytical and computational tools to improve public health. It has supported
+events, activities and members salaries since the emergence of RECON. In
+particular, it funded most of our short course in
+[Sofia](https://recon-sofia-2018.netlify.com/) and the satelite 
+[short course](https://recon-malta-2018.netlify.com/) and
+[workshop](https://recon-hackfest-3.netlify.com/) for the ESCAIDE conference in
 Malta in 2018.
 
 
