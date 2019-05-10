@@ -25,8 +25,8 @@ acknowledge institutions who supported RECON in terms of:
 
 ## Direct funding
 
-RECON has received no direct funding this far. If you would like to support our
-activities, please be in touch by [email](mailto:thibautjombart@gmail.com).
+RECON has received no direct funding to date. If you would like to support our
+activities, please get in touch by [email](mailto:thibautjombart@gmail.com).
 
 
 <br>
@@ -36,27 +36,42 @@ activities, please be in touch by [email](mailto:thibautjombart@gmail.com).
 ### MRC Centre for Global Infectious Disease Analysis (MRC GIDA)
 
 Based at Imperial College London and headed by 
-[Pr Neil Ferguson](https://www.imperial.ac.uk/people/neil.ferguson), the 
+[Pr Neil Ferguson](https://www.imperial.ac.uk/people/neil.ferguson), 
 [MRC GIDA](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/about-us/) 
-has played a key role supporting the emergence of RECON and its activities
-since, by helping us fund various events and supporting salaries of several key
-members. In particular, it provided the core funding for 
+has played a key role supporting the emergence of RECON and its activities, by
+helping us fund various events and supporting salaries of several key
+members. In particular, it provided the core funding for
 [Hackout 3](http://hackout3.ropensci.org/), which led to
 the creation of RECON, as well as for our first meeting on outbreak analytics in
 [March 2018](https://recon-gathering-march2018.netlify.com/).
 
 
 
-### NIHR Health Protection Research Unit (NIHR HPRU)
+### NIHR Health Protection Research Unit for Modelling Methodology (NIHR HPRU MM)
 
 A structural collaboration between Public Health England and Imperial College
-London, the NIHR HPRU for Modelling Methodology has supported events, activities
-and members salaries since the emergence of RECON. In particular, it funded most
-of our short course in 
+London, the NIHR HPRU MM has supported events, activities and members salaries
+since the emergence of RECON. In particular, it funded most of our short course
+in
 [Sofia](https://recon-sofia-2018.netlify.com/) and the satelite
 [short course](https://recon-malta-2018.netlify.com/) and 
 [workshop](https://recon-hackfest-3.netlify.com/) for the ESCAIDE conference in 
 Malta in 2018.
+
+
+
+### UK Public Health Rapid Support Team (UK-PHRST)
+
+The [UK-PHRST](https://www.lshtm.ac.uk/UKPHRST) is a unique collaboration
+between Public Health England and the London School of Hygiene and Tropical
+Medicine to provide and coordinate the UK’s public health response to outbreaks
+in low- and middle-income countries. In addition to the public health response,
+the UK-PHRST conducts outbreak-related research and capacity building for
+outbreak response. The UK-PHRST is financed through UK Official Development
+Assistance funding and supports RECON primarily through salary support of some
+members and meeting sponsorship.
+
+
 
 
 
