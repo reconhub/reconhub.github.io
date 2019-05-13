@@ -38,9 +38,9 @@ activities, please get in touch by [email](mailto:thibautjombart@gmail.com).
 Based at Imperial College London and headed by 
 [Pr Neil Ferguson](https://www.imperial.ac.uk/people/neil.ferguson), 
 [MRC GIDA](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/about-us/) 
-has played a key role supporting the emergence of RECON and its activities, by
-helping us fund various events and supporting salaries of several key
-members. In particular, it provided the core funding for
+(MR/R015600/1) has played a key role supporting the emergence of RECON and its
+activities, by helping us fund various events and supporting salaries of several
+key members. In particular, it provided the core funding for
 [Hackout 3](http://hackout3.ropensci.org/), which led to
 the creation of RECON, as well as for our first meeting on outbreak analytics in
 [March 2018](https://recon-gathering-march2018.netlify.com/).
