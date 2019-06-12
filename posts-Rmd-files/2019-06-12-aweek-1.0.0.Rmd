@@ -8,9 +8,9 @@ output:
     preserve_yaml: true
 ---
 
-This week (`r aweek::date2week('2019-06-11')`), the [*aweek* package](../aweek) 
+This week (`r aweek::date2week('2019-06-11', week_start = 1)`), the [*aweek* package](../aweek) 
 version 1.0.0 has been [released on 
-CRAN](https://cran.r-project.org/package=aweek). 
+CRAN](https://cran.r-project.org/package=aweek).
 
 The *aweek* package is a response to the lack of utilities to easily define
 weeks that do not start on Monday, which is necessary for outbreak response in
