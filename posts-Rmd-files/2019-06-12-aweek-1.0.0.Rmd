@@ -2,6 +2,10 @@
 title: "Handling non-standard weekly data in R"
 subtitle: "An overview of 'aweek', the lightweight R package for handling weekly data"
 author: "Zhian N. Kamvar"
+output: 
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
 ---
 
 This week (`r aweek::date2week('2019-06-11')`), the [*aweek* package](../aweek) 
@@ -31,7 +35,7 @@ library("aweek")
 ow <- set_week_start("Sunday")
 d  <- as.Date("2019-06-11")
 (w <- as.aweek(d)) # convert dates to weeks
-as.Date(w)          # convert weeks to dates
+as.Date(w)         # convert weeks to dates
 ```
 
 All aweek objects carry a `week_start` attribute, which is the ISO week day that
