@@ -1,0 +1,76 @@
+---
+title: "Handling non-standard weekly data in R"
+subtitle: "An overview of 'aweek', the lightweight R package for handling weekly data"
+author: "Zhian N. Kamvar"
+output: 
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
+---
+
+This week (`r aweek::date2week('2019-06-11', week_start = 1)`), the [*aweek* package](../aweek) 
+version 1.0.0 has been [released on 
+CRAN](https://cran.r-project.org/package=aweek).
+
+The *aweek* package is a response to the lack of utilities to easily define
+weeks that do not start on Monday, which is necessary for outbreak response in
+[countries whose calendars may start on Sunday or
+Saturday](https://en.wikipedia.org/wiki/File:First_Day_of_Week_World_Map.svg).
+This package provides utilities to convert dates to weeks and back again with
+any week start definition.
+
+You can install *aweek* with:
+
+```{r, eval = FALSE}
+install.packages("aweek")
+```
+
+Using aweek is straightforward. When you load the package, you can set the 
+day on which all weeks should start with `set_week_start()`.
+
+```{r}
+library("aweek")
+# At the beginning of your analysis, set the week start to the weeks you want
+# to use for reporting
+ow <- set_week_start("Sunday")
+d  <- as.Date("2019-06-11")
+(w <- as.aweek(d)) # convert dates to weeks
+as.Date(w)         # convert weeks to dates
+```
+
+All aweek objects carry a `week_start` attribute, which is the ISO week day that
+defines the start of the week for that object.
+
+One of the common things you might want to do is to define a range of dates to
+use to filter linelist data. You can use `get_date()` to get a date from week
+numbers. Note that day in this context refers to the day of the week relative to
+the week start, so a "7" is "Saturday".
+
+```{r get_date}
+library("dplyr")
+library("tidyr")
+linelist   <- as_tibble(outbreaks::ebola_sim_clean$linelist)
+linelist
+(obs_start <- get_date(week = 10, year = 2014, day = 1))
+(obs_end   <- get_date(week = 40, year = 2014, day = 7))
+
+ll_obs <- linelist %>%
+  filter(date_of_onset >= obs_start) %>%
+  filter(date_of_onset <= obs_end) %>%
+  filter(hospital == "other")
+ll_obs
+```
+
+You can use aweek to aggregate weekly data. The default aweek object is in the
+ISO 8601 format (YYYY-Www-d) and `factor_aweek()` can remove the `-d` portion,
+giving weekly aggregates, which will include any missing weeks in the levels:
+
+```{r aggregation}
+ll_obs %>%
+  mutate(week = as.aweek(date_of_onset)) %>%
+  mutate(aggregate_week = factor_aweek(week)) %>%
+  count(aggregate_week, gender, .drop = FALSE) %>%
+  spread(gender, n)
+```
+
+
