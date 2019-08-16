@@ -70,7 +70,7 @@ below, and **fulfil at least one contribution criteria**. These criteria are
 detailed in the article 5.2 of our [statutes](documents/statutes_en_1.1.pdf),
 and can be summarised as:
 
-- *software development*: you made a substantial contribution to our packages,
+- *software development*: you made a substantial contribution to RECON packages,
   either through new functions, new automated tests, documented datasets, or by
   contributing new documentation
   
