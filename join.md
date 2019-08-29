@@ -65,18 +65,18 @@ emergencies, and humanitarian crises. Beyond the development of analytics tools,
 this also includes people contributing to training and capacity building, and
 people battle-testing our resources in the field.
 
-To become a member, you need to **send an application** via the online form provided
-below, and **fulfil at least one contribution criteria**. These criteria are
-detailed in the article 5.2 of our [statutes](documents/statutes_en_1.1.pdf),
-and can be summarised as:
+To become a member, you need to **send an application** via the online form
+provided below, and **fulfil at least one contribution criteria**. These
+criteria are detailed in the article 5.2 of our
+[statutes](documents/statutes_en_1.1.pdf), and can be summarised as:
 
-- *software development*: you made a substantial contribution to RECON packages,
-  either through new functions, new automated tests, documented datasets, or by
-  contributing new documentation
+- *software development*: you made a substantial contribution to RECON packages
+  (hosted at https://github.com/reconhub), either through new functions, new
+  automated tests, documented datasets, or by contributing new documentation
   
-- *training and capacity building*: you contributed training material, typically on
-  [reconlearn.org](https://reconlearn.org), taught at one of our short courses,
-  or co-organised a workshop or a similar event
+- *training and capacity building*: you contributed training material,
+  typically on https://reconlearn.org, taught at one of our short courses, or
+  co-organised a RECON workshop or a similar event using RECON materials
   
 - *field deployment*: you battle-tested our resources during a deployment *in
   country* to respond to a disease outbreak, a health emergency, or a
