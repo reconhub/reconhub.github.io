@@ -124,6 +124,13 @@ members:
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
     twitter: https://twitter.com/Zulma.Cucunuba
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Research Fellow in real-time epidemiological analysis. London School of Hygene and Tropical Medicine, UK.
+    url: https://ffinger.github.io
+    website: https://ffinger.github.io
+    twitter: https://twitter.com/flavio_finger
+    github: https://github.com/ffinger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
