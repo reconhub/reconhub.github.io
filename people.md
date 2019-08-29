@@ -164,6 +164,10 @@ members:
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
     desc: Senior Epidemiologist, UK-Public Health Rapid Support Team, UK.
+  - name: Annick Lenglet
+    img: /img/people/annick-lenglet.jpg
+    desc: Epidemiological Advisor for Médecins Sans Frontières OCA
+    github: https://github.com/epiamsterdam
   - name: Greg Martin
     img: /img/people/greg-martin.jpeg
     desc: Health service executive; Host of Global Health and R Programming 101 YouTube series
