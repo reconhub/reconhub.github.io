@@ -235,6 +235,12 @@ members:
     url: https://www.dirk-schumacher.net/
     github: https://github.com/dirkschumacher
     twitter: https://twitter.com/dirk_sch
+  - name: Jakob Schumacher
+    img: /img/people/jakob-schumacher.jpg
+    desc: Public Health Consultant in Berlin, Germany
+    website: https://www.jakiva.de
+    url: https://www.jakiva.de
+    github: https://github.com/jakobschumacher
   - name: Janetta Skarp
     img: /img/people/janetta-skarp.jpg
     desc: MRes student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
