@@ -104,6 +104,11 @@ members:
   - name: Matthew Biggerstaff
     img: /img/people/matthew-biggerstaff.jpg
     desc: Epidemiologist focused on using modeling and forecasting outputs to inform public health decision making. U.S. Centers for Disease Control and Prevention, USA.
+  - name: Hannah Brindle
+    img: /img/people/hannah-brindle.jpg
+    desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. Experience in spatio-temporal analysis.
+    twitter: https://twitter.com/brindle_hannah
+    github: https://github.com/hannahbrindle
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
