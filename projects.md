@@ -8,6 +8,11 @@ recon-list:
     url: https://www.repidemicsconsortium.org/distcrete
     website: https://www.repidemicsconsortium.org/distcrete
     img: https://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
+  - name: EpiEstim
+    desc: Quantifying transmissibility throughout an epidemic from incidence time series.
+    github: https://github.com/annecori/EpiEstim
+    url: https://github.com/annecori/EpiEstim
+    img: /img/projects/purple.png
   - name: earlyR
     desc: Estimation of infectiousness in the early stage of an outbreak
     github: https://github.com/reconhub/earlyR
@@ -68,11 +73,6 @@ recon-list:
     website: https://repidemicsconsortium.org/epiflows
     img: /img/projects/purple.png
 related-list:
-  - name: EpiEstim
-    desc: Quantifying transmissibility throughout an epidemic from incidence time series.
-    github: https://github.com/annecori/EpiEstim
-    url: https://github.com/annecori/EpiEstim
-    img: /img/projects/purple.png
   - name: OutbreakTools
     desc: Basic analysis and visualisation of complex line-list data (to be replaced by <i>incidence</i> and <i>epicontacts</i>).
     github: https://github.com/thibautjombart/OutbreakTools
