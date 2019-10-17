@@ -7,8 +7,7 @@ title: Events
 
 <!-- From the closest to the more distant, these are our next events: -->
 
-Our future events are being confirmed. Watch this space for some news soon!
-
+- [ESCAIDE 2019 workshop](https://recon-escaide-2019.netlify.com/) 2 short courses in parallel, 2 days before ESCAIDE, 25-26 November Stockholm, Sweden
 
 
 
