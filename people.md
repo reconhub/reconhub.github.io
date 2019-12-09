@@ -126,7 +126,7 @@ members:
     twitter: https://twitter.com/Zulma.Cucunuba
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
-    desc: Research Fellow in real-time epidemiological analysis. London School of Hygene and Tropical Medicine, UK.
+    desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
     url: https://ffinger.github.io
     website: https://ffinger.github.io
     twitter: https://twitter.com/flavio_finger
@@ -288,6 +288,5 @@ See [this page](../join) if you would like more information on membership.
 We are extremely lucky to have the following people supporting and guiding our efforts:
 
 {% include list-circles.html items=page.advisory-board %}
-
 
 
