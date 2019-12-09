@@ -43,7 +43,7 @@ This Code of Conduct applies within all RECON community spaces, and also applies
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing [repidemicsconsortium@gmail.com](mailto:repidemicsconsortium@gmail.com?subject=CoCEnforcement). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing [repidemicsconsortium@gmail.com](mailto:repidemicsconsortium@gmail.com?subject=CoCEnforcement) or contacting one of the [Executive Board](https://www.repidemicsconsortium.org/people#executive-board) members via the [RECON slack channel](https://reconhub.slack.com) or private email. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
