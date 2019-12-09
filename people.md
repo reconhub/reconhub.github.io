@@ -129,7 +129,6 @@ members:
     desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
     url: https://ffinger.github.io
     website: https://ffinger.github.io
-    twitter: https://twitter.com/flavio_finger
     github: https://github.com/ffinger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
@@ -288,5 +287,4 @@ See [this page](../join) if you would like more information on membership.
 We are extremely lucky to have the following people supporting and guiding our efforts:
 
 {% include list-circles.html items=page.advisory-board %}
-
 
