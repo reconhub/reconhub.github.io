@@ -129,6 +129,12 @@ members:
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
     twitter: https://twitter.com/Zulma.Cucunuba
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
+    url: https://ffinger.github.io
+    website: https://ffinger.github.io
+    github: https://github.com/ffinger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -296,6 +302,4 @@ See [this page](../join) if you would like more information on membership.
 We are extremely lucky to have the following people supporting and guiding our efforts:
 
 {% include list-circles.html items=page.advisory-board %}
-
-
 
