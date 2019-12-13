@@ -121,7 +121,7 @@ members:
     desc: PhD student, interested in outbreak analysis and R package development. Imperial College London, UK.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fCampbell93
+    twitter: http://twitter.com/fcampbell_
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
     desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, UK.
