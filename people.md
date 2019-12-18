@@ -159,6 +159,9 @@ members:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Christopher Jarvis
+    img: /img/people/Jarvis.jpg
+    desc: Statistician and Researcher at LSHTM.
   - name: Samuel Jenness
     img: /img/people/samuel-jenness.jpg
     desc: Epidemic modeling, network science, HIV/STI epidemiology. Emory University, USA.
@@ -274,9 +277,6 @@ members:
   - name: Jean-Pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
-  - name: Christopher Jarvis
-    img: /img/people/Jarvis.jpg
-    desc: Statistician and Researcher at LSHTM.
 ---
 
 
