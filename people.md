@@ -28,9 +28,9 @@ executive-board:
     twitter: https://twitter.com/TeebzR
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
-    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
-    website: http://zkamvar.github.io
-    url: http://zkamvar.github.io
+    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
+    website: https://zkamvar.netlify.com
+    url: https://zkamvar.netlify.com
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
   - name: Patrick Keating
@@ -277,6 +277,13 @@ members:
   - name: Jean-Pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
+  - name: Charlie Whittaker
+    img: /img/people/charlie-whittaker.jpg
+    desc: PhD student, Epidemiologist at Imperial College London. 
+    twitter: https://twitter.com/charliewhittak
+    github: https://github.com/cwhittaker1000
+    url: https://www.imperial.ac.uk/people/charles.whittaker16
+    website: https://www.imperial.ac.uk/people/charles.whittaker16
 ---
 
 
