@@ -94,6 +94,10 @@ members:
     url: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Neale Batra
+    img: /img/people/neale-batra.jpg
+    desc: Communicable disease epidemiologist specialized in emergency response and preparedness
+    github: https://github.com/nsbatra
   - name: Sangeeta Bhatia
     img: /img/people/sangeeta-bhatia.jpg
     desc: Modeller and software developer contributing packages for outbreak analysis using digital surveillance data. Imperial College London, UK.
