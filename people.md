@@ -149,6 +149,10 @@ members:
     url: http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
     github: http://github.com/sdwfrost
     twitter: https://twitter.com/sdwfrost
+  - name: Amy Gimma
+    img: /img/people/amy-gimma.jpg
+    desc: Software development / data management & analysis / research fellow
+    github: https://github.com/amygimma
   - name: Michael H&ouml;hle
     img: /img/people/michael-hohle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
