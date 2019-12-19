@@ -28,9 +28,9 @@ executive-board:
     twitter: https://twitter.com/TeebzR
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
-    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
-    website: http://zkamvar.github.io
-    url: http://zkamvar.github.io
+    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
+    website: https://zkamvar.netlify.com
+    url: https://zkamvar.netlify.com
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
   - name: Patrick Keating
@@ -163,6 +163,9 @@ members:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Christopher Jarvis
+    img: /img/people/Jarvis.jpg
+    desc: Statistician and Researcher at LSHTM.
   - name: Samuel Jenness
     img: /img/people/samuel-jenness.jpg
     desc: Epidemic modeling, network science, HIV/STI epidemiology. Emory University, USA.
@@ -278,9 +281,13 @@ members:
   - name: Jean-Pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
-  - name: Christopher Jarvis
-    img: /img/people/Jarvis.jpg
-    desc: Statistician and Researcher at LSHTM.
+  - name: Charlie Whittaker
+    img: /img/people/charlie-whittaker.jpg
+    desc: PhD student, Epidemiologist at Imperial College London. 
+    twitter: https://twitter.com/charliewhittak
+    github: https://github.com/cwhittaker1000
+    url: https://www.imperial.ac.uk/people/charles.whittaker16
+    website: https://www.imperial.ac.uk/people/charles.whittaker16
 ---
 
 
