@@ -2,12 +2,6 @@
 title: People
 subtitle: The humans behind this project
 executive-board:
-  - name: Amrish Baidjoe
-    img: /img/people/amrish-baidjoe.jpg
-    desc: Vice president, Training and Capacity Building coordinator. Field epidemiologist/microbiologist, outbreak response expert. President of the EPIET alumni network. Imperial College London, UK.
-    website: https://ammer.tweakblogs.net/
-    url: https://ammer.tweakblogs.net/
-    twitter: https://twitter.com/Ammer_B
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Methodology coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -94,6 +88,12 @@ members:
     url: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
     github: https://github.com/MJomaba/
     twitter: https://twitter.com/marcbaguelin
+  - name: Amrish Baidjoe
+    img: /img/people/amrish-baidjoe.jpg
+    desc: Field epidemiologist/microbiologist, outbreak response expert. President of the EPIET alumni network.
+    website: https://ammer.tweakblogs.net/
+    url: https://ammer.tweakblogs.net/
+    twitter: https://twitter.com/Ammer_B
   - name: Neale Batra
     img: /img/people/neale-batra.jpg
     desc: Communicable disease epidemiologist specialized in emergency response and preparedness
