@@ -38,7 +38,7 @@ experience of my life.
 
 <img align="left" src="../img/posts/aminata/airportgoma.jpg" width="50%">
 
-<img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">\
+<img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">
 
 
 
