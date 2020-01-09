@@ -4,9 +4,6 @@ subtitle: "More than a deployment"
 author: "Aminata Ndiaye"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ### How it all started!
 
@@ -110,9 +107,11 @@ RECON and [WHOGOARN](https://extranet.who.int/goarn/).
 <img src="img/posts/aminata/team3.jpg" width="90%">
 
 
-To the future deployees: **Good luck**! You won’t regret this experience! And hope to meet you soon in other deployments!
+To the future deployees: **Good luck**! You won’t regret this experience! And
+hope to meet you soon in other deployments!
 
-**Asante sana** (thanks very much in _swahili_) to all lovely colleagues! **Happy new (Ebola-free) year**! 
+**Asante sana** (thanks very much in _swahili_) to all lovely colleagues!
+**Happy new (Ebola-free) year**!
 
 <p align="center">
 <img  src="img/posts/aminata/byegoma.jpg" width="50%">
