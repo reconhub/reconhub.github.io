@@ -20,7 +20,7 @@ On Oct 9th 2019, I received an email from a colleague with a link to a tweet and
 the following message: “This seems really interesting. Might be worth it to get
 in contact “.  I opened it a few minutes later and saw the following tweet:
 
-<img src="../../img/posts/aminata/tweet.png" width="50%">
+<img src="../img/posts/aminata/tweet.png" width="50%">
 
 
 _Ana_ (my colleague who sent the e-mail) knew how much I wanted to do some
@@ -36,9 +36,9 @@ exchanges, administrative procedures, medical check and vaccines. On October
 to GOMA, DRC, to start what would be one of the richest scientific and human
 experience of my life.
 
-<img align="left" src="img/posts/aminata/airportgoma.jpg" width="50%">
+<img align="left" src="../img/posts/aminata/airportgoma.jpg" width="50%">
 
-<img align="right" src="img/posts/aminata/gomastreet.jpg" width="50%">\
+<img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">\
 
 
 
@@ -54,7 +54,7 @@ Evaluation. Working abroad, on an emergency is always difficult, but the good
 relationship between colleagues (that actually became family) is what helps to
 cope.
 
-<img src="img/posts/aminata/team2.jpg" width="60%">
+<img src="../img/posts/aminata/team2.jpg" width="60%">
 
 
 The second thing I was the most amazed by is the structure of the
@@ -104,7 +104,7 @@ human being. And, mainly for this last point, I will forever be grateful to
 RECON and [WHOGOARN](https://extranet.who.int/goarn/).
 
 
-<img src="img/posts/aminata/team3.jpg" width="90%">
+<img src="../img/posts/aminata/team3.jpg" width="90%">
 
 
 To the future deployees: **Good luck**! You won’t regret this experience! And
@@ -114,7 +114,7 @@ hope to meet you soon in other deployments!
 **Happy new (Ebola-free) year**!
 
 <p align="center">
-<img  src="img/posts/aminata/byegoma.jpg" width="50%">
+<img  src="../img/posts/aminata/byegoma.jpg" width="50%">
 </p>
 
 
