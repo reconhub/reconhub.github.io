@@ -13,14 +13,14 @@ attended the seminar and went on asking him several questions on the response at
 the end of his talk. I noted his contact information but we never talked again
 (at least until I went to DRC).
 
-<img src="img/posts/aminata/kicalendar.png" width="80%">
+<img src="../img/posts/aminata/kicalendar.png" width="80%">
 
 
 On Oct 9th 2019, I received an email from a colleague with a link to a tweet and
 the following message: “This seems really interesting. Might be worth it to get
 in contact “.  I opened it a few minutes later and saw the following tweet:
 
-<img src="img/posts/aminata/tweet.png" width="50%">
+<img src="../../img/posts/aminata/tweet.png" width="50%">
 
 
 _Ana_ (my colleague who sent the e-mail) knew how much I wanted to do some
