@@ -28,6 +28,7 @@ The following weeks, after two interviews and a few calls, were full of email ex
 <img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">
 
 
+<br>
 
 ### The magic inside it!
 
