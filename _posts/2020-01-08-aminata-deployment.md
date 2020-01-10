@@ -25,7 +25,7 @@ The following weeks, after two interviews and a few calls, were full of email ex
 
 <img align="left" src="../img/posts/aminata/airportgoma.jpg" width="50%">
 
-<img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">\
+<img align="right" src="../img/posts/aminata/gomastreet.jpg" width="50%">
 
 
 
