@@ -1,6 +1,6 @@
 ---
-title: "RECON first deployee via GOARN"
-subtitle: "More than a deployment"
+title: "First RECON deployee via GOARN"
+subtitle: "More than a deployment - by Aminata Ndiaye"
 author: "Aminata Ndiaye"
 ---
 
