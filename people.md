@@ -8,11 +8,6 @@ executive-board:
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
-  - name: Roz Eggo
-    img: /img/people/roz-eggo.jpg
-    desc: Deputy Treasurer. Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
-    github: https://github.com/rozeggo
-    url: https://github.com/rozeggo
   - name: Thibaut Jombart
     img: /img/people/thibaut-jombart.jpg
     desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
@@ -20,13 +15,6 @@ executive-board:
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
-  - name: Zhian Kamvar
-    img: /img/people/zhian-kamvar.jpg
-    desc: Secretary, Software Development coordinator. R developer and population geneticist; core developer and trainer for RECON. Imperial College London, UK.
-    website: https://zkamvar.netlify.com
-    url: https://zkamvar.netlify.com
-    github: https://github.com/zkamvar
-    twitter: https://twitter.com/zkamvar
   - name: Patrick Keating
     img: /img/people/patrick-keating.jpg
     desc: Deputy Secretary, Field Deployment coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
@@ -133,6 +121,11 @@ members:
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
     twitter: https://twitter.com/Zulma.Cucunuba
+  - name: Roz Eggo
+    img: /img/people/roz-eggo.jpg
+    desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
+    github: https://github.com/rozeggo
+    url: https://github.com/rozeggo
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
     desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
@@ -177,6 +170,13 @@ members:
     url: http://www.samueljenness.org
     github: https://github.com/EpiModel
     twitter: https://twitter.com/SamuelJenness
+  - name: Zhian Kamvar
+    img: /img/people/zhian-kamvar.jpg
+    desc: R developer and population geneticist. Imperial College London, UK.
+    website: https://zkamvar.netlify.com
+    url: https://zkamvar.netlify.com
+    github: https://github.com/zkamvar
+    twitter: https://twitter.com/zkamvar
   - name: Henry Kyobe-Bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
