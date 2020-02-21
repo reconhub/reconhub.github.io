@@ -2,32 +2,63 @@
 title: People
 subtitle: The humans behind this project
 executive-board:
+  - name: Finlay Campbell
+    img: /img/people/finlay-campbell.jpg
+    desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
+    github: http://github.com/finlaycampbell
+    url: http://github.com/finlaycampbell
+    twitter: http://twitter.com/fcampbell_
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
-    desc: Methodology coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    desc: Methodology Coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
+    url: https://ffinger.github.io
+    website: https://ffinger.github.io
+    github: https://github.com/ffinger
   - name: Thibaut Jombart
     img: /img/people/thibaut-jombart.jpg
-    desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. Imperial College London, UK.
+    desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
   - name: Patrick Keating
     img: /img/people/patrick-keating.jpg
-    desc: Deputy Secretary, Field Deployment coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
+    desc: Deputy Secretary, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
+  - name: Greg Martin
+    img: /img/people/greg-martin.jpeg
+    desc: Communication Coordinator. Health service executive; host of Global Health and R Programming 101 YouTube series
+    website: https://www.youtube.com/c/drgregmartin
+    url: https://www.youtube.com/c/drgregmartin
+    twitter: https://twitter.com/drgregmartin
+    github: https://github.com/drgregmartin
   - name: Lulla Opatowski
     img: /img/people/lulla-opatowski.jpg
     desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
+  - name: Janetta Skarp
+    img: /img/people/janetta-skarp.jpg
+    desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
+    github: https://github.com/jeskarp
+    url: https://github.com/jeskarp
   - name: Claire Thomson
     img: /img/people/claire-thomson.jpg
     website: http://www.imperial.ac.uk/people/c.thomson
     url: http://www.imperial.ac.uk/people/c.thomson
     desc: Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
+  - name: Charlie Whittaker
+    img: /img/people/charlie-whittaker.jpg
+    desc: Secretary. PhD student, epidemiologist at Imperial College London, UK. 
+    twitter: https://twitter.com/charliewhittak
+    github: https://github.com/cwhittaker1000
+    url: https://www.imperial.ac.uk/people/charles.whittaker16
+    website: https://www.imperial.ac.uk/people/charles.whittaker16
 advisory-board:
   - name: Gregory Armstrong
     img: /img/people/gregory-armstrong.jpg
@@ -108,12 +139,6 @@ members:
     url: http://blog.tonytsai.name/
     github: https://github.com/caijun
     twitter: https://twitter.com/caijun2046
-  - name: Finlay Campbell
-    img: /img/people/finlay-campbell.jpg
-    desc: PhD student, interested in outbreak analysis and R package development. Imperial College London, UK.
-    github: http://github.com/finlaycampbell
-    url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fcampbell_
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
     desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, UK.
@@ -126,12 +151,6 @@ members:
     desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
     github: https://github.com/rozeggo
     url: https://github.com/rozeggo
-  - name: Flavio Finger
-    img: /img/people/flavio-finger.jpg
-    desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
-    url: https://ffinger.github.io
-    website: https://ffinger.github.io
-    github: https://github.com/ffinger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -190,13 +209,6 @@ members:
     img: /img/people/annick-lenglet.jpg
     desc: Epidemiological Advisor for Médecins Sans Frontières OCA
     github: https://github.com/epiamsterdam
-  - name: Greg Martin
-    img: /img/people/greg-martin.jpeg
-    desc: Health service executive; Host of Global Health and R Programming 101 YouTube series
-    website: https://www.youtube.com/c/drgregmartin
-    url: https://www.youtube.com/c/drgregmartin
-    twitter: https://twitter.com/drgregmartin
-    github: https://github.com/drgregmartin
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -267,11 +279,6 @@ members:
     website: https://www.jakiva.de
     url: https://www.jakiva.de
     github: https://github.com/jakobschumacher
-  - name: Janetta Skarp
-    img: /img/people/janetta-skarp.jpg
-    desc: MRes student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
-    github: https://github.com/jeskarp
-    url: https://github.com/jeskarp
   - name: Alex Spina
     img: /img/people/alex-spina.jpg
     desc: Infectious disease epidemiologist using R for surveillance data and outbreak response. Austrian Agency for Food and Health Safety / European Centre for Disease Prevention and Control, Austria.
@@ -285,13 +292,6 @@ members:
   - name: Jean-Pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
-  - name: Charlie Whittaker
-    img: /img/people/charlie-whittaker.jpg
-    desc: PhD student, Epidemiologist at Imperial College London. 
-    twitter: https://twitter.com/charliewhittak
-    github: https://github.com/cwhittaker1000
-    url: https://www.imperial.ac.uk/people/charles.whittaker16
-    website: https://www.imperial.ac.uk/people/charles.whittaker16
 ---
 
 
