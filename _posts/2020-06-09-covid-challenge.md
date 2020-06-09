@@ -15,8 +15,11 @@ user-friendly web platform gathering R tasks reflecting needs from different
 projects and groups, and facilitate contributions from the wider R programming
 community.
 
-**We are looking for two consultants**, including one **project manager** and
-one +**web developer** (see '*we need you*' below).
+We are looking for **two consultants** (see '*We need you!*' section below),
+including:
+
+* a **project manager** to drive the project forward
+* a **web developer** to create the website
 
 
 ### The RECON COVID-19 challenge in a nutshell
