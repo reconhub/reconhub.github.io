@@ -4,7 +4,7 @@ subtitle: Bringing the R community together against COVID-19
 ---
 
 We are proud to announce that the [R Consortium](https://www.r-consortium.org/)
-has awarded RECON a grant for USD 23,300 to develop the *RECON COVID-19
+has awarded RECON a grant for $23,300 to develop the *RECON COVID-19
 challenge*, a project aiming to centralise, organise and manage needs for
 analytics resources in [R](https://www.r-project.org/) to support the response
 to COVID-19 worldwide.
@@ -60,4 +60,8 @@ interested in this project.
 * **closing date for applications:** Monday 22nd June 2020, 12:00 UTC
 * **interviews**: interviews will be held by members of the RECON board on
   Wednesday 24th June.
+  
+<br>
+<br>
+  
 
