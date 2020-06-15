@@ -7,8 +7,6 @@ title: Events
 
 <!-- From the closest to the more distant, these are our next events: -->
 
-- [ESCAIDE 2019 workshop](https://recon-escaide-2019.netlify.com/) 2 short courses in parallel, 2 days before ESCAIDE, 25-26 November Stockholm, Sweden
-
 
 
 ## Past events
@@ -17,6 +15,8 @@ title: Events
 
 From the most recent to the oldest, here are our short courses and training
 workshops:
+
+- [ESCAIDE 2019 workshop](https://recon-escaide-2019.netlify.com/) 2 short courses in parallel, 2 days before ESCAIDE, 25-26 November 2019,  Stockholm, Sweden
 
 - Introduction to outbreak response analytics using R with WHO Afro, 10-14 December 2018, Cotonou, Bénin
 
