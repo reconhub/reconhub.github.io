@@ -15,9 +15,9 @@ them in priority if your enquiry relates to one of these topics:
 
 - *methodology*: [Anne Cori](mailto:a.cori@imperial.ac.uk)
 
-- *software development*: [Zhian Kamvar](mailto:zkamvar@gmail.com)
+- *software development*: [Finlay Campbell](mailto:finlaycampbell93@gmail.com)
 
-- *training and capacity building*: [Amrish Baidjoe](mailto:amrish.baidjoe@gmail.com)
+- *training and capacity building*: [Janetta Skarp](mailto:janetta.skarp13@imperial.ac.uk)
 
 
 
