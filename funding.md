@@ -9,7 +9,7 @@ have been supporting the organisation since its early days. On this page, we
 acknowledge institutions who supported RECON in terms of:
 
 * *direct funding*: these funders support RECON through direct donations to the
-  organisation
+  organisation, or free/discounted services
 
 * *indirect funding*: these funders support RECON through means other than
   direct donations, typically through salaries of members who contribute to
@@ -25,8 +25,17 @@ acknowledge institutions who supported RECON in terms of:
 
 ## Direct funding
 
-RECON has received no direct funding to date. If you would like to support our
-activities, please get in touch by [email](mailto:thibautjombart@gmail.com).
+RECON has received the following direct funding: 
+
+* R Consortium / Linux foundation: USD 23,300 for the [*COVID-19 challenge*](https://www.repidemicsconsortium.org/2020-06-09-covid-challenge/)
+  project
+  
+* [Zoom](https://zoom.us): granted free license to the organisation account
+
+
+If you would like to support our activities, please get in touch by
+[email](mailto:thibautjombart@gmail.com).
+
 
 
 <br>
