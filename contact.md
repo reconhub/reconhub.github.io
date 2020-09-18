@@ -5,10 +5,8 @@ title: Contact us
 RECON is headed by an Executive Board. The right person to contact depends on
 the nature of your enquiry. Remember that if you just want to have a chat with
 members of our community, you can freely join our slack organisation: see our
-[forum](forum.html) page for information on how to join. Alternatively, for
-announcements, job ads etc. consider using our 
-[mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum). For everything
-else, see below.
+[forum](../forum) page for more information. Alternatively, for announcements,
+job ads etc. consider using our [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum). For everything else, see below.
 
 
 ## Specific enquiries
