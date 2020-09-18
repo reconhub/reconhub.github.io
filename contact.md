@@ -3,7 +3,12 @@ title: Contact us
 ---
 
 RECON is headed by an Executive Board. The right person to contact depends on
-the nature of your enquiry. Remember that if you just want to have a chat with members of our community, you can freely join our slack organisation [here](https://reconhub.slack.com/join/shared_invite/enQtNDYxNjI5MjAxMTU3LTBjOTc0MmZjY2FmYjk5ZTc3ZWU3YzdkMzRhMDlhNzM5MGVjYzFiMDU5MWIxNTRkYjVkNjY5NTk4ZGNjYjkyYjI), and coming to chat at [reconhub.slack.com](https://reconhub.slack.com). Alternatively, for announcements, job ads etc. consider using our [mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum). For everything else, see below.
+the nature of your enquiry. Remember that if you just want to have a chat with
+members of our community, you can freely join our slack organisation: see our
+[forum](forum.html) page for information on how to join. Alternatively, for
+announcements, job ads etc. consider using our 
+[mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum). For everything
+else, see below.
 
 
 ## Specific enquiries
@@ -24,9 +29,10 @@ them in priority if your enquiry relates to one of these topics:
 ## General enquiries
 
 For all other enquiries, including questions regarding membership, funding, or
-donations, please fill out the form below:
+donations, please send an email to our [generic address](mailto:repidemicsconsortium@gmail.com) 
+or fill out the form below :
 
-<form action="https://formspree.io/thibautjombart@gmail.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/repidemicsconsortium@gmail.com" method="POST" class="form" id="contact-form">
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
