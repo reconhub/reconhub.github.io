@@ -4,7 +4,7 @@ subtitle: The humans behind this project
 executive-board:
   - name: Thibaut Jombart
     img: /img/people/thibaut-jombart.jpg
-    desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
+    desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
@@ -18,10 +18,10 @@ executive-board:
     img: /img/people/claire-thomson.jpg
     website: http://www.imperial.ac.uk/people/c.thomson
     url: http://www.imperial.ac.uk/people/c.thomson
-    desc: Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
+    desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
   - name: Charlie Whittaker
     img: /img/people/charlie-whittaker.jpg
-    desc: Secretary. PhD student, epidemiologist at Imperial College London, UK. 
+    desc: Vice-president. PhD student, epidemiologist at Imperial College London, UK. 
     twitter: https://twitter.com/charliewhittak
     github: https://github.com/cwhittaker1000
     url: https://www.imperial.ac.uk/people/charles.whittaker16
@@ -108,13 +108,13 @@ members:
     twitter: https://twitter.com/caijun2046
   - name: Finlay Campbell
     img: /img/people/finlay-campbell.jpg
-    desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
+    desc: Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
     twitter: http://twitter.com/fcampbell_
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
-    desc: Methodology Coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
     website: http://www.imperial.ac.uk/people/a.cori
     url: http://www.imperial.ac.uk/people/a.cori
     github: https://github.com/annecori/
@@ -183,7 +183,7 @@ members:
     twitter: https://twitter.com/zkamvar
   - name: Patrick Keating
     img: /img/people/patrick-keating.jpg
-    desc: Deputy Secretary, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
+    desc: Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Henry Kyobe-Bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
@@ -199,7 +199,7 @@ members:
     github: https://github.com/epiamsterdam
   - name: Greg Martin
     img: /img/people/greg-martin.jpeg
-    desc: Communication Coordinator. Health service executive; host of Global Health and R Programming 101 YouTube series
+    desc: Health service executive; host of Global Health and R Programming 101 YouTube series
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
     twitter: https://twitter.com/drgregmartin
@@ -226,7 +226,7 @@ members:
     github: https://github.com/pnouvellet
   - name: Lulla Opatowski
     img: /img/people/lulla-opatowski.jpg
-    desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
+    desc: Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Pawel Piatkowski
