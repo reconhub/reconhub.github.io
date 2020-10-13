@@ -2,24 +2,6 @@
 title: People
 subtitle: The humans behind this project
 executive-board:
-  - name: Finlay Campbell
-    img: /img/people/finlay-campbell.jpg
-    desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
-    github: http://github.com/finlaycampbell
-    url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fcampbell_
-  - name: Anne Cori
-    img: /img/people/anne-cori.jpg
-    desc: Methodology Coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
-    website: http://www.imperial.ac.uk/people/a.cori
-    url: http://www.imperial.ac.uk/people/a.cori
-    github: https://github.com/annecori/
-  - name: Flavio Finger
-    img: /img/people/flavio-finger.jpg
-    desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
-    url: https://ffinger.github.io
-    website: https://ffinger.github.io
-    github: https://github.com/ffinger
   - name: Thibaut Jombart
     img: /img/people/thibaut-jombart.jpg
     desc: Founder, President, Treasurer. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
@@ -27,21 +9,6 @@ executive-board:
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
-  - name: Patrick Keating
-    img: /img/people/patrick-keating.jpg
-    desc: Deputy Secretary, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
-  - name: Greg Martin
-    img: /img/people/greg-martin.jpeg
-    desc: Communication Coordinator. Health service executive; host of Global Health and R Programming 101 YouTube series
-    website: https://www.youtube.com/c/drgregmartin
-    url: https://www.youtube.com/c/drgregmartin
-    twitter: https://twitter.com/drgregmartin
-    github: https://github.com/drgregmartin
-  - name: Lulla Opatowski
-    img: /img/people/lulla-opatowski.jpg
-    desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
-    website: https://research.pasteur.fr/en/member/lulla-opatowski/
-    url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Janetta Skarp
     img: /img/people/janetta-skarp.jpg
     desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
@@ -139,6 +106,18 @@ members:
     url: http://blog.tonytsai.name/
     github: https://github.com/caijun
     twitter: https://twitter.com/caijun2046
+  - name: Finlay Campbell
+    img: /img/people/finlay-campbell.jpg
+    desc: Sofware Coordinator. Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
+    github: http://github.com/finlaycampbell
+    url: http://github.com/finlaycampbell
+    twitter: http://twitter.com/fcampbell_
+  - name: Anne Cori
+    img: /img/people/anne-cori.jpg
+    desc: Methodology Coordinator. Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/a.cori
+    url: http://www.imperial.ac.uk/people/a.cori
+    github: https://github.com/annecori/
   - name: Zulma Cucunuba
     img: /img/people/zulma-cucunuba.jpg
     desc: Vector borne disease modelling to inform public health policy, emphasis in Latin America. Imperial College London, UK.
@@ -151,6 +130,12 @@ members:
     desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
     github: https://github.com/rozeggo
     url: https://github.com/rozeggo
+  - name: Flavio Finger
+    img: /img/people/flavio-finger.jpg
+    desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
+    url: https://ffinger.github.io
+    website: https://ffinger.github.io
+    github: https://github.com/ffinger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -196,6 +181,9 @@ members:
     url: https://zkamvar.netlify.com
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
+  - name: Patrick Keating
+    img: /img/people/patrick-keating.jpg
+    desc: Deputy Secretary, Field Deployment Coordinator. Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
   - name: Henry Kyobe-Bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
@@ -209,6 +197,13 @@ members:
     img: /img/people/annick-lenglet.jpg
     desc: Epidemiological Advisor for Médecins Sans Frontières OCA
     github: https://github.com/epiamsterdam
+  - name: Greg Martin
+    img: /img/people/greg-martin.jpeg
+    desc: Communication Coordinator. Health service executive; host of Global Health and R Programming 101 YouTube series
+    website: https://www.youtube.com/c/drgregmartin
+    url: https://www.youtube.com/c/drgregmartin
+    twitter: https://twitter.com/drgregmartin
+    github: https://github.com/drgregmartin
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -229,6 +224,11 @@ members:
     website: https://www.imperial.ac.uk/people/p.nouvellet
     url: https://www.imperial.ac.uk/people/p.nouvellet
     github: https://github.com/pnouvellet
+  - name: Lulla Opatowski
+    img: /img/people/lulla-opatowski.jpg
+    desc: Deputy Secretary. Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
+    website: https://research.pasteur.fr/en/member/lulla-opatowski/
+    url: https://research.pasteur.fr/en/member/lulla-opatowski/
   - name: Pawel Piatkowski
     img: /img/people/pawel-piatkowski.jpg
     desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working for Genentech/Roche), Poland.
