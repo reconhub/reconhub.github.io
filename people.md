@@ -9,11 +9,21 @@ executive-board:
     url: https://thibautjombart.netlify.com/
     github: https://github.com/thibautjombart/
     twitter: https://twitter.com/TeebzR
+  - name: Soledad Colombe
+    img: /img/people/soledad-colombe.jpg
+    desc: Secretary. Infectious disease epidemiologist with a strong interest in zoonotic diseases. Outbreak Research Team, Institute of Tropical Medicine, Antwerp, Belgium.
+    github: https://github.com/scolombe
+    twitter: https://twitter.com/S_Colombe
   - name: Janetta Skarp
     img: /img/people/janetta-skarp.jpg
     desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
+  - name: Tim Taylor
+    img: /img/people/tim-taylor.jpg
+    desc: Sofware Coordinator. Research Software Engineer interested in outbreak analytics and R package development. London School of Hygiene and Tropical Medicine, UK.
+    github: https://github.com/tjtnew
+    twitter: https://twitter.com/_TimTaylor_
   - name: Claire Thomson
     img: /img/people/claire-thomson.jpg
     website: http://www.imperial.ac.uk/people/c.thomson
