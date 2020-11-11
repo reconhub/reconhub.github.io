@@ -9,3 +9,6 @@ R/.RData
 *.log
 *.out
 *.toc
+.DS_Store
+img/.DS_Store
+.DS_Store
