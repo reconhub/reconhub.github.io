@@ -31,7 +31,7 @@ executive-board:
     desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
   - name: Charlie Whittaker
     img: /img/people/charlie-whittaker.jpg
-    desc: Vice-president. PhD student, epidemiologist at Imperial College London, UK. 
+    desc: Treasurer, Vice-president. PhD student, epidemiologist at Imperial College London, UK. 
     twitter: https://twitter.com/charliewhittak
     github: https://github.com/cwhittaker1000
     url: https://www.imperial.ac.uk/people/charles.whittaker16
