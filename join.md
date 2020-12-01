@@ -38,8 +38,7 @@ in the Executive Board.
 
 Members benefit from a number of advantages; they can:
 
-- attend and vote at general assemblies to shape the activities of RECON
-- be candidates to any post of the executive board during its election
+- attend general assemblies to shape the activities of RECON
 - have free access to the RECON mailing lists and forums
 - advertise their work, when in line with the remit of RECON, on the association
   media, including newsletters, mailing lists, discussion forums, blogs and
@@ -51,6 +50,8 @@ Members benefit from a number of advantages; they can:
 - typically get a discount on RECON events where a registration fee applies
 - apply for, and benefit from internal resources of RECON (e.g. funding,
   equipment)
+- (contributing members) vote at general assemblies to shape the activities of RECON
+- (contributing members) be candidates to any post of the executive board during its election
 
 Benefits to members are formally defined in *Article 5.4* of our 
 [statutes](documents/statutes_en_1.2.pdf)
