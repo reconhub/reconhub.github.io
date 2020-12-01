@@ -53,7 +53,7 @@ Members benefit from a number of advantages; they can:
   equipment)
 
 Benefits to members are formally defined in *Article 5.4* of our 
-[statutes](documents/statutes_en_1.1.pdf)
+[statutes](documents/statutes_en_1.2.pdf)
 
 
 
@@ -65,10 +65,13 @@ emergencies, and humanitarian crises. Beyond the development of analytics tools,
 this also includes people contributing to training and capacity building, and
 people battle-testing our resources in the field.
 
-To become a member, you need to **send an application** via the online form
-provided below, and **fulfil at least one contribution criteria**. These
-criteria are detailed in the article 5.2 of our
-[statutes](documents/statutes_en_1.1.pdf), and can be summarised as:
+
+Anyone can apply to become a *regular member* of RECON, in order to be involved in
+RECON projects and events. *Contributing members* need to have made a contribution
+in any of the areas of RECON activities including software development, training
+and capacity building, or field deployment. See 
+[our statutes](https://www.repidemicsconsortium.org/documents/statutes_en_1.2.pdf) 
+for more details on contributions; below is a quick summary:
 
 - *software development*: you made a substantial contribution to RECON packages
   (hosted at https://github.com/reconhub), either through new functions, new
@@ -85,13 +88,7 @@ criteria are detailed in the article 5.2 of our
 
 ### Online application form
 
-To send a membership application, follow [this link](https://goo.gl/forms/EZZekGD1tMPoGmPJ2) or fill the form below:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSep9aVVyACKi4SnPu7F_NZckK3oned5sL3-oWLRbRkFVo6X4g/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-
-
-<br>
+To send a membership application, follow [this link](https://forms.gle/jew2yFz4HYTYJVKg6).
 
 
 ## Data privacy statement
