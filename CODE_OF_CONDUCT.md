@@ -6,8 +6,7 @@ title: RECON Code of Conduct
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in the RECON community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
+We as members, contributors, and leaders pledge to make participation in the RECON community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, actual or perceived sexual identity and orientation, gender identity and expression, or sex characteristics. 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
@@ -20,7 +19,7 @@ Examples of behavior that contributes to a positive environment for our communit
 * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall community
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behavior include (but are not limited to):
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
@@ -39,17 +38,15 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Scope
 
-This Code of Conduct applies within all RECON community spaces, and also applies when an individual is officially representing the RECON community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all RECON community spaces, and also applies when an individual is officially representing RECON. Examples of representing our community include using an official e-mail address, posting via an official social media account, acting as an appointed representative at an online or offline event (such as RECON training activities) or when on deployments as a RECON member.
 
-## Enforcement
+## Reporting Guidelines
+Instances of behaviour that is abusive, harassing or otherwise unacceptable may be reported to the RECON Code of Conduct Committee. This includes ____ (_____), ____ (_____) and _____ (_____). If you experience or witness unacceptable behaviour or have any other concerns, please submit a report to the Committee as soon as possible using this form: https://forms.gle/jbfjVz3EHn4hydW9A - the information in this form will go to all three Committee members. Alternatively, you may email <repidemicsconsortium.complaints@gmail.com> or make a report directly to one member of the Committee by contacting them directly – either via email or the RECON Slack Channel. If any member of the Committee has a conflict of interest with a report, they will be recused and will not have access to the content or process of the report follow-up. 
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing [repidemicsconsortium@gmail.com](mailto:repidemicsconsortium@gmail.com?subject=CoCEnforcement) or contacting one of the [Executive Board](https://www.repidemicsconsortium.org/people#executive-board) members via the [RECON slack channel](https://reconhub.slack.com) or private email. All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All complaints will be reviewed and investigated promptly and fairly - the Code of Conduct Committee will investigate and decide responses to reports with the aim of making a decision and implementing enforcement as soon as is reasonably possible. All community leaders are obligated to respect the privacy and security of the reporter of any incident. 
 
 ## Enforcement Guidelines
-
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+Members of the Code of Conduct Committee will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
@@ -78,7 +75,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0,
-available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html. The Reporting Guidelines were adapted from the rOpenSci Code of Conduct, Version 2.1, available at https://ropensci.org/code-of-conduct/. 
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
