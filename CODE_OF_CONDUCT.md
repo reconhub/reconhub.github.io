@@ -76,7 +76,7 @@ Members of the Code of Conduct Committee will follow these Community Impact Guid
 
 **Consequence**: A permanent ban from any sort of public interaction within the RECON community.
 
-**Note:** In addition to punishments relating to an individual's wider position within the RECON community as described above, where appropriate, the Code of Conduct committee also reserve the right to implemented targeted sanctions addressing specific aspects of an individual's engagement with RECON, such as a ban from being a trainer or participant at RECON workshop or training events.  
+**Note:** In addition to punishments relating to an individual's wider position within the RECON community as described above, where appropriate, the Code of Conduct committee also reserve the right to recommend targeted sanctions addressing specific aspects of an individual's engagement with RECON to the Executive Board, such as a ban from being a trainer or participant at RECON workshop or training events.  
 
 ## Attribution
 
