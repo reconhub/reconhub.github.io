@@ -8,13 +8,13 @@ comments: true
 *Note: this document is work in progress! Please send comments / suggestions
 using disqus, by posting issues or via pull requests. 
 [You can follow this link to access and edit the file that created this 
-page](https://github.com/reconhub/reconhub.github.io/blob/master/guidelines.md)*.
+page](https://github.com/reconhub/reconhub.github.io/blob/master/resources/guidelines.md)*.
 
 
 This document provides guidelines for package development which are meant to
 promote clearer, robust, maintainable, and well-documented code. It borrows
 largely from the [*rOpenSci* onboarding
-guidelines](https://github.com/ropensci/onboarding/) and from [this
+guidelines](https://github.com/ropensci/software-review) and from [this
 post](http://discourse.repidemicsconsortium.org/t/scoring-system-for-r-packages/31/2)
 on the RECON forum. See [list of contributors](#credits) for more information
 on people who shaped this.
@@ -31,14 +31,14 @@ set up your package with the templates for using github, continous integration,
 and testing. 
 
 When writing your package, we recommend following the [*rOpenSci* package
-development guidelines](https://ropensci.github.io/dev_guide/), with the
+development guidelines](https://devguide.ropensci.org/), with the
 following additions / changes:
 
 - RECON does not use any package submission system. If you would like your
   package to integrate RECON, be in touch with us directly (click on email link
   at the bottom of this page). 
 
-- Packages should be hosted on [github](http://github.com), or a similar
+- Packages should be hosted on [github](https://github.com/), or a similar
   platform with a (ideally, distributed) version control system; we recommend
   keeping the *master* branch as functional, and using other branches for more
   adventurous changes.
@@ -67,18 +67,18 @@ following additions / changes:
   (`.Rnw`) as it is easier to convert to `.html` pages.
  
 - We **strongly** recommend the use of
-  [*roxygen2*](https://cran.r-project.org/web/packages/roxygen2/index.html) for
+  [*roxygen2*](https://cran.r-project.org/package=roxygen2) for
   documentation, as it makes documentation easier to maintain.
 
 - We encourage the use of "`::`" when importing functions from non-core
   packages, as it makes dependencies on foreign code more visible. 
 
-- We encourage the use of [*pkgdown*](http://github.com/hadley/pkgdown) to
+- We encourage the use of [*pkgdown*](http://github.com/r-lib/pkgdown) to
   generate a website for the package. For an example, see the
-  [*incidence*](http://github.com/reconhub/incidence) package and [its
-  website](http://www.repidemicsconsortium.org/incidence/). 
+  [*incidence*](https://github.com/reconhub/incidence) package and [its
+  website](https://www.repidemicsconsortium.org/incidence/). 
 
-### Recommended GitHub etiquitte
+### Recommended GitHub etiquette
 
 When collaborating with other people on a package, it's easy to feel overwhelmed
 with keeping track of a moving target. Here, we'll outline a few practices that
@@ -104,7 +104,7 @@ will help make the experience easier:
 
 ## Credits
 
-Besides the [*rOpenSci*](http://ropensci.org/) whose guidelines we largely
+Besides the [*rOpenSci*](https://ropensci.org/) whose guidelines we largely
 adopted, the following people contributed to these guidelines; in alphabetic
 order:
 
