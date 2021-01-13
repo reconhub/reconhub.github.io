@@ -78,7 +78,7 @@ following additions / changes:
   [*incidence*](http://github.com/reconhub/incidence) package and [its
   website](http://www.repidemicsconsortium.org/incidence/). 
 
-### Recommended GitHub etiquitte
+### Recommended GitHub etiquette
 
 When collaborating with other people on a package, it's easy to feel overwhelmed
 with keeping track of a moving target. Here, we'll outline a few practices that
