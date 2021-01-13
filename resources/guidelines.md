@@ -8,7 +8,7 @@ comments: true
 *Note: this document is work in progress! Please send comments / suggestions
 using disqus, by posting issues or via pull requests. 
 [You can follow this link to access and edit the file that created this 
-page](https://github.com/reconhub/reconhub.github.io/blob/master/guidelines.md)*.
+page](https://github.com/reconhub/reconhub.github.io/blob/master/resources/guidelines.md)*.
 
 
 This document provides guidelines for package development which are meant to
