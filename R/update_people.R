@@ -1,18 +1,31 @@
+
+## We handle dependencies here (there's most likely better ways to do this but
+## whatever)
+
+if (!require(googlesheets4)) {
+  install.packages("googlesheets4")
+}
+
+if (!require(dplyr)) {
+  install.packages("dplyr")
+}
+
+
+
+
+
 #' Import member data from registration spreadsheet
 #'
 #' This function imports data on members of RECON from the google
 #' spreadsheet. It returns a `tibble`, keeping only non-rejected members.
 
 import_memberships <- function() {
-  if (!require(googlesheets4)) {
-    install.packages("googlesheets4")
-  }
-
   url <- "https://docs.google.com/spreadsheets/d/16sEx6mPoFpmL53j2DXP1SXyzztaYdGlVh29VYS6ahRU/edit#gid=983075176"
   out <- googlesheets4::read_sheet(url)
   accepted <- c("regular member", "contributing member")
   dplyr::filter(out, `Board decision` %in% accepted)
 }
+
 
 
 
@@ -101,6 +114,29 @@ make_member_yaml <- function(x) {
 
 
 
+#' Generate yaml info for all members
+#'
+#' This function will read membership data and generate entries for every
+#' members in a format compatible with the header of `people.md`.The output is a
+#' character vector which can be fed to `cat()` when creating the new
+#' `people.md` file.
+
+generate_members_data <- function() {
+  ## Read data from google spreadsheet
+  sheet <- import_memberships()
+
+  ## Reorder data
+  sheet <- dplyr::arrange(sheet, "Last name", "First name")
+
+  ## Generate entries for all members
+  list_entries <- lapply(seq_len(nrow(sheet)), function(i) make_member_yaml(sheet[i, ]))
+  all_entries <- unlist(list_entries)
+
+  out <- c("people-list:", all_entries)
+  out <- gsub("[.],", ",", out)
+  out <- gsub(" NA,", "", out)
+  out
+}
 
 
 
