@@ -11,6 +11,16 @@ if (!require(dplyr)) {
 }
 
 
+## Some functions for capitalization of names
+
+simple_cap <- function(x) {
+  s <- strsplit(x, " ")[[1]]
+  paste(toupper(substring(s, 1, 1)), tolower(substring(s, 2)),
+        sep = "", collapse = " ")
+}
+
+capitalize <- function(x) unname(vapply(x, simple_cap, character(1)))
+
 
 
 
@@ -42,7 +52,7 @@ import_memberships <- function() {
 #' @param add_missing_pic a logical indicating if a default 'anonymous' pic
 #'   should be created to replace missing photos
 
-make_member_yaml <- function(x, add_missing_pic = TRUE) {
+make_member_yaml <- function(x, add_missing_pic = FALSE) {
 
   # Some columns are renamed for convenience
   x <- dplyr::rename(x,
@@ -131,12 +141,17 @@ make_member_yaml <- function(x, add_missing_pic = TRUE) {
 #' @param add_missing_pic a logical indicating if a default 'anonymous' pic
 #'   should be created to replace missing photos
 
-generate_members_data <- function(add_missing_pic = TRUE) {
+generate_members_data <- function(add_missing_pic = FALSE) {
   ## Read data from google spreadsheet
   sheet <- import_memberships()
 
   ## Reorder data
   sheet <- dplyr::arrange(sheet, "Last name", "First name")
+
+  ## Make sure capitalization is consistent across entries
+  sheet <- dplyr::mutate(sheet,
+                         "First name" = capitalize(`First name`),
+                         "Last name" = capitalize(`Last name`))
 
   ## Generate entries for all members
   list_entries <- lapply(seq_len(nrow(sheet)),
@@ -144,7 +159,7 @@ generate_members_data <- function(add_missing_pic = TRUE) {
                            make_member_yaml(sheet[i, ], add_missing_pic))
   all_entries <- unlist(list_entries)
 
-  out <- c("people-list:", all_entries)
+  out <- c("members:", all_entries)
   out <- gsub("[.],", ",", out)
   out <- gsub(" NA,", "", out)
   out
@@ -155,19 +170,31 @@ generate_members_data <- function(add_missing_pic = TRUE) {
 
 
 
-## This function generates a new, updated people.md
-update.people <- function(file = "../people.md", input = file, ...) {
-  current <- suppressWarnings(readLines(input))
-  head.stop <- grep("people-list", current)[1] - 1
-  tail.start <- tail(grep("---", current), 1)
-  replacement <- read.registrations(...)
+#' This function generates a new, updated people.md
+#'
+#' The function will read the current people.md file, import membership data,
+#' generate entries for all members in the registration spreadsheet, and insert
+#' these new data in the 'people-list' section in a new, updated people.md file.
+#'
+#' @param add_missing_pic a logical indicating if a default 'anonymous' pic
+#'   should be created to replace missing photos
 
-  out <- c(current[1:head.stop],
-           replacement,
-           current[tail.start:length(current)]
-           )
+update_people_file <- function(in_file = "../people.md",
+                               out_file = in_file,
+                               add_missing_pic = FALSE) {
+  
+  current_content <- suppressWarnings(readLines(in_file))
+  head_stop <- grep("^members:", current_content)[1] - 1
+  tail_start <- tail(grep("---", current_content), 1)
+  members_entries <- generate_members_data(add_missing_pic)
 
-  cat("\n\n *** Create a new file:", file, "***\n")
-  cat(out, file = file, sep = "\n")
+  out <- c(
+      current_content[1:head_stop],
+      members_entries,
+      current_content[tail_start:length(current_content)]
+  )
+
+  cat("\n\n *** Create updated file:", out_file, "***\n")
+  cat(out, file = out_file, sep = "\n")
   return(invisible(out))
 }
