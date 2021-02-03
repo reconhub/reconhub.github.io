@@ -37,8 +37,12 @@ import_memberships <- function() {
 #' structure of the output of `import_memberships`. The output is a character
 #' vector which can be fed to `cat()` when creating the new `people.md` file.
 #'
+#' @param x one line of membership tibble
+#'
+#' @param add_missing_pic a logical indicating if a default 'anonymous' pic
+#'   should be created to replace missing photos
 
-make_member_yaml <- function(x) {
+make_member_yaml <- function(x, add_missing_pic = TRUE) {
 
   # Some columns are renamed for convenience
   x <- dplyr::rename(x,
@@ -70,6 +74,9 @@ make_member_yaml <- function(x) {
 
   if (!file.exists(path_to_pic)) {
     warning("Picture file ", path_to_pic, " is missing")
+    if (add_missing_pic) {
+      file.copy("../img/people/anonymous.jpg", path_to_pic)
+    }
   }
 
   ## description
@@ -120,8 +127,11 @@ make_member_yaml <- function(x) {
 #' members in a format compatible with the header of `people.md`.The output is a
 #' character vector which can be fed to `cat()` when creating the new
 #' `people.md` file.
+#'
+#' @param add_missing_pic a logical indicating if a default 'anonymous' pic
+#'   should be created to replace missing photos
 
-generate_members_data <- function() {
+generate_members_data <- function(add_missing_pic = TRUE) {
   ## Read data from google spreadsheet
   sheet <- import_memberships()
 
@@ -129,7 +139,9 @@ generate_members_data <- function() {
   sheet <- dplyr::arrange(sheet, "Last name", "First name")
 
   ## Generate entries for all members
-  list_entries <- lapply(seq_len(nrow(sheet)), function(i) make_member_yaml(sheet[i, ]))
+  list_entries <- lapply(seq_len(nrow(sheet)),
+                         function(i)
+                           make_member_yaml(sheet[i, ], add_missing_pic))
   all_entries <- unlist(list_entries)
 
   out <- c("people-list:", all_entries)
@@ -138,125 +150,6 @@ generate_members_data <- function() {
   out
 }
 
-
-
-
-
-read.registrations <- function(title = "Registrations", quiet=FALSE){
-  if (!require("googlesheets")) {
-    install.packages("googlesheets")
-    if (!require("googlesheets")) {
-      stop("googlesheets is not present and cannot be installed")
-    }
-  }
-
-  tib <- gs_read(gs_title(title))
-  tib <- as.data.frame(tib)
-
-  ## Processing of the tibble: we need to ensure lower case for the column
-  ## names, and to sort
-
-  ## the entries as follows:
-  ## 1st: Jombart
-  ## rest: alphabetically after the last name
-
-  names(tib) <- tolower(names(tib))
-  lastnames <- tolower(tib[, 3])
-  firstnames <- tolower(tib[, 2])
-  fullnames <- paste(lastnames, firstnames, sep = "_")
-  tj <- "jombart_thibaut"
-  rownames(tib) <- fullnames
-
-  id.tj <- grep(tj, fullnames)
-  if (length(id.tj > 0)) {
-    order <- c(tj, sort(setdiff(fullnames, tj)))
-  } else {
-    order <- order(fullnames)
-  }
-
-  tib <- tib[order, ]
-
-  ## The output will be the 'people-list:' item from the header of the .md
-  ## file. We make a character vector, each item being a separate line in the
-  ## output. The function 'read.one' will read one record and shape it into
-  ## the relevant characters.
-
-  out <- "people-list:"
-
-  read.one <- function(x){
-
-    ## name
-    out <- paste("  - name:", x[2], x[3], sep=" ")
-
-    ## image
-    img.txt <- tolower(paste0("    img: /img/people/",
-                              gsub(" ", "-", x[2]),
-                              "-",
-                              gsub(" ", "-",  x[3]),
-                              ".jpg"))
-    img.txt <- gsub("&ouml;", "o", img.txt)
-
-    out <- c(out, img.txt)
-
-    ## if image does not exist, copy the anonymous pic by default
-    path_to_pic <- tolower(paste0("../img/people/",
-                                  gsub(" ", "-", x[2]), "-",
-                                  gsub(" ", "-",  x[3]),
-                                  ".jpg"))
-
-    ## handle non ascii characters like ö
-    path_to_pic <- gsub("&ouml;", "o", path_to_pic)
-
-    if (!file.exists(path_to_pic)) {
-      message("file ", path_to_pic, " does not exist - using default picture")
-      file.copy("../img/people/anonymous.jpg", path_to_pic)
-    }
-
-    ## description
-    x[6] <- sub("[.]+$", ".", paste(x[6], ".", collapse="", sep=""))
-    x[6] <- gsub(":", ",", x[6])
-    x[7] <- gsub(":", ",", x[7])
-    x[8] <- gsub(":", ",", x[8])
-    out <- c(out, paste(
-      paste0("    desc: ", x[6]), " ", x[7], ", ", x[8], ".", collapse = "", sep = ""))
-
-    ## website
-    if (!is.na(x$website)) {
-      out <- c(out, paste0("    website: ", x$website))
-      out <- c(out, paste0("    url: ", x$website))
-    }
-
-    ## github
-    if (!is.na(x$github)) {
-      out <- c(out, paste0("    github: ", x$github))
-      if (is.na(x$website)) {
-        out <- c(out, paste0("    url: ", x$github))
-      }
-    }
-
-    ## twitter
-    if (!is.na(x$twitter)) {
-      out <- c(out, paste0("    twitter: ", x$twitter))
-      if (is.na(x$website) && is.na(x$github)) {
-        out <- c(out, paste0("    url: ", x$twitter))
-      }
-    }
-
-    return(out)
-  }
-
-  ## generate output - one item per row
-  out <- c(out, unlist(lapply(seq_len(nrow(tib)), function(i) read.one(tib[i, ]))))
-  out <- gsub("[.],", ",", out)
-  out <- gsub(" NA,", "", out)
-
-  if (!quiet) {
-    cat("\n\n\n *** Copy-paste the following into people.md's header ***\n",
-        out, "\n\n", sep="\n")
-  }
-  return(invisible(out))
-
-}
 
 
 
