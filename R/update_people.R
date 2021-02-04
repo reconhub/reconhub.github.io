@@ -193,7 +193,13 @@ generate_members_data <- function(add_missing_pic = FALSE) {
 #' file. Note that if unsure, you can specify an alternative output file, so
 #' that you can compare the old and new version to make sure nothing got
 #' lost. In particular, make sure all members are recorded in the registration
-#' spreadsheet, as only these will be present in the updated version.
+#' spreadsheet, as only these will be present in the updated version. The
+#' following additional changes are also made when processing entries of the
+#' registration form: i) capitalisation of names is enforced (upper casde for
+#' first letter, lower case for others) ii) names are converted to ASCII
+#' characters (including for the path to photo files) iii) optionally, generic
+#' 'anonymous' photos are placed in the right folder if the photo file is
+#' missing (see argument `add_missing_pic`).
 #'
 #' @param in_file the file to be used as input, defaults to `people.md`
 #'
@@ -202,11 +208,13 @@ generate_members_data <- function(add_missing_pic = FALSE) {
 #' 
 #' @param add_missing_pic a logical indicating if a default 'anonymous' pic
 #'   should be created to replace missing photos
+#'
+#' @author Thibaut Jombart
 
 update_people_file <- function(in_file = "../people.md",
                                out_file = in_file,
                                add_missing_pic = FALSE) {
-  
+
   current_content <- suppressWarnings(readLines(in_file))
   head_stop <- grep("^members:", current_content)[1] - 1
   tail_start <- tail(grep("---", current_content), 1)
