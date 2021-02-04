@@ -10,16 +10,29 @@ if (!require(dplyr)) {
   install.packages("dplyr")
 }
 
+if (!require(stringi)) {
+  install.packages("stringi")
+}
+
 
 ## Some functions for capitalization of names
-
+### Atomic version
 simple_cap <- function(x) {
   s <- strsplit(x, " ")[[1]]
   paste(toupper(substring(s, 1, 1)), tolower(substring(s, 2)),
         sep = "", collapse = " ")
 }
 
+### vectorised version
 capitalize <- function(x) unname(vapply(x, simple_cap, character(1)))
+
+## Function to enforce ascii characters
+enforce_ascii <- function(x) {
+  x <- as.character(x)
+  transformation  <- "Any-Latin; Latin-ASCII"
+  stringi::stri_trans_general(x, id = transformation)
+}
+
 
 
 
@@ -150,7 +163,9 @@ generate_members_data <- function(add_missing_pic = FALSE) {
 
   ## Make sure capitalization is consistent across entries
   sheet <- dplyr::mutate(sheet,
+                         "First name" = enforce_ascii(`First name`),
                          "First name" = capitalize(`First name`),
+                         "Last name" = enforce_ascii(`Last name`),
                          "Last name" = capitalize(`Last name`))
 
   ## Generate entries for all members
@@ -174,8 +189,17 @@ generate_members_data <- function(add_missing_pic = FALSE) {
 #'
 #' The function will read the current people.md file, import membership data,
 #' generate entries for all members in the registration spreadsheet, and insert
-#' these new data in the 'people-list' section in a new, updated people.md file.
+#' these new data in the 'people-list' section in a new, updated people.md
+#' file. Note that if unsure, you can specify an alternative output file, so
+#' that you can compare the old and new version to make sure nothing got
+#' lost. In particular, make sure all members are recorded in the registration
+#' spreadsheet, as only these will be present in the updated version.
 #'
+#' @param in_file the file to be used as input, defaults to `people.md`
+#'
+#' @param out_file the file to be used as output, defaults to the same as
+#'   `in_file` in which case the input file will be replaced by the new version.
+#' 
 #' @param add_missing_pic a logical indicating if a default 'anonymous' pic
 #'   should be created to replace missing photos
 
