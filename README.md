@@ -63,7 +63,7 @@ previous version will stay in place.
 To avoid issues and a lot of manual labour, use the sripts in
 `R/update_people.R`. The current implementation works as follows:
 
-1. start **R** into *reconhub.github.io/R/*
+1. start **R** into `reconhub.github.io/R/`
 2. type `source("update_people.R")` to load functions
 3. add appropriate photos in `img/people/[firstname]-[lastname].jpg`
 4. type `update_people_file()` to generate a new `people.md` whose 'member'
