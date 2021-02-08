@@ -85,15 +85,11 @@ make_member_yaml <- function(x, add_missing_pic = FALSE) {
                             "-",
                             gsub(" ", "-",  x["Last name"]),
                             ".jpg"))
-  img_txt <- gsub("&ouml;", "o", img_txt)
-
   out <- c(out, img_txt)
 
   ## if image does not exist, copy the anonymous pic by default
   path_to_pic <- sub("^[ ]*img: ", "", img_txt)
-
-  ## handle non ascii characters like ö
-  path_to_pic <- gsub("&ouml;", "o", path_to_pic)
+  path_to_pic <- paste0("..", path_to_pic)
 
   if (!file.exists(path_to_pic)) {
     warning("Picture file ", path_to_pic, " is missing")
