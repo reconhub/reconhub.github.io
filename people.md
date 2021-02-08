@@ -208,7 +208,7 @@ members:
     desc: Epidemiological Advisor for Médecins Sans Frontières OCA
     github: https://github.com/epiamsterdam
   - name: Greg Martin
-    img: /img/people/greg-martin.jpeg
+    img: /img/people/greg-martin.jpg
     desc: Health service executive; host of Global Health and R Programming 101 YouTube series
     website: https://www.youtube.com/c/drgregmartin
     url: https://www.youtube.com/c/drgregmartin
