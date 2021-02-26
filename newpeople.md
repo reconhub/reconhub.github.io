@@ -326,7 +326,7 @@ members:
     twitter: https://twitter.com/msberends
   - name: Mohammad Kibria
     img: /img/people/mohammad-kibria.jpg
-    desc: More than sixteen years of experience in leading, planning, designing, implementing, strategizing and monitoring of National Public Health Information Systems (NHIS) and M&E systems, including development of the National Sector Program and National TB strategic Plan, integrating HIS into a country’s mainstream system and the enhancement of data use for improving service and system performance; demonstrated ability in successful USG program and national HIS and Government health sector M&E management and reporting and implementation, policy dialogue, organizational development and restructuring, strategic planning, and project design and close out; first-hand experience in the preparation of concept paper/proposal and funding request for the Global Fund, 2021-23 and the COVID-19; technical leadership role on DHiS2, eLMIS, mHealth, e-TB Manager (TB Patient Tracker), Hospital Asset Management System etc, expertise in TB epidemiological data analysis, conducting HIS assessment through RDQA and PRISM tools, capability building on RHIS, health commodity forecasting for TB, EPI, RMNCH programs and data science techniques/machine learning algorithms (supervised and unsupervised learning) and geo-spatial analysis with R/R Studio; adjunct faculty of Population Sciences Department of University of Dhaka. USAID STAR Senior Fellow Bangladesh.
+    desc: Technical advisor in Health Information Systems and Monitoring and Evaluation systems. USAID STAR Senior Fellow Bangladesh.
     website: http://globalhealthanalytics.info/
     url: http://globalhealthanalytics.info/
     github: Rampura Bonosree
