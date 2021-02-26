@@ -287,13 +287,13 @@ members:
     desc: Sir Henry Wellcome Research Fellow. University of Cambridge United Kingdom.
     github: github.com/eeg31
     url: github.com/eeg31
-    twitter: @emma__glennon
+    twitter: https://twitter.com/emma__glennon
   - name: Esther Van Kleef
     img: /img/people/esther-van-kleef.jpg
     desc: Senior epidemiologist. Transmission dynamics AMR, and think I am starting to get a grasp of outbreak analytics. Institute of Tropical Medicine Antwerp Belgium.
     github: https://github.com/esthervankleef
     url: https://github.com/esthervankleef
-    twitter: @estherkleef
+    twitter: https://twitter.com/estherkleef
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
     desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
@@ -335,7 +335,7 @@ members:
     desc: Data Visualization Engineer. Freelancer USA.
     github: benjaminortizulloa
     url: benjaminortizulloa
-    twitter: plzbeemyfriend
+    twitter: https://twitter.com/plzbeemyfriend
   - name: Philip Turk
     img: /img/people/philip-turk.jpg
     desc: Director of Biostatistics and Data Science. Atrium Health United States.
@@ -354,7 +354,7 @@ members:
     website: https://taragonmd.github.io/
     url: https://taragonmd.github.io/
     github: https://github.com/taragonmd
-    twitter: TAragonMD
+    twitter: https://twitter.com/TAragonMD
   - name: Cici Bauer
     img: /img/people/cici-bauer.jpg
     desc: Academic faculty (assistant professor) - Bayesian spatiotemporal modeling. Department of Biostatistics and Data Science, University of Texas Health Science Center in Houston USA.
@@ -393,7 +393,7 @@ members:
     desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. Experience in spatio-temporal analysis. London School of Hygiene and Tropical Medicine United Kingdom.
     github: hannahbrindle
     url: hannahbrindle
-    twitter: @brindle_hannah
+    twitter: https://twitter.com/brindle_hannah
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
     desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
@@ -408,7 +408,7 @@ members:
     desc: Statistician and Researcher. LSHTM United Kingdom.
     github: https://github.com/jarvisc1
     url: https://github.com/jarvisc1
-    twitter: @TheJarvisC1
+    twitter: https://twitter.com/TheJarvisC1
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
     desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
@@ -427,13 +427,13 @@ members:
     website: www.youtube.com/c/drgregmartin
     url: www.youtube.com/c/drgregmartin
     github: https://github.com/drgregmartin
-    twitter: @drgregmartin
+    twitter: https://twitter.com/drgregmartin
   - name: Ayodele Adeyemo
     img: /img/people/ayodele-adeyemo.jpg
     desc: Senior Technical Associate, GIS and Data Analytics. eHealth Africa Nigeria.
     github: github.com/christad92
     url: github.com/christad92
-    twitter: twitter.com/iyoaye
+    twitter: https://twitter.com/iyoaye
 ---
 
 
