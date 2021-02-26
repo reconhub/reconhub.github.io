@@ -114,7 +114,11 @@ members:
     desc: Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
+<<<<<<< HEAD
     twitter: https://twitter.com/fcampbell_
+=======
+    twitter: http://twitter.com/fcampbell_
+>>>>>>> 4ad4ae89dc21765b78768815c8448e41579f2839
   - name: Henry Kyobe-bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
@@ -299,12 +303,21 @@ members:
     desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
+<<<<<<< HEAD
     twitter: https://twitter.com/rafalpx
   - name: Aminata Ndiaye
     img: /img/people/aminata-ndiaye.jpg
     desc: Biostatistician. WHO France.
     twitter: https://twitter.com/aminata_fadl
     url: https://twitter.com/aminata_fadl
+=======
+    twitter: rafalpx
+  - name: Aminata Ndiaye
+    img: /img/people/aminata-ndiaye.jpg
+    desc: Biostatistician. WHO France.
+    twitter: aminata_fadl
+    url: aminata_fadl
+>>>>>>> 4ad4ae89dc21765b78768815c8448e41579f2839
   - name: Kamarul Imran Musa
     img: /img/people/kamarul-imran-musa.jpg
     desc: Associate Professor / Expertise in disease modelling. School of Medical Sciences, Universiti Sains Malaysia Malaysia.
@@ -433,7 +446,7 @@ members:
     desc: Senior Technical Associate, GIS and Data Analytics. eHealth Africa Nigeria.
     github: github.com/christad92
     url: github.com/christad92
-    twitter: https://twitter.com/twitter.com/iyoaye
+    twitter: https://twitter.com/iyoaye
 ---
 
 
