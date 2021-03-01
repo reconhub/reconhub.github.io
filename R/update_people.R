@@ -74,7 +74,7 @@ make_member_yaml <- function(x, add_missing_pic = FALSE) {
                      github = "Github account (full address)",
                      website = "Website")
 
-  
+
   # Output is built incrementally
   ## name
   out <- paste("  - name:", x["First name"], x["Last name"], sep = " ")
@@ -103,12 +103,21 @@ make_member_yaml <- function(x, add_missing_pic = FALSE) {
   x["position"] <- gsub(":", ",", x["position"])
   x["Institution"] <- gsub(":", ",", x["Institution"])
   x["Country"] <- gsub(":", ",", x["Country"])
-  out <- c(out, paste(
-                    paste0("    desc: ",
-                           x["position"]), " ",
-                    x["Institution"], ", ",
-                    x["Country"], ".",
-                    collapse = "", sep = ""))
+  description <- paste0("    desc: ", x["position"])
+
+  if (!is.na(x["Institution"])) {
+    institution <- paste0(" ", x["Institution"], collapse = "")
+  } else {
+    institution <- ""
+  }
+
+  if (!is.na(x["Country"])) {
+    country <- paste0(" ", x["Country"], ".", collapse = "")
+  } else {
+    country <- "."
+  }
+  description <- paste0(description, institution, country, collapse = "")
+  out <- c(out, description)
   out[3] <- gsub("[ ]+,", ",", out[3])
 
   ## website
@@ -126,10 +135,16 @@ make_member_yaml <- function(x, add_missing_pic = FALSE) {
   }
 
   ## twitter
-  if (!is.na(x["twitter"])) {
-    out <- c(out, paste0("    twitter: ", x["twitter"]))
+  twit <- x["twitter"]
+  if (!is.na(twit)) {
+    twit <- gsub("https://twitter.com/", "", twit, fixed = TRUE)
+    twit <- gsub("http://twitter.com/", "", twit, fixed = TRUE)
+    twit <- gsub("twitter.com/", "", twit, fixed = TRUE)
+    twit <- gsub("@", "", twit, fixed = TRUE)
+    twit <- paste0("https://twitter.com/", twit)
+    out <- c(out, paste0("    twitter: ", twit))
     if (is.na(x["website"]) && is.na(x["github"])) {
-      out <- c(out, paste0("    url: ", x["twitter"]))
+      out <- c(out, paste0("    url: ", twit))
     }
   }
 
@@ -171,6 +186,7 @@ generate_members_data <- function(add_missing_pic = FALSE) {
   all_entries <- unlist(list_entries)
 
   out <- c("members:", all_entries)
+  out <- gsub("\\.\\.+", "\\.", out)
   out <- gsub("[.],", ",", out)
   out <- gsub(" NA,", "", out)
   out
@@ -201,7 +217,7 @@ generate_members_data <- function(add_missing_pic = FALSE) {
 #'
 #' @param out_file the file to be used as output, defaults to the same as
 #'   `in_file` in which case the input file will be replaced by the new version.
-#' 
+#'
 #' @param add_missing_pic a logical indicating if a default 'anonymous' pic
 #'   should be created to replace missing photos
 #'
@@ -217,9 +233,9 @@ update_people_file <- function(in_file = "../people.md",
   members_entries <- generate_members_data(add_missing_pic)
 
   out <- c(
-      current_content[1:head_stop],
-      members_entries,
-      current_content[tail_start:length(current_content)]
+    current_content[1:head_stop],
+    members_entries,
+    current_content[tail_start:length(current_content)]
   )
 
   cat("\n\n *** Create updated file:", out_file, "***\n")
