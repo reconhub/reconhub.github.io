@@ -179,6 +179,9 @@ generate_members_data <- function(add_missing_pic = FALSE) {
                          "Last name" = enforce_ascii(`Last name`),
                          "Last name" = capitalize(`Last name`))
 
+  ## Ensure alphabetic order
+  sheet <- dplyr::arrange(sheet, `Last name`, `First name`)
+  
   ## Generate entries for all members
   list_entries <- lapply(seq_len(nrow(sheet)),
                          function(i)
