@@ -125,11 +125,6 @@ members:
     website: https://cicibauer.netlify.com/
     url: https://cicibauer.netlify.com/
     github: https://github.com/cicibauer
-  - name: Cici Bauer
-    img: /img/people/cici-bauer.jpg
-    desc: Assistant Professor of Biostatistics and Data Science. University of Texas Health Science Center in Houston USA.
-    github: https://github.com/cicibauer
-    url: https://github.com/cicibauer
   - name: Matthijs Berends
     img: /img/people/matthijs-berends.jpg
     desc: Infectious Disease Epidemiology. University of Groningen The Netherlands.
@@ -154,7 +149,7 @@ members:
     desc: Epidemiologist focused on using modeling and forecasting outputs to inform public health decision making. U.S. Centers for Disease Control and Prevention, USA.
   - name: Hannah Brindle
     img: /img/people/hannah-brindle.jpg
-    desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. Experience in spatio-temporal analysis. London School of Hygiene and Tropical Medicine United Kingdom.
+    desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. London School of Hygiene and Tropical Medicine United Kingdom.
     github: hannahbrindle
     url: hannahbrindle
     twitter: https://twitter.com/brindle_hannah
@@ -220,11 +215,6 @@ members:
     desc: Software development / data management & analysis / research fellow.
     github: https://github.com/amygimma
     url: https://github.com/amygimma
-  - name: Amy Gimma
-    img: /img/people/amy-gimma.jpg
-    desc: Software development / data management & analysis / research fellow. LSHTM United Kingdom.
-    github: https://github.com/amygimma
-    url: https://github.com/amygimma
   - name: Emma Glennon
     img: /img/people/emma-glennon.jpg
     desc: Sir Henry Wellcome Research Fellow. University of Cambridge United Kingdom.
@@ -256,7 +246,7 @@ members:
     twitter: https://twitter.com/SamuelJenness
   - name: Michael Johansson
     img: /img/people/michael-johansson.jpg
-    desc: Biologist. I develop, evaluation, and apply statistical and mechanistic modeling tools for public health problems in vector-borne diseases and emerging epidemics. I also work broadly to improved adoption of quantitative approaches in public health writ large. Centers for Disease Control and Prevention, Harvard TH Chan School of Public Health, Outbreak Science United States.
+    desc: Biologist. I develop, evaluate, and apply statistical and mechanistic modeling tools for public health problems in vector-borne diseases and emerging epidemics. Centers for Disease Control and Prevention, Harvard TH Chan School of Public Health, Outbreak Science United States.
     github: https://github.com/majohansson
     url: https://github.com/majohansson
   - name: David Jorgensen

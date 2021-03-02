@@ -178,6 +178,11 @@ generate_members_data <- function(add_missing_pic = FALSE) {
                          "First name" = capitalize(`First name`),
                          "Last name" = enforce_ascii(`Last name`),
                          "Last name" = capitalize(`Last name`))
+                    
+  ## handle duplicates; only the most recent one is kept
+  sheet <- dplyr::mutate(sheet, name = paste(`First name`, `Last name`, sep = "_"))
+  sheet <- dplyr::arrange(sheet, desc(Timestamp))
+  sheet <- dplyr::filter(sheet, !duplicated(name))
 
   ## Ensure alphabetic order
   sheet <- dplyr::arrange(sheet, `Last name`, `First name`)
