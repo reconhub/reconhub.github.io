@@ -14,11 +14,9 @@ job ads etc. consider using our [mailing list](https://mailman.ic.ac.uk/mailman/
 Our *coordinators* are our focal points for some of our main activities. Contact
 them in priority if your enquiry relates to one of these topics:
 
-- *field deployment*: [Patrick Keating](mailto:Patrick.Keating@lshtm.ac.uk)
+- *field deployment*: [Thibaut Jombart](mailto:thibautjombart@gmail.com)
 
-- *methodology*: [Anne Cori](mailto:a.cori@imperial.ac.uk)
-
-- *software development*: [Finlay Campbell](mailto:finlaycampbell93@gmail.com)
+- *software development*: [Tim Taylor](mailto:tim.taylor@hiddenelephants.co.uk)
 
 - *training and capacity building*: [Janetta Skarp](mailto:janetta.skarp13@imperial.ac.uk)
 
