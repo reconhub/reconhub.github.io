@@ -246,7 +246,7 @@ members:
     twitter: https://twitter.com/SamuelJenness
   - name: Michael Johansson
     img: /img/people/michael-johansson.jpg
-    desc: Biologist. I develop, evaluate, and apply statistical and mechanistic modeling tools for public health problems in vector-borne diseases and emerging epidemics. Centers for Disease Control and Prevention, Harvard TH Chan School of Public Health, Outbreak Science United States.
+    desc: Biologist. I develop statistical and mechanistic modeling tools for vector-borne diseases and emerging epidemics. Centers for Disease Control and Prevention, Harvard TH Chan School of Public Health, Outbreak Science United States.
     github: https://github.com/majohansson
     url: https://github.com/majohansson
   - name: David Jorgensen
