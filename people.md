@@ -70,6 +70,30 @@ advisory-board:
     website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
     url: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
 members:
+  - name: Jamalludin Ab Rahman
+    img: /img/people/jamalludin-ab-rahman.jpg
+    desc: Professor of epidemiology. International islamic University of Malaysia Malaysia.
+    github: https://github.com/arjamal70
+    url: https://github.com/arjamal70
+    twitter: https://twitter.com/arjamal
+  - name: Ayodele Adeyemo
+    img: /img/people/ayodele-adeyemo.jpg
+    desc: Senior Technical Associate, GIS and Data Analytics. eHealth Africa Nigeria.
+    github: github.com/christad92
+    url: github.com/christad92
+    twitter: https://twitter.com/iyoaye
+  - name: Manuel Albela Miranda
+    img: /img/people/manuel-albela-miranda.jpg
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
+    website: https://www.msf.ch
+    url: https://www.msf.ch
+  - name: Tomas Aragon
+    img: /img/people/tomas-aragon.jpg
+    desc: R instructor; infectious disease epidemiologist; public health official. University of California, Berkeley School of Public Health USA.
+    website: https://taragonmd.github.io/
+    url: https://taragonmd.github.io/
+    github: https://github.com/taragonmd
+    twitter: https://twitter.com/TAragonMD
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
@@ -92,13 +116,32 @@ members:
     twitter: https://twitter.com/Ammer_B
   - name: Neale Batra
     img: /img/people/neale-batra.jpg
-    desc: Communicable disease epidemiologist specialized in emergency response and preparedness
+    desc: Communicable disease epidemiologist specialized in emergency response and preparedness.
     github: https://github.com/nsbatra
+    url: https://github.com/nsbatra
+  - name: Cici Bauer
+    img: /img/people/cici-bauer.jpg
+    desc: Academic faculty (assistant professor) - Bayesian spatiotemporal modeling. Department of Biostatistics and Data Science, University of Texas Health Science Center in Houston USA.
+    website: https://cicibauer.netlify.com/
+    url: https://cicibauer.netlify.com/
+    github: https://github.com/cicibauer
+  - name: Matthijs Berends
+    img: /img/people/matthijs-berends.jpg
+    desc: Infectious Disease Epidemiology. University of Groningen The Netherlands.
+    website: https://www.rug.nl/staff/m.s.berends/
+    url: https://www.rug.nl/staff/m.s.berends/
+    github: https://github.com/msberends
+    twitter: https://twitter.com/msberends
+  - name: Mahendra Bhandari
+    img: /img/people/mahendra-bhandari.jpg
+    desc: Head Intelligent Automation, Predictive Modelling, Ensemble Forecast, Location Based Intelligence, Python / R. AINQA India.
+    website: www.ainqa.com
+    url: www.ainqa.com
   - name: Sangeeta Bhatia
     img: /img/people/sangeeta-bhatia.jpg
     desc: Modeller and software developer contributing packages for outbreak analysis using digital surveillance data. Imperial College London, UK.
-    website: https://sangeetabhatia03.github.io
-    url: https://sangeetabhatia03.github.io
+    website: https://sangeetabhatia03.github.io/
+    url: https://sangeetabhatia03.github.io/
     github: https://github.com/sangeetabhatia03
     twitter: https://twitter.com/sangeeta0312
   - name: Matthew Biggerstaff
@@ -106,9 +149,10 @@ members:
     desc: Epidemiologist focused on using modeling and forecasting outputs to inform public health decision making. U.S. Centers for Disease Control and Prevention, USA.
   - name: Hannah Brindle
     img: /img/people/hannah-brindle.jpg
-    desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. Experience in spatio-temporal analysis.
+    desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. London School of Hygiene and Tropical Medicine United Kingdom.
+    github: hannahbrindle
+    url: hannahbrindle
     twitter: https://twitter.com/brindle_hannah
-    github: https://github.com/hannahbrindle
   - name: Jun Cai
     img: /img/people/jun-cai.jpg
     desc: PhD candidate interested in influenza transmission dynamics and R programming. Center for Earth System Science, Tsinghua University, China.
@@ -121,7 +165,7 @@ members:
     desc: Data scientist interested in outbreak analysis and R package development. WHO Geneva, Switzerland.
     github: http://github.com/finlaycampbell
     url: http://github.com/finlaycampbell
-    twitter: http://twitter.com/fcampbell_
+    twitter: https://twitter.com/fcampbell_
   - name: Anne Cori
     img: /img/people/anne-cori.jpg
     desc: Statistician specialized in disease modelling and outbreak response. Imperial College London, UK.
@@ -135,6 +179,11 @@ members:
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
     twitter: https://twitter.com/Zulma.Cucunuba
+  - name: Amy Dighe
+    img: /img/people/amy-dighe.jpg
+    desc: PhD Student - using mathematical modelling and statistical analyses to better characterise the transmission dynamics of emerging infectious diseases. MRC centre for Global Infectious Disease Analysis, Imperial College London United Kingdom.
+    twitter: https://twitter.com/amy__dighe
+    url: https://twitter.com/amy__dighe
   - name: Roz Eggo
     img: /img/people/roz-eggo.jpg
     desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections. LSHTM, UK.
@@ -142,10 +191,11 @@ members:
     url: https://github.com/rozeggo
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
-    desc: Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
-    url: https://ffinger.github.io
-    website: https://ffinger.github.io
-    github: https://github.com/ffinger
+    desc: Epidemiologist & Outbreak Analyst. Epicentre, Paris France.
+    website: ffinger.github.io
+    url: ffinger.github.io
+    github: https://github.com/ffinger/
+    twitter: https://twitter.com/flavio_finger
   - name: Rich Fitzjohn
     img: /img/people/rich-fitzjohn.jpg
     desc: R developper specialized in data analysis infrastructures. Imperial College London, UK.
@@ -162,9 +212,16 @@ members:
     twitter: https://twitter.com/sdwfrost
   - name: Amy Gimma
     img: /img/people/amy-gimma.jpg
-    desc: Software development / data management & analysis / research fellow
+    desc: Software development / data management & analysis / research fellow.
     github: https://github.com/amygimma
-  - name: Michael H&ouml;hle
+    url: https://github.com/amygimma
+  - name: Emma Glennon
+    img: /img/people/emma-glennon.jpg
+    desc: Sir Henry Wellcome Research Fellow. University of Cambridge United Kingdom.
+    github: github.com/eeg31
+    url: github.com/eeg31
+    twitter: https://twitter.com/emma__glennon
+  - name: Michael Hohle
     img: /img/people/michael-hohle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
     website: http://www.math.su.se/~hoehle
@@ -175,45 +232,75 @@ members:
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
   - name: Christopher Jarvis
-    img: /img/people/Jarvis.jpg
-    desc: Statistician and Researcher at LSHTM.
+    img: /img/people/christopher-jarvis.jpg
+    desc: Statistician and Researcher. LSHTM United Kingdom.
+    github: https://github.com/jarvisc1
+    url: https://github.com/jarvisc1
+    twitter: https://twitter.com/TheJarvisC1
   - name: Samuel Jenness
     img: /img/people/samuel-jenness.jpg
     desc: Epidemic modeling, network science, HIV/STI epidemiology. Emory University, USA.
-    website: http://www.samueljenness.org
-    url: http://www.samueljenness.org
+    website: http://www.samueljenness.org/
+    url: http://www.samueljenness.org/
     github: https://github.com/EpiModel
     twitter: https://twitter.com/SamuelJenness
+  - name: Michael Johansson
+    img: /img/people/michael-johansson.jpg
+    desc: Biologist. I develop, evaluate, and apply statistical and mechanistic modeling tools for public health problems in vector-borne diseases and emerging epidemics. Centers for Disease Control and Prevention, Harvard TH Chan School of Public Health, Outbreak Science United States.
+    github: https://github.com/majohansson
+    url: https://github.com/majohansson
+  - name: David Jorgensen
+    img: /img/people/david-jorgensen.jpg
+    desc: PhD student in infectious disease epidemiology. Imperial College London UK.
+    website: https://www.imperial.ac.uk/people/david.jorgensen13
+    url: https://www.imperial.ac.uk/people/david.jorgensen13
+    github: https://github.com/JorgensenD
   - name: Zhian Kamvar
     img: /img/people/zhian-kamvar.jpg
     desc: R developer and population geneticist. Imperial College London, UK.
-    website: https://zkamvar.netlify.com
-    url: https://zkamvar.netlify.com
+    website: https://zkamvar.netlify.com/
+    url: https://zkamvar.netlify.com/
     github: https://github.com/zkamvar
     twitter: https://twitter.com/zkamvar
   - name: Patrick Keating
     img: /img/people/patrick-keating.jpg
     desc: Infectious disease epidemiologist using R for analysis. Austrian Agency for Health and Food Safety, Austria.
-  - name: Henry Kyobe-Bosa
+  - name: Mohammad Kibria
+    img: /img/people/mohammad-kibria.jpg
+    desc: Technical advisor in Health Information Systems and Monitoring and Evaluation systems. USAID STAR Senior Fellow Bangladesh.
+    website: http://globalhealthanalytics.info/
+    url: http://globalhealthanalytics.info/
+    github: Rampura Bonosree
+  - name: Meryam Krit
+    img: /img/people/meryam-krit.jpg
+    desc: Mathematical modeller and researcher. Tropical Institute of Medicines Belgium.
+    website: https://pure.itg.be/en/persons/meryam-krit(ed3c0fa1-dde1-41cc-9a4a-b10051c9f93a).html
+    url: https://pure.itg.be/en/persons/meryam-krit(ed3c0fa1-dde1-41cc-9a4a-b10051c9f93a).html
+  - name: Henry Kyobe-bosa
     img: /img/people/henry-kyobe-bosa.jpg
     desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response to emerging infectious diseases. African Risk Capacity, South Africa.
-    website: http://www.africanriskcapacity.org
-    url: http://www.africanriskcapacity.org
+    website: http://www.africanriskcapacity.org/
+    url: http://www.africanriskcapacity.org/
     twitter: https://twitter.com/hskyobe
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
-    desc: Senior Epidemiologist, UK-Public Health Rapid Support Team, UK.
+    desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor for MÃ©decins Sans FrontiÃ¨res OCA
-    github: https://github.com/epiamsterdam
+    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
+  - name: Rafael Lopes Paixao Da Silva
+    img: /img/people/rafael-lopes-paixao-da-silva.jpg
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
+    github: rafalopespx
+    url: rafalopespx
+    twitter: https://twitter.com/rafalpx
   - name: Greg Martin
     img: /img/people/greg-martin.jpg
-    desc: Health service executive; host of Global Health and R Programming 101 YouTube series
-    website: https://www.youtube.com/c/drgregmartin
-    url: https://www.youtube.com/c/drgregmartin
-    twitter: https://twitter.com/drgregmartin
+    desc: Health service executive; host of Global Health and R Programming 101 YouTube series.
+    website: www.youtube.com/c/drgregmartin
+    url: www.youtube.com/c/drgregmartin
     github: https://github.com/drgregmartin
+    twitter: https://twitter.com/drgregmartin
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -221,13 +308,25 @@ members:
     url: https://paula-moraga.github.io/
     github: https://github.com/Paula-Moraga
     twitter: https://twitter.com/paumose
-  - name: VP Nagraj
+  - name: Kamarul Imran Musa
+    img: /img/people/kamarul-imran-musa.jpg
+    desc: Associate Professor / Expertise in disease modelling. School of Medical Sciences, Universiti Sains Malaysia Malaysia.
+    website: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    url: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+    github: https://github.com/drkamarul
+    twitter: https://twitter.com/kamarul_imran
+  - name: Vp Nagraj
     img: /img/people/vp-nagraj.jpg
     desc: R developer and contributor to epicontacts package. University of Virginia, USA.
     website: http://nagraj.net/
     url: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Aminata Ndiaye
+    img: /img/people/aminata-ndiaye.jpg
+    desc: Biostatistician. WHO France.
+    twitter: https://twitter.com/aminata_fadl
+    url: https://twitter.com/aminata_fadl
   - name: Pierre Nouvellet
     img: /img/people/pierre-nouvellet.jpg
     desc: Modelling for outbreak response and zoonotic diseases. Imperial College London, UK.
@@ -239,6 +338,12 @@ members:
     desc: Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
     website: https://research.pasteur.fr/en/member/lulla-opatowski/
     url: https://research.pasteur.fr/en/member/lulla-opatowski/
+  - name: Benjamin Ortiz Ulloa
+    img: /img/people/benjamin-ortiz-ulloa.jpg
+    desc: Data Visualization Engineer. Freelancer USA.
+    github: benjaminortizulloa
+    url: benjaminortizulloa
+    twitter: https://twitter.com/plzbeemyfriend
   - name: Pawel Piatkowski
     img: /img/people/pawel-piatkowski.jpg
     desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working for Genentech/Roche), Poland.
@@ -255,14 +360,14 @@ members:
     twitter: https://twitter.com/jonny_polonsky
   - name: Juliet Pulliam
     img: /img/people/juliet-pulliam.jpg
-    desc: Infectious disease modeler focusing on outbreaks and zoonotic diseases. Acting Program Director of the <a href="http://ici3d.org">ICI3D</a>. Director, South African Centre for Epidemioligcal Modelling and Analysis (SACEMA), South Africa.
-    website: http://www.sacema.org
-    url: http://www.sacema.org/people/staff
+    desc: Infectious disease modeler focusing on outbreaks and zoonotic diseases. Acting Program Director of the ICI3D. Director, South African Centre for Epidemiological Modelling and Analysis (SACEMA) South Africa.
+    website: www.sacema.org
+    url: www.sacema.org
     github: https://github.com/jrcpulliam
     twitter: https://twitter.com/SACEMAdirector
   - name: Karthik Ram
     img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the <a href="http://ropensci.org">rOpenSci</a> initiative. UC Berkeley, USA.
+    desc: Data scientist and ecologist, Karthik is also heading the rOpenSci initiative. UC Berkeley, USA.
     website: http://karthik.io/
     url: http://karthik.io/
     github: https://github.com/karthik
@@ -270,9 +375,14 @@ members:
   - name: Nistara Randhawa
     img: /img/people/nistara-randhawa.jpg
     desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
-    website: http://nistara.net
-    url: http://nistara.net
+    website: http://nistara.net/
+    url: http://nistara.net/
     github: https://github.com/nistara
+  - name: Matthieu Rolland
+    img: /img/people/matthieu-rolland.jpg
+    desc: Statistician - Environmental Epidemiologist. Institute for Advanced Biosciences - INSERM France.
+    github: https://gitlab.com/mjrolland
+    url: https://gitlab.com/mjrolland
   - name: Ilana Schafer
     img: /img/people/ilana-schafer.jpg
     desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
@@ -285,9 +395,9 @@ members:
     twitter: https://twitter.com/dirk_sch
   - name: Jakob Schumacher
     img: /img/people/jakob-schumacher.jpg
-    desc: Public Health Consultant in Berlin, Germany
-    website: https://www.jakiva.de
-    url: https://www.jakiva.de
+    desc: Public health consultant. Local public health institute, Berlin Germany.
+    website: www.jakiva.de
+    url: www.jakiva.de
     github: https://github.com/jakobschumacher
   - name: Alex Spina
     img: /img/people/alex-spina.jpg
@@ -299,7 +409,19 @@ members:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Bulgaria.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
-  - name: Jean-Pierre Veyrenche
+  - name: Philip Turk
+    img: /img/people/philip-turk.jpg
+    desc: Director of Biostatistics and Data Science. Atrium Health United States.
+    website: https://atriumhealth.org/research/multi-disciplinary-centers-and-cores/core
+    url: https://atriumhealth.org/research/multi-disciplinary-centers-and-cores/core
+    github: https://github.com/philturk
+  - name: Esther Van Kleef
+    img: /img/people/esther-van-kleef.jpg
+    desc: Senior epidemiologist. Transmission dynamics AMR, and think I am starting to get a grasp of outbreak analytics. Institute of Tropical Medicine Antwerp Belgium.
+    github: https://github.com/esthervankleef
+    url: https://github.com/esthervankleef
+    twitter: https://twitter.com/estherkleef
+  - name: Jean-pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
 ---
