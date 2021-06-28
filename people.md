@@ -84,7 +84,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -291,10 +291,10 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
+    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
@@ -452,7 +452,7 @@ members:
     twitter: https://twitter.com/Nil
   - name: Esther Van Kleef
     img: /img/people/esther-van-kleef.jpg
-    desc: Senior epidemiologist. Transmission dynamics AMR, and think I am starting to get a grasp of outbreak analytics. Institute of Tropical Medicine Antwerp Belgium.
+    desc: Senior epidemiologist. Special interest in (modelling) the transmission dynamics of antimicrobial resistance and outbreak analytics. Institute of Tropical Medicine Antwerp Belgium.
     github: https://github.com/esthervankleef
     url: https://github.com/esthervankleef
     twitter: https://twitter.com/estherkleef
