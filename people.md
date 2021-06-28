@@ -84,7 +84,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -291,10 +291,10 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
+    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
@@ -461,7 +461,7 @@ members:
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
   - name: K.m. Rukhsad Asif Zaman
     img: /img/people/k.m.-rukhsad-asif-zaman.jpg
-    desc: Field monitoring officer, data management and analysis using R. INTERNATIONAL HEALTH REGULATION (IHR), CDC, DGHS BANGLADESH.
+    desc: Field monitoring officer, data management and analysis using R. International Health Regulation (IHR), CDC, DGHS Bangladesh.
     twitter: https://twitter.com/live:.cid.1dca1c8831f930ea
     url: https://twitter.com/live:.cid.1dca1c8831f930ea
 ---
