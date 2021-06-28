@@ -274,6 +274,7 @@ members:
     website: http://globalhealthanalytics.info/
     url: http://globalhealthanalytics.info/
     github: Rampura Bonosree
+    twitter: https://twitter.com/madhurza_kibria
   - name: Meryam Krit
     img: /img/people/meryam-krit.jpg
     desc: Mathematical modeller and researcher. Tropical Institute of Medicines Belgium.
