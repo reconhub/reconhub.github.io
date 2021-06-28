@@ -84,7 +84,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. MÃ©decins sans FrontiÃ¨res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -179,6 +179,9 @@ members:
     url: http://www.imperial.ac.uk/people/zulma.cucunuba
     github: https://github.com/zulmac
     twitter: https://twitter.com/Zulma.Cucunuba
+  - name: Jeroen De Korte
+    img: /img/people/jeroen-de-korte.jpg
+    desc: Data Scientist / Product manager, working on an IoT platform to enable cities to become more sustainable. n/a Netherlands.
   - name: Amy Dighe
     img: /img/people/amy-dighe.jpg
     desc: PhD Student - using mathematical modelling and statistical analyses to better characterise the transmission dynamics of emerging infectious diseases. MRC centre for Global Infectious Disease Analysis, Imperial College London United Kingdom.
@@ -287,10 +290,10 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. MÃ©decins Sans FrontiÃ¨res OCA The Netherlands.
+    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de FÃ­sica TeÃ³rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
@@ -301,6 +304,11 @@ members:
     url: www.youtube.com/c/drgregmartin
     github: https://github.com/drgregmartin
     twitter: https://twitter.com/drgregmartin
+  - name: Arun Mitra
+    img: /img/people/arun-mitra.jpg
+    desc: PhD Scholar, Epidemiology, Public Health Data Science, Infectious Disease Epidemiology. Achutha Menon Centre for Health Science Studies, Sree Chitra Tirunal Institute for Medical Sciences and Technology India.
+    github: https://github.com/drarunmitra
+    url: https://github.com/drarunmitra
   - name: Paula Moraga
     img: /img/people/paula-moraga.jpg
     desc: Spatial statistics and disease surveillance. Lancaster University, UK.
@@ -322,6 +330,12 @@ members:
     url: http://nagraj.net/
     github: https://github.com/vpnagraj
     twitter: https://twitter.com/vpnagraj
+  - name: Ghiwa Nassereddine
+    img: /img/people/ghiwa-nassereddine.jpg
+    desc: A passionate public health professional with a concentration in epidemiology and biostatistics. American University of Beirut Lebanon.
+    github: https://github.com/GhiwaNassereddine
+    url: https://github.com/GhiwaNassereddine
+    twitter: https://twitter.com/_ghiwa
   - name: Aminata Ndiaye
     img: /img/people/aminata-ndiaye.jpg
     desc: Biostatistician. WHO France.
@@ -409,12 +423,32 @@ members:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Bulgaria.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+  - name: Scott Teesdale
+    img: /img/people/scott-teesdale.jpg
+    desc: Product management; epidemiology. Resolve to Save Lives, Louisiana Department of Health United States.
+    website: https://resolvetosavelives.org/prevent-epidemics
+    url: https://resolvetosavelives.org/prevent-epidemics
+    github: https://github.com/steesdale
+    twitter: https://twitter.com/ScottTees
+  - name: Achilleas Tsoumanis
+    img: /img/people/achilleas-tsoumanis.jpg
+    desc: Biostatistician - R programmer - PhD candidate. Clinical Trials Unit, Institute of Tropical Medicine, Antwerp Belgium.
   - name: Philip Turk
     img: /img/people/philip-turk.jpg
     desc: Director of Biostatistics and Data Science. Atrium Health United States.
     website: https://atriumhealth.org/research/multi-disciplinary-centers-and-cores/core
     url: https://atriumhealth.org/research/multi-disciplinary-centers-and-cores/core
     github: https://github.com/philturk
+  - name: Nsikak Udoh
+    img: /img/people/nsikak-udoh.jpg
+    desc: DATA ANALYST. UNIVERSITY OF LAGOS NIGERIA.
+  - name: Aliyu Usman Kinafa
+    img: /img/people/aliyu-usman-kinafa.jpg
+    desc: Lecturer. Gombe State University Nigeria.
+    website: Nil
+    url: Nil
+    github: Nil
+    twitter: https://twitter.com/Nil
   - name: Esther Van Kleef
     img: /img/people/esther-van-kleef.jpg
     desc: Senior epidemiologist. Transmission dynamics AMR, and think I am starting to get a grasp of outbreak analytics. Institute of Tropical Medicine Antwerp Belgium.
@@ -424,6 +458,11 @@ members:
   - name: Jean-pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
+  - name: K.m. Rukhsad Asif Zaman
+    img: /img/people/k.m.-rukhsad-asif-zaman.jpg
+    desc: FIELD MONITORING OFFICER, DATA MANAGEMENT AND ANALYSIS USING R. INTERNATIONAL HEALTH REGULATION (IHR), CDC, DGHS BANGLADESH.
+    twitter: https://twitter.com/live:.cid.1dca1c8831f930ea
+    url: https://twitter.com/live:.cid.1dca1c8831f930ea
 ---
 
 
