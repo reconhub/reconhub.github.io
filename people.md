@@ -442,7 +442,7 @@ members:
     github: https://github.com/philturk
   - name: Nsikak Udoh
     img: /img/people/nsikak-udoh.jpg
-    desc: DATA ANALYST. UNIVERSITY OF LAGOS NIGERIA.
+    desc: Data analyst. University of Lagos Nigeria.
   - name: Aliyu Usman Kinafa
     img: /img/people/aliyu-usman-kinafa.jpg
     desc: Lecturer. Gombe State University Nigeria.
@@ -461,7 +461,7 @@ members:
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
   - name: K.m. Rukhsad Asif Zaman
     img: /img/people/k.m.-rukhsad-asif-zaman.jpg
-    desc: FIELD MONITORING OFFICER, DATA MANAGEMENT AND ANALYSIS USING R. INTERNATIONAL HEALTH REGULATION (IHR), CDC, DGHS BANGLADESH.
+    desc: Field monitoring officer, data management and analysis using R. INTERNATIONAL HEALTH REGULATION (IHR), CDC, DGHS BANGLADESH.
     twitter: https://twitter.com/live:.cid.1dca1c8831f930ea
     url: https://twitter.com/live:.cid.1dca1c8831f930ea
 ---
