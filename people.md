@@ -147,6 +147,9 @@ members:
   - name: Matthew Biggerstaff
     img: /img/people/matthew-biggerstaff.jpg
     desc: Epidemiologist focused on using modeling and forecasting outputs to inform public health decision making. U.S. Centers for Disease Control and Prevention, USA.
+  - name: Olivia Boyd
+    img: /img/people/olivia-boyd.jpg
+    desc: Postgrad researcher - Epidemiology. Imperial College London United Kingdom.
   - name: Hannah Brindle
     img: /img/people/hannah-brindle.jpg
     desc: Research Fellow with the Emergency and Epidemic Data at the London School of Hygiene and Tropical Medicine. Current work on electronic data collection methods, automated reporting and research during health emergencies. London School of Hygiene and Tropical Medicine United Kingdom.
@@ -348,6 +351,13 @@ members:
     website: https://www.imperial.ac.uk/people/p.nouvellet
     url: https://www.imperial.ac.uk/people/p.nouvellet
     github: https://github.com/pnouvellet
+  - name: Timothy Ogunleye
+    img: /img/people/timothy-ogunleye.jpg
+    desc: Executive Director, Tim-R Programming. Statistical Modelling, Econometrics, Morphometrics and Biostatistics. PhD Candidate, University of Ilorin, Kwara State, Nigeria Nigeria.
+    website: https://tim-rprogramming.com
+    url: https://tim-rprogramming.com
+    github: Nil
+    twitter: https://twitter.com/Tim-R ConsultingOsunGroup
   - name: Lulla Opatowski
     img: /img/people/lulla-opatowski.jpg
     desc: Lecturer in mathematical epidemiology. Universite Versailles St Quentin / Institut Pasteur / Inserm, France.
