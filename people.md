@@ -294,6 +294,12 @@ members:
     url: http://globalhealthanalytics.info/
     github: Rampura Bonosree
     twitter: https://twitter.com/madhurza_kibria
+  - name: Mara Kont
+    img: /img/people/mara-kont.jpg
+    desc: PhD Student in Infectious Disease Epidemiology. Imperial College London United Kingdom.
+    github: marakont
+    url: marakont
+    twitter: https://twitter.com/mara_kont
   - name: Meryam Krit
     img: /img/people/meryam-krit.jpg
     desc: Mathematical modeller and researcher. Tropical Institute of Medicines Belgium.
@@ -305,6 +311,11 @@ members:
     website: http://www.africanriskcapacity.org/
     url: http://www.africanriskcapacity.org/
     twitter: https://twitter.com/hskyobe
+  - name: Abraham Lagat
+    img: /img/people/abraham-lagat.jpg
+    desc: Data Curator. CIMMYT Kenya.
+    twitter: https://twitter.com/lagvier
+    url: https://twitter.com/lagvier
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
