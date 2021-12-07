@@ -76,6 +76,12 @@ members:
     github: https://github.com/arjamal70
     url: https://github.com/arjamal70
     twitter: https://twitter.com/arjamal
+  - name: Monday Osagie Adenomon
+    img: /img/people/monday-osagie-adenomon.jpg
+    desc: Senior Lecturer & Chartered Statistician (RSS-UK); coord, NSUK-LISA; Chair, IASC African mem Group; Time series and Biostatistics. Nasarawa State University, Keffi Nigeria.
+    website: www.nsuk.edu.ng
+    url: www.nsuk.edu.ng
+    twitter: https://twitter.com/admonsagie
   - name: Ayodele Adeyemo
     img: /img/people/ayodele-adeyemo.jpg
     desc: Senior Technical Associate, GIS and Data Analytics. eHealth Africa Nigeria.
@@ -84,7 +90,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -94,6 +100,13 @@ members:
     url: https://taragonmd.github.io/
     github: https://github.com/taragonmd
     twitter: https://twitter.com/TAragonMD
+  - name: Callum Arnold
+    img: /img/people/callum-arnold.jpg
+    desc: PhD in Mathematical Biology studying measles outbreaks and intervention impacts. Pennsylvania State University United States.
+    website: www.callumarnold.com
+    url: www.callumarnold.com
+    github: https://github.com/arnold-c
+    twitter: https://twitter.com/thecallumarnold
   - name: Dean Attali
     img: /img/people/dean-attali.jpg
     desc: Web and R developer, designer of the RECON website. AttaliTech, Canada.
@@ -237,6 +250,9 @@ members:
   - name: Benido Impouma
     img: /img/people/benido-impouma.jpg
     desc: Preparedness for, surveillance of and response to disease outbreaks and other public health emergencies. World Health Organization, Congo, Republic.
+  - name: Yalda Jafari
+    img: /img/people/yalda-jafari.jpg
+    desc: DPhil Candidate. University of Oxford United Kingdom.
   - name: Christopher Jarvis
     img: /img/people/christopher-jarvis.jpg
     desc: Statistician and Researcher. LSHTM United Kingdom.
@@ -294,10 +310,10 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
+    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx

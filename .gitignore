@@ -9,3 +9,4 @@ R/.RData
 *.log
 *.out
 *.toc
+.Rproj.user
