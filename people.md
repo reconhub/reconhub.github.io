@@ -438,6 +438,9 @@ members:
   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Principal Scientist for Computational Research at EcoHealth Alliance. USA.
+    website: https://www.ecohealthalliance.org/personnel/dr-noam-ross
+    url: https://www.ecohealthalliance.org/personnel/dr-noam-ross
+    twitter: https://twitter.com/noamross
   - name: Ilana Schafer
     img: /img/people/ilana-schafer.jpg
     desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
