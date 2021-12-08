@@ -435,6 +435,9 @@ members:
     desc: Statistician - Environmental Epidemiologist. Institute for Advanced Biosciences - INSERM France.
     github: https://gitlab.com/mjrolland
     url: https://gitlab.com/mjrolland
+  - name: Noam Ross
+    img: /img/people/noam-ross.jpg
+    desc: Principal Scientist for Computational Research at EcoHealth Alliance. USA.
   - name: Ilana Schafer
     img: /img/people/ilana-schafer.jpg
     desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
