@@ -319,9 +319,6 @@ members:
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
-  - name: Annick Lenglet
-    img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
     desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
