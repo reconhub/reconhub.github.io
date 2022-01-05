@@ -90,7 +90,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
+    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -321,10 +321,10 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Annick Lenglet
     img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. Médecins Sans Frontières OCA The Netherlands.
+    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
