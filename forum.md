@@ -31,7 +31,7 @@ You can [join our slack organisation by registering your email here](https://joi
 
 <br>
 
-## Announcements and news: use our mailing list *RECON forum*
+## Announcements and news: use our mailing list 
 
 
 ### What to use it for?
@@ -47,10 +47,9 @@ Our mailing list is opened to all, RECON member or not, and is used mostly for a
 
 
 
-### How to use it?
+### How to join?
 
-Follow [this link](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to subscribe to this mailing list, browser the archives, etc. 
+Sned an email to admin@repidemicsconsortium.org with your name and email address to be added to the mailing list.
 
-**To post** to the forum, send an email to [recon-forum@imperial.ac.uk](mailto:recon-forum@imperial.ac.uk). Note that the list is moderated for non-members, so that you will need to [subscribe](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) to make sure your post goes through.
 
 
