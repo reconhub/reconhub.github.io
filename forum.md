@@ -49,7 +49,7 @@ Our mailing list is opened to all, RECON member or not, and is used mostly for a
 
 ### How to join?
 
-Sned an email to admin@repidemicsconsortium.org with your name and email address to be added to the mailing list.
+Send an email to admin@repidemicsconsortium.org with your name and email address to be added to the mailing list.
 
 
 
