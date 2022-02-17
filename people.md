@@ -19,17 +19,7 @@ executive-board:
     desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
-  - name: Tim Taylor
-    img: /img/people/tim-taylor.jpg
-    desc: Sofware Coordinator. Research Software Engineer interested in outbreak analytics and R package development. London School of Hygiene and Tropical Medicine, UK.
-    github: https://github.com/tjtnew
-    twitter: https://twitter.com/_TimTaylor_
-  - name: Claire Thomson
-    img: /img/people/claire-thomson.jpg
-    website: http://www.imperial.ac.uk/people/c.thomson
-    url: http://www.imperial.ac.uk/people/c.thomson
-    desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
-  - name: Noam Ross
+   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Vice-President. Disease Ecologist and Principal Scientist, Computational Research. Software peer review lead for rOpenSci. EcoHealth Alliance United States.
     website: https://www.noamross.net
