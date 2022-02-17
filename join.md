@@ -8,8 +8,7 @@ title: Joining us
 There are two ways to join our community, corresponding to different degrees of
 involvement:
 
-- as a *subscriber* following our activities, by signing up to our 
-[mailing list](https://mailman.ic.ac.uk/mailman/listinfo/recon-forum) 
+- as a *subscriber* following our activities, by sending us an email to admin@repidemicsconsortium.org
 and getting involved in discussions on our
 [Slack organisation](https://reconhub.slack.com)
 
