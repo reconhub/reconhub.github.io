@@ -90,7 +90,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -231,7 +231,7 @@ members:
     twitter: https://twitter.com/sdwfrost
   - name: Amy Gimma
     img: /img/people/amy-gimma.jpg
-    desc: Software development / data management & analysis / research fellow.
+    desc: Software development / data management & analysis / research fellow. LSHTM United Kingdom.
     github: https://github.com/amygimma
     url: https://github.com/amygimma
   - name: Emma Glennon
@@ -240,6 +240,12 @@ members:
     github: github.com/eeg31
     url: github.com/eeg31
     twitter: https://twitter.com/emma__glennon
+  - name: Ale Guy Franck Biaou
+    img: /img/people/ale-guy-franck-biaou.jpg
+    desc: Head of Epidemiology (epidemiology and data science). WaCa Abidjan.
+    github: https://gitlab.com/biaouguy
+    url: https://gitlab.com/biaouguy
+    twitter: https://twitter.com/BIAOUGUY
   - name: Michael Hohle
     img: /img/people/michael-hohle.jpg
     desc: Statistical modelling in infectious disease epidemiology. Stockholm University, Sweden.
@@ -321,7 +327,7 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
@@ -414,13 +420,6 @@ members:
     url: www.sacema.org
     github: https://github.com/jrcpulliam
     twitter: https://twitter.com/SACEMAdirector
-  - name: Karthik Ram
-    img: /img/people/karthik-ram.jpg
-    desc: Data scientist and ecologist, Karthik is also heading the rOpenSci initiative. UC Berkeley, USA.
-    website: http://karthik.io/
-    url: http://karthik.io/
-    github: https://github.com/karthik
-    twitter: https://twitter.com/_inundata/
   - name: Nistara Randhawa
     img: /img/people/nistara-randhawa.jpg
     desc: Epidemiologist and R programmer contributing to the Epicontacts package. University of California, Davis, USA.
@@ -448,6 +447,11 @@ members:
     website: www.jakiva.de
     url: www.jakiva.de
     github: https://github.com/jakobschumacher
+  - name: Amandeep Singh
+    img: /img/people/amandeep-singh.jpg
+    desc: Student, Newbie. The University of Lethbridge Canada.
+    website: www.ulethbridge.ca
+    url: www.ulethbridge.ca
   - name: Alex Spina
     img: /img/people/alex-spina.jpg
     desc: Infectious disease epidemiologist using R for surveillance data and outbreak response. Austrian Agency for Food and Health Safety / European Centre for Disease Prevention and Control, Austria.
@@ -458,6 +462,12 @@ members:
     desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested in affordable analytic tools for outbreak response. National center of infectious and parasitic diseases, Bulgaria.
     website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
     url: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+  - name: Tim Taylor
+    img: /img/people/tim-taylor.jpg
+    desc: Sofware Coordinator. Research Software Engineer interested in outbreak analytics and R package development. London School of Hygiene and Tropical Medicine, UK. England.
+    github: https://github.com/tjtnew
+    url: https://github.com/tjtnew
+    twitter: https://twitter.com/_TimT_
   - name: Scott Teesdale
     img: /img/people/scott-teesdale.jpg
     desc: Product management; epidemiology. Resolve to Save Lives, Louisiana Department of Health United States.
@@ -465,6 +475,11 @@ members:
     url: https://resolvetosavelives.org/prevent-epidemics
     github: https://github.com/steesdale
     twitter: https://twitter.com/ScottTees
+  - name: Claire Thomson
+    img: /img/people/claire-thomson.jpg
+    desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
+    website: http://www.imperial.ac.uk/people/c.thomson
+    url: http://www.imperial.ac.uk/people/c.thomson
   - name: Achilleas Tsoumanis
     img: /img/people/achilleas-tsoumanis.jpg
     desc: Biostatistician - R programmer - PhD candidate. Clinical Trials Unit, Institute of Tropical Medicine, Antwerp Belgium.
