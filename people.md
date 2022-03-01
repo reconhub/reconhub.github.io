@@ -19,6 +19,16 @@ executive-board:
     desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
+  - name: Tim Taylor
+    img: /img/people/tim-taylor.jpg
+    desc: Sofware Coordinator. Research Software Engineer interested in outbreak analytics and R package development. London School of Hygiene and Tropical Medicine, UK.
+    github: https://github.com/tjtnew
+    twitter: https://twitter.com/_TimTaylor_
+  - name: Claire Thomson
+    img: /img/people/claire-thomson.jpg
+    website: http://www.imperial.ac.uk/people/c.thomson
+    url: http://www.imperial.ac.uk/people/c.thomson
+    desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
   - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Vice-President. Disease Ecologist and Principal Scientist, Computational Research. Software peer review lead for rOpenSci. EcoHealth Alliance United States.
@@ -80,7 +90,7 @@ members:
     twitter: https://twitter.com/iyoaye
   - name: Manuel Albela Miranda
     img: /img/people/manuel-albela-miranda.jpg
-    desc: Epidemiology Adviser. M?decins sans Fronti?res (MSF) Switzerland.
+    desc: Epidemiology Adviser. Médecins sans Frontières (MSF) Switzerland.
     website: https://www.msf.ch
     url: https://www.msf.ch
   - name: Tomas Aragon
@@ -317,7 +327,7 @@ members:
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
-    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
+    desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de Física Teórica - IFT (UNESP) Brazil.
     github: rafalopespx
     url: rafalopespx
     twitter: https://twitter.com/rafalpx
