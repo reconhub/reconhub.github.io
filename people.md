@@ -29,13 +29,13 @@ executive-board:
     website: http://www.imperial.ac.uk/people/c.thomson
     url: http://www.imperial.ac.uk/people/c.thomson
     desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health background. Imperial College London, UK.
-  - name: Charlie Whittaker
-    img: /img/people/charlie-whittaker.jpg
-    desc: Treasurer, Vice-president. PhD student, epidemiologist at Imperial College London, UK. 
-    twitter: https://twitter.com/charliewhittak
-    github: https://github.com/cwhittaker1000
-    url: https://www.imperial.ac.uk/people/charles.whittaker16
-    website: https://www.imperial.ac.uk/people/charles.whittaker16
+  - name: Noam Ross
+    img: /img/people/noam-ross.jpg
+    desc: Vice-President. Disease Ecologist and Principal Scientist, Computational Research. Software peer review lead for rOpenSci. EcoHealth Alliance United States.
+    website: https://www.noamross.net
+    url: https://www.noamross.net
+    github: https://github.com/noamross
+    twitter: https://twitter.com/noamross
 advisory-board:
   - name: Gregory Armstrong
     img: /img/people/gregory-armstrong.jpg
@@ -319,9 +319,6 @@ members:
   - name: Olivier Le Polain
     img: /img/people/olivier-le-polain.jpg
     desc: Senior Epidemiologist,. UK-Public Health Rapid Support Team, UK.
-  - name: Annick Lenglet
-    img: /img/people/annick-lenglet.jpg
-    desc: Epidemiological Advisor. M?decins Sans Fronti?res OCA The Netherlands.
   - name: Rafael Lopes Paixao Da Silva
     img: /img/people/rafael-lopes-paixao-da-silva.jpg
     desc: PhD Candidate in physics researching on drivers of epidemics dynamics and Health System impact. Instituto de F?sica Te?rica - IFT (UNESP) Brazil.
@@ -435,12 +432,6 @@ members:
     desc: Statistician - Environmental Epidemiologist. Institute for Advanced Biosciences - INSERM France.
     github: https://gitlab.com/mjrolland
     url: https://gitlab.com/mjrolland
-  - name: Noam Ross
-    img: /img/people/noam-ross.jpg
-    desc: Principal Scientist for Computational Research at EcoHealth Alliance. USA.
-    website: https://www.ecohealthalliance.org/personnel/dr-noam-ross
-    url: https://www.ecohealthalliance.org/personnel/dr-noam-ross
-    twitter: https://twitter.com/noamross
   - name: Ilana Schafer
     img: /img/people/ilana-schafer.jpg
     desc: Veterinary epidemiologist with expertise in field outbreak response, and software development for outbreak data management and contact tracing. US Centers for Disease Control and Prevention, USA.
@@ -502,6 +493,13 @@ members:
   - name: Jean-pierre Veyrenche
     img: /img/people/jean-pierre-veyrenche.jpg
     desc: International expert (WHO, IOM, UNICEF) in WASH and operations management for emergency response to health crises. Freelance consultant, France.
+  - name: Charlie Whittaker
+    img: /img/people/charlie-whittaker.jpg
+    desc: Treasurer, Vice-president. PhD student, epidemiologist. Imperial College, London United Kingdom.
+    website: https://www.imperial.ac.uk/people/charles.whittaker16
+    url: https://www.imperial.ac.uk/people/charles.whittaker16
+    github: https://github.com/cwhittaker1000
+    twitter: https://twitter.com/charliewhittak
   - name: K.m. Rukhsad Asif Zaman
     img: /img/people/k.m.-rukhsad-asif-zaman.jpg
     desc: Field monitoring officer, data management and analysis using R. International Health Regulation (IHR), CDC, DGHS Bangladesh.
