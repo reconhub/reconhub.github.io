@@ -19,7 +19,7 @@ executive-board:
     desc: Training Coordinator. PhD student working in infectious disease modelling, contributor to RECON packages. Imperial College London, UK.
     github: https://github.com/jeskarp
     url: https://github.com/jeskarp
-   - name: Noam Ross
+  - name: Noam Ross
     img: /img/people/noam-ross.jpg
     desc: Vice-President. Disease Ecologist and Principal Scientist, Computational Research. Software peer review lead for rOpenSci. EcoHealth Alliance United States.
     website: https://www.noamross.net
