@@ -87,5 +87,7 @@ exclude:
   - renv.lock
   - renv
 
+plugins: [jekyll-paginate]
+
 gems:
   - jekyll-paginate

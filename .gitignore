@@ -10,3 +10,4 @@ R/.RData
 *.out
 *.toc
 .Rproj.user
+.env
