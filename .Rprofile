@@ -2,6 +2,7 @@ if (file.exists(".env")) {
   try(readRenviron(".env"), silent = TRUE)
 }
 
+# Use RSPM to install packages if possible
 if (Sys.info()[['sysname']] %in% c('Linux', 'Windows')) {
   options(repos = c(RSPM = "https://packagemanager.rstudio.com/all/latest"))
 } else {
@@ -12,6 +13,8 @@ if (Sys.info()[['sysname']] %in% c('Linux', 'Windows')) {
   # options(renv.config.mran.enabled = TRUE) ## TRUE by default
 }
 
+
+# Configure Renv
 options(
   renv.config.repos.override = getOption("repos"),
   renv.config.auto.snapshot = FALSE, ## Don't keep renv.lock updated automatically (messes up GitHub Actions)
@@ -20,4 +23,5 @@ options(
   renv.config.cache.enabled = TRUE   ## Use the renv build cache to speed up install times
 )
 
+# Activate the project on starting
 source("renv/activate.R")
