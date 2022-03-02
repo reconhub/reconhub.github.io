@@ -44,7 +44,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
-  
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "reconhub-github-io"
 
@@ -83,6 +83,9 @@ defaults:
 exclude:
   - LICENSE
   - README.md
+  - .env
+  - renv.lock
+  - renv
 
 gems:
   - jekyll-paginate

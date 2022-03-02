@@ -1,0 +1,483 @@
+advisory_board:
+- name: Gregory Armstrong
+  desc: Director of the Advanced Molecular Detection initiative, with extensive experience
+    in epidemiology and outbreak response at CDC, Atlanta, USA., NA, NA
+  img: https://dl.airtable.com/.attachments/734a9f0bc7490e17ea64afb9c4b4be93/77084b7e/gregory-armstrong.jpg
+  website: http://www.cdc.gov/amd/
+  twitter: https://twitter.com/CDC_AMD
+- name: Gabor Csardi
+  desc: Computer scientist with a strong background in statistics and network theory,
+    Gabor is a prominent member of the R community who develops and contributes to
+    a number of major packages such as igraph, roxygen and R6. Mango Solutions, Chippenham,
+    UK., NA, NA
+  img: https://dl.airtable.com/.attachments/ad3bbc1d277e062621c8a589cb6ae45c/679eea65/gabor-csardi.jpg
+  website: http://gaborcsardi.org/
+  twitter: http://twitter.com/gaborcsardi
+  github: http://github.com/gaborcsardi
+- name: Christl Donnelly
+  desc: Professor of Statistical Epidemiology, Fellow of the Royal Society, Christl
+    has extensive experience in epidemics analysis and emergency outbreak response.
+    Imperial College London, UK., NA, NA
+  img: https://dl.airtable.com/.attachments/86e81cadf687f8cfd9dbcbd8acd2644e/155b5dd9/christl-donnelly.jpg
+  website: http://www.imperial.ac.uk/people/c.donnelly
+- name: Jennifer Gardy
+  desc: Canada Research Chair in Public Health genomics at the university of British
+    Columbia and BC Centre for Disease Control, with extensive experience in inferring
+    disease transmission from genomic data. Vancouver, Canada., NA, NA
+  img: https://dl.airtable.com/.attachments/7fec21dabc680ac9f518f16c17a1d94a/08bc598e/jennifer-gardy.jpg
+  twitter: https://twitter.com/jennifergardy
+  github: https://github.com/jlgardy
+- name: Oliver Morgan
+  desc: Acting Director, Health Emergency Information and Risk Assessment Department,
+    World Health Organisation. Geneva, Switzerland., NA, NA
+  img: https://dl.airtable.com/.attachments/d673ff76536558b3619809f853f2b883/26c3f151/oliver-morgan.jpg
+- name: Jacco Wallinga
+  desc: Professor of infectious disease modelling at Leiden University Medical Center,
+    Head of the Infectious Disease Modelling Department at the National Institute
+    for Public Health and the Environment (RIVM), The Netherlands., NA, NA
+  img: https://dl.airtable.com/.attachments/578b297fced00ff92ed3a8e496ad83e2/5d1987bc/jacco-wallinga.jpg
+  website: http://www.rivm.nl/en/About_RIVM/Knowledge_and_expertise/Experts_and_expertise/Related_information/Modelling_Infectious_Diseases/Prof_Dr_J_Jacco_Wallinga
+executive_board:
+- name: Soledad Colombe
+  desc: Infectious disease epidemiologist with a strong interest in zoonotic diseases.,
+    Outbreak Research Team, Institute of Tropical Medicine, Antwerp, Belgium
+  img: https://dl.airtable.com/.attachments/54fcb27af0745dd88994d140d28d1392/54905b51/soledad-colombe.jpg
+- name: Thibaut Jombart
+  desc: RECON Founder. Statistician and R programmer specialized in outbreak analysis.,
+    London School of Hygiene and Tropical Medicine / Imperial College London, UK.,
+    France
+  img: https://dl.airtable.com/.attachments/77429ce90cc58f644e60058fc6c4d559/1b6eb205/thibaut-jombart.jpg
+  website: https://thibautjombart.netlify.com/
+  twitter: https://twitter.com/TeebzR
+  github: https://github.com/thibautjombart/
+- name: Noam Ross
+  desc: Vice-President. Disease Ecologist and Principal Scientist, Computational Research.
+    Software peer review lead for rOpenSci., EcoHealth Alliance, United States
+  img: https://dl.airtable.com/.attachments/55db127cfcab2c7aa9ca08b29362c360/47ba9d14/noam-ross.jpg
+  website: https://www.noamross.net
+  twitter: https://twitter.com/noamross
+  github: https://github.com/noamross
+- name: Janetta Skarp
+  desc: PhD student working in infectious disease modelling, contributor to RECON
+    packages., Imperial College London, UK., NA
+  img: https://dl.airtable.com/.attachments/1f0bfcaa542cdaf63a5279cf8e10491a/de918b29/janetta-skarp.jpg
+  github: https://github.com/jeskarp
+members:
+- name: Jamalludin Ab Rahman
+  desc: Professor of epidemiology, International islamic University of Malaysia, Malaysia
+  img: https://dl.airtable.com/.attachments/3e1a4f483a20e960d298594335d44ef5/28f9060b/jamalludin-ab-rahman.jpg
+  twitter: https://twitter.com/arjamal
+  github: https://github.com/arjamal70
+- name: Monday Osagie Adenomon
+  desc: Senior Lecturer & Chartered Statistician (RSS-UK); coord, NSUK-LISA; Chair,
+    IASC African mem Group; Time series and Biostatistics, Nasarawa State University,
+    Keffi, Nigeria
+  img: https://dl.airtable.com/.attachments/480bdad2c12273f88c47a6cf7e6ba925/f5ab0f8d/monday-osagie-adenomon.jpg
+- name: Ayodele Adeyemo
+  desc: Senior Technical Associate, GIS and Data Analytics, eHealth Africa, Nigeria
+- name: Manuel Albela Miranda
+  desc: Epidemiology Adviser, Médecins sans Frontières (MSF), Switzerland
+  website: https://www.msf.ch
+- name: Tomas Aragon
+  desc: R instructor; infectious disease epidemiologist; public health official, University
+    of California, Berkeley School of Public Health, United States
+  img: https://dl.airtable.com/.attachments/c4a0e16e704a2343e86c493c8f7de5d2/428073f5/tomas-aragon.jpg
+  website: https://taragonmd.github.io/
+  github: https://github.com/taragonmd
+- name: Callum Arnold
+  desc: PhD in Mathematical Biology studying measles outbreaks and intervention impacts,
+    Pennsylvania State University, United States
+  img: https://dl.airtable.com/.attachments/0f28727235427fd1f96ce1a87a522ff6/1fd70055/callum-arnold.jpg
+  twitter: https://twitter.com/thecallumarnold
+  github: https://github.com/arnold-c
+- name: Dean Attali
+  desc: Web and R developer, designer of the RECON website., AttaliTech, Canada.,
+    NA
+  img: https://dl.airtable.com/.attachments/2ba39dd532ad2df2266e9b4e63d7741c/a4d11de6/dean-attali.jpg
+  website: http://deanattali.com/
+  twitter: https://twitter.com/daattali
+  github: https://github.com/daattali/
+- name: Marc Baguelin
+  desc: Mathematical modeller and health economist specialised in Public Health intervention.
+    Strong believer in open code and sharing., Public Health England, UK., NA
+  img: https://dl.airtable.com/.attachments/2014386d3bf3e038f43670012b449bef/651080b4/marc-baguelin.jpg
+  website: http://www.lshtm.ac.uk/aboutus/people/baguelin.marc
+  twitter: https://twitter.com/marcbaguelin
+  github: https://github.com/MJomaba/
+- name: Amrish Baidjoe
+  desc: Field epidemiologist/microbiologist, outbreak response expert., President
+    of the EPIET alumni network., NA
+  img: https://dl.airtable.com/.attachments/73dfd019e8342cef253fc08c9f987437/f07cb081/amrish-baidjoe.jpg
+  website: https://ammer.tweakblogs.net/
+  twitter: https://twitter.com/Ammer_B
+- name: Neale Batra
+  desc: Communicable disease epidemiologist specialized in emergency response and
+    preparedness, NA, NA
+  img: https://dl.airtable.com/.attachments/3b7143efca752443a8a2f907ee7ec7bc/134dffe9/neale-batra.jpg
+  github: https://github.com/nsbatra
+- name: Cici Bauer
+  desc: Academic faculty (assistant professor) - Bayesian spatiotemporal modeling,
+    Department of Biostatistics and Data Science, University of Texas Health Science
+    Center in Houston, United States
+  img: https://dl.airtable.com/.attachments/f6faf2cc44dc40cc10d1378bd2c89d2d/76e737d9/cici-bauer.jpg
+  website: https://cicibauer.netlify.com/
+  github: https://github.com/cicibauer
+- name: Cici Bauer
+  desc: Assistant Professor of Biostatistics and Data Science, University of Texas
+    Health Science Center in Houston, United States
+  img: https://dl.airtable.com/.attachments/58f799158fa5d433e72c811294d95d11/3d9446c9/cici-bauer.jpg
+  github: https://github.com/cicibauer
+- name: Matthijs Berends
+  desc: Infectious Disease Epidemiology, University of Groningen, Netherlands
+  img: https://dl.airtable.com/.attachments/de418cee9173b6b11658aecd1430c10a/836f0958/matthijs-berends.jpg
+  website: https://www.rug.nl/staff/m.s.berends/
+  twitter: https://twitter.com/msberends
+  github: https://github.com/msberends
+- name: Mahendra Bhandari
+  desc: Head Intelligent Automation , Predictive Modelling , Ensemble Forecast , Location
+    Based Intelligence , Python / R, AINQA, India
+  img: https://dl.airtable.com/.attachments/0dc7a4d42c5b0bd7b764bea5f219f4b0/7f8ca4ba/mahendra-bhandari.jpg
+- name: Sangeeta Bhatia
+  desc: Modeller and software developer contributing packages for outbreak analysis
+    using digital surveillance data., Imperial College London, UK., NA
+  img: https://dl.airtable.com/.attachments/27c6dca8138edfee2950ecad112cdcc3/f71f58f5/sangeeta-bhatia.jpg
+  website: https://sangeetabhatia03.github.io/
+  twitter: https://twitter.com/sangeeta0312
+  github: https://github.com/sangeetabhatia03
+- name: Matthew Biggerstaff
+  desc: Epidemiologist focused on using modeling and forecasting outputs to inform
+    public health decision making., U.S. Centers for Disease Control and Prevention,
+    USA., NA
+  img: https://dl.airtable.com/.attachments/9a3c555cd84d25f7d7b7047728be9120/c4fa5f0d/matthew-biggerstaff.jpg
+- name: Olivia Boyd
+  desc: Postgrad researcher - Epidemiology, Imperial College London, United Kingdom
+  img: https://dl.airtable.com/.attachments/a75b568cea396d3bede12acd5c002a40/4968b41b/olivia-boyd.jpg
+- name: Hannah Brindle
+  desc: Research Fellow with the Emergency and Epidemic Data at the London School
+    of Hygiene and Tropical Medicine. Current work on electronic data collection methods,
+    automated reporting and research during health emergencies., London School of
+    Hygiene and Tropical Medicine, United Kingdom
+  img: https://dl.airtable.com/.attachments/84600a929b72591c1a31bcaea634bb5d/c90082d8/hannah-brindle.jpg
+- name: Jun Cai
+  desc: PhD candidate interested in influenza transmission dynamics and R programming.,
+    Center for Earth System Science, Tsinghua University, China., NA
+  img: https://dl.airtable.com/.attachments/988a244d5d62745300553ebd8ff13ae9/e2b60b52/jun-cai.jpg
+  website: http://blog.tonytsai.name/
+  twitter: https://twitter.com/caijun2046
+  github: https://github.com/caijun
+- name: Finlay Campbell
+  desc: Data scientist interested in outbreak analysis and R package development.,
+    WHO Geneva, Switzerland., NA
+  img: https://dl.airtable.com/.attachments/60286b36630515dcdf4c3fe840a9a46e/2af9000a/finlay-campbell.jpg
+  twitter: http://twitter.com/fcampbell_
+  github: http://github.com/finlaycampbell
+- name: Anne Cori
+  desc: Statistician specialized in disease modelling and outbreak response., Imperial
+    College London, UK., NA
+  img: https://dl.airtable.com/.attachments/d7fc7ed94816e56a20113d4fb53c3b64/84a4bb80/anne-cori.jpg
+  website: http://www.imperial.ac.uk/people/a.cori
+  github: https://github.com/annecori/
+- name: Zulma Cucunuba
+  desc: Vector borne disease modelling to inform public health policy, emphasis in
+    Latin America., Imperial College London, UK., NA
+  img: https://dl.airtable.com/.attachments/2eec49b4bf0daf2be86bd9c6a48d78d5/9f0e4ed8/zulma-cucunuba.jpg
+  website: http://www.imperial.ac.uk/people/zulma.cucunuba
+  twitter: https://twitter.com/Zulma.Cucunuba
+  github: https://github.com/zulmac
+- name: Jeroen de Korte
+  desc: Data Scientist / Product manager, working on an IoT platform to enable cities
+    to become more sustainable, n/a, Netherlands
+  img: https://dl.airtable.com/.attachments/89b557556800d4cd2d6bbad365cb9943/deb308b9/jeroen-de-korte.jpg
+- name: Amy Dighe
+  desc: PhD Student - using mathematical modelling and statistical analyses to better
+    characterise the transmission dynamics of emerging infectious diseases, MRC centre
+    for Global Infectious Disease Analysis, Imperial College London, United Kingdom
+  img: https://dl.airtable.com/.attachments/9085caae532d42d69135ce300dcc5875/4e47e374/amy-dighe.jpg
+  twitter: https://twitter.com/amy__dighe
+- name: Roz Eggo
+  desc: Infectious disease modeller of outbreaks, epidemics, and endemic infections.,
+    LSHTM, UK., NA
+  img: https://dl.airtable.com/.attachments/bcab0c4cc6fa0b3c711f1ca18d2eade7/181e6075/roz-eggo.jpg
+  github: https://github.com/rozeggo
+- name: Flavio Finger
+  desc: Epidemiologist & Outbreak Analyst, Epicentre, Paris, France
+  img: https://dl.airtable.com/.attachments/3a899457e9f973944b6f7ccd2bb44b90/82d183e4/flavio-finger.jpg
+  twitter: https://twitter.com/flavio_finger
+  github: https://github.com/ffinger/
+- name: Rich Fitzjohn
+  desc: R developper specialized in data analysis infrastructures., Imperial College
+    London, UK., NA
+  img: https://dl.airtable.com/.attachments/e5372d2ca62c3294a6065d6c4e633651/9ed0c013/rich-fitzjohn.jpg
+  website: http://richfitz.github.io/
+  twitter: https://twitter.com/rgfitzjohn
+  github: https://github.com/richfitz/
+- name: Simon Frost
+  desc: Viral evolution, dynamics and epidemiology., University of Cambridge, UK.,
+    NA
+  img: https://dl.airtable.com/.attachments/2c24348b21c0765c6e3df2ff11545cc1/950e5150/simon-frost.jpg
+  website: http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
+  twitter: https://twitter.com/sdwfrost
+  github: http://github.com/sdwfrost
+- name: Amy Gimma
+  desc: Software development / data management & analysis / research fellow, LSHTM,
+    United Kingdom
+  img: https://dl.airtable.com/.attachments/fc2dcc9a0b210d23304e0d0f2396f908/2d0251dc/amy-gimma.jpg
+  github: https://github.com/amygimma
+- name: Emma Glennon
+  desc: Sir Henry Wellcome Research Fellow, University of Cambridge, United Kingdom
+  img: https://dl.airtable.com/.attachments/c88b179bf2072af4a793a7af5adaa073/62e01725/emma-glennon.jpg
+- name: ALE GUY FRANCK BIAOU
+  desc: Head of Epidemiology (epidemiology and data science), WaCa, Côte d'Ivoire
+  img: https://dl.airtable.com/.attachments/242b2039e762fe0df02ce53f5dce4e49/2731c96a/ale-guy-franck-biaou.jpg
+  github: https://gitlab.com/biaouguy
+- name: Michael Höhle
+  desc: Statistical modelling in infectious disease epidemiology., Stockholm University,
+    Sweden., NA
+  img: https://dl.airtable.com/.attachments/dca7e802e4c4614cd2b95223f8004692/d34c7121/michael-hohle.jpg
+  website: http://www.math.su.se/~hoehle
+  twitter: https://twitter.com/m_hoehle
+  github: https://github.com/hoehleatsu
+- name: Benido Impouma
+  desc: Preparedness for, surveillance of and response to disease outbreaks and other
+    public health emergencies., World Health Organization, Congo, Republic., NA
+  img: https://dl.airtable.com/.attachments/6f492f6e009af07a0f65417c89634e22/43d00421/benido-impouma.jpg
+- name: Yalda Jafari
+  desc: DPhil Candidate, University of Oxford, United Kingdom
+- name: Christopher Jarvis
+  desc: Statistician and Researcher, LSHTM, United Kingdom
+  img: https://dl.airtable.com/.attachments/8bc22b6edb810a8a3ac2966bd411a45f/4658df81/christopher-jarvis.jpg
+  github: https://github.com/jarvisc1
+- name: Samuel Jenness
+  desc: Epidemic modeling, network science, HIV/STI epidemiology., Emory University,
+    USA., NA
+  img: https://dl.airtable.com/.attachments/c66c0392fd0eb7d675b9e5ee95c375c6/8c343378/samuel-jenness.jpg
+  website: http://www.samueljenness.org/
+  twitter: https://twitter.com/SamuelJenness
+  github: https://github.com/EpiModel
+- name: Michael Johansson
+  desc: Biologist. I develop statistical and mechanistic modeling tools for vector-borne
+    diseases and emerging epidemics., Centers for Disease Control and Prevention,
+    Harvard TH Chan School of Public Health, Outbreak Science, United States
+  github: https://github.com/majohansson
+- name: David Jørgensen
+  desc: PhD student in infectious disease epidemiology, Imperial College London, United
+    Kingdom
+  img: https://dl.airtable.com/.attachments/3c8f5a384eddbc7127ff9d9964dba208/ace16c0b/david-jorgensen.jpg
+  website: https://www.imperial.ac.uk/people/david.jorgensen13
+  github: https://github.com/JorgensenD
+- name: Zhian Kamvar
+  desc: R developer and population geneticist., Imperial College London, UK., NA
+  img: https://dl.airtable.com/.attachments/97d9c07bd72c28bfa702fa3efcafbd70/3cd16bf5/zhian-kamvar.jpg
+  website: https://zkamvar.netlify.com/
+  twitter: https://twitter.com/zkamvar
+  github: https://github.com/zkamvar
+- name: Patrick Keating
+  desc: Infectious disease epidemiologist using R for analysis., Austrian Agency for
+    Health and Food Safety, Austria., NA
+  img: https://dl.airtable.com/.attachments/c4590bc7a7016d1382e82e597dcba971/53bb9f24/patrick-keating.jpg
+- name: Mohammad Kibria
+  desc: Technical advisor in Health Information Systems and Monitoring and Evaluation
+    systems., USAID STAR Senior Fellow, Bangladesh
+  img: https://dl.airtable.com/.attachments/40056cdf777af8ae17713f69689047ee/fd7256f1/mohammad-kibria.jpg
+  website: http://globalhealthanalytics.info/
+- name: Mara Kont
+  desc: PhD Student in Infectious Disease Epidemiology, Imperial College London, United
+    Kingdom
+  img: https://dl.airtable.com/.attachments/e401355435f565880bb7f5bfa55fa1e8/cffdc64f/mara-kont.jpg
+- name: Meryam Krit
+  desc: Mathematical modeller and researcher, Tropical Institute of Medicines, Belgium
+  img: https://dl.airtable.com/.attachments/c81a929cff68db3035cb1526d5f394c4/a83c1b0d/meryam-krit.jpg
+  website: https://pure.itg.be/en/persons/meryam-krit(ed3c0fa1-dde1-41cc-9a4a-b10051c9f93a).html
+- name: Henry Kyobe-Bosa
+  desc: Epidemiologist with interest in outbreak risk analysis, surveillance and response
+    to emerging infectious diseases., African Risk Capacity, South Africa., Uganda
+  img: https://dl.airtable.com/.attachments/5d05d0a42350b31c28b98b68e6087a7e/b5ce2f08/henry-kyobe-bosa.jpg
+  website: http://www.africanriskcapacity.org/
+  twitter: https://twitter.com/hskyobe
+- name: Abraham Lagat
+  desc: Data Curator, CIMMYT, Kenya
+  twitter: https://twitter.com/lagvier
+- name: Olivier Le Polain
+  desc: Senior Epidemiologist,, UK-Public Health Rapid Support Team, UK., NA
+  img: https://dl.airtable.com/.attachments/7ef217e1bdefe759f67e34aedc003acc/749283be/olivier-le-polain.jpg
+- name: Rafael Lopes Paixão da Silva
+  desc: PhD Candidate in physics researching on drivers of epidemics dynamics and
+    Health System impact, Instituto de Física Teórica - IFT (UNESP), Brazil
+  img: https://dl.airtable.com/.attachments/be6fe7adc986bd06e8fe1645e8fc620e/071351fd/rafael-lopes-paixao-da-silva.jpg
+- name: Greg Martin
+  desc: Health service executive; host of Global Health and R Programming 101 YouTube
+    series, NA, NA
+  img: https://dl.airtable.com/.attachments/7011b08dbf01dc455979520f7d2ae64c/044b0308/greg-martin.jpg
+  github: https://github.com/drgregmartin
+- name: Arun Mitra
+  desc: PhD Scholar, Epidemiology, Public Health Data Science, Infectious Disease
+    Epidemiology, Achutha Menon Centre for Health Science Studies, Sree Chitra Tirunal
+    Institute for Medical Sciences and Technology, India
+  img: https://dl.airtable.com/.attachments/9d3a96555b992b95d3a333d4140af040/ba9083ac/arun-mitra.jpg
+  github: https://github.com/drarunmitra
+- name: Paula Moraga
+  desc: Spatial statistics and disease surveillance., Lancaster University, UK., NA
+  img: https://dl.airtable.com/.attachments/8d07b3d234ac02d1d3a12de17ff9a1ea/506fb0d7/paula-moraga.jpg
+  website: https://paula-moraga.github.io/
+  twitter: https://twitter.com/paumose
+  github: https://github.com/Paula-Moraga
+- name: Kamarul Imran Musa
+  desc: Associate Professor / Expertise in disease modelling, xd, Malaysia
+  img: https://dl.airtable.com/.attachments/9fe00f413e4c52a3c2eecd2736e0e52b/d10a636b/kamarul-imran-musa.jpg
+  website: http://www.medic.usm.my/jpm/index.php/en/academic-information/587-prof-madya-dr-kamarul-imran-musa
+  twitter: https://twitter.com/kamarul_imran
+  github: https://github.com/drkamarul
+- name: VP Nagraj
+  desc: R developer and contributor to epicontacts package., University of Virginia,
+    USA., NA
+  img: https://dl.airtable.com/.attachments/c301abd9ba8edfac9d4a54b8b9d45fbc/78ecf836/vp-nagraj.jpg
+  website: http://nagraj.net/
+  twitter: https://twitter.com/vpnagraj
+  github: https://github.com/vpnagraj
+- name: Ghiwa Nassereddine
+  desc: A passionate public health professional with a concentration in epidemiology
+    and biostatistics., American University of Beirut, Lebanon
+  img: https://dl.airtable.com/.attachments/81f80a17a4ac5992f362d2aebfcfe413/c22c00eb/ghiwa-nassereddine.jpg
+  twitter: https://twitter.com/_ghiwa
+  github: https://github.com/GhiwaNassereddine
+- name: Aminata Ndiaye
+  desc: Biostatistician, WHO, France
+  img: https://dl.airtable.com/.attachments/9d88115e904e0f2682bd783168cf087b/2399e3c6/aminata-ndiaye.jpg
+- name: Pierre Nouvellet
+  desc: Modelling for outbreak response and zoonotic diseases., Imperial College London,
+    UK., NA
+  img: https://dl.airtable.com/.attachments/3234aa89ca7e0deba70b978cc997c7e2/51184a12/pierre-nouvellet.jpg
+  website: https://www.imperial.ac.uk/people/p.nouvellet
+  github: https://github.com/pnouvellet
+- name: Timothy Ogunleye
+  desc: Executive Director, Tim-R Programming. Statistical Modelling, Econometrics,
+    Morphometrics and Biostatistics, PhD Candidate, University of Ilorin, Kwara State,
+    Nigeria, Nigeria
+  img: https://dl.airtable.com/.attachments/881eb2ab6a4186aa4124ad175a5cc80b/548e0134/timothy-ogunleye.jpg
+  website: https://tim-rprogramming.com
+- name: Lulla Opatowski
+  desc: Lecturer in mathematical epidemiology., Universite Versailles St Quentin /
+    Institut Pasteur / Inserm, France., NA
+  img: https://dl.airtable.com/.attachments/95a3216fabfaeb4afe1adfd3f3305692/0615123d/lulla-opatowski.jpg
+  website: https://research.pasteur.fr/en/member/lulla-opatowski/
+- name: Benjamin Ortiz Ulloa
+  desc: Data Visualization Engineer, Freelancer, United States
+  img: https://dl.airtable.com/.attachments/ad073cafe78454f3da90454df87d68bc/fd4ec215/benjamin-ortiz-ulloa.jpg
+- name: Pawel Piatkowski
+  desc: Bioinformatician, avid R/Shiny programmer. Independent contractor (working
+    for Genentech/Roche), Poland., NA, NA
+  img: https://dl.airtable.com/.attachments/e9c6574eca5acd4a7afe3751c54fe015/14677d16/pawel-piatkowski.jpg
+  website: http://cosi1.github.io/
+  twitter: https://twitter.com/Cosi1125
+  github: https://github.com/cosi1/
+- name: Jonathan Polonsky
+  desc: Epidemiologist focusing on humanitarian and outbreak settings. I use R for
+    automating analyses and reproducible reporting., World Health Organisation, Switzerland.,
+    NA
+  img: https://dl.airtable.com/.attachments/dca8955b03f9fe25bc1a53ccc7da5b2c/8d1ffae0/jonathan-polonsky.jpg
+  website: http://who.int/emergencies/en/
+  twitter: https://twitter.com/jonny_polonsky
+  github: https://github.com/jpolonsky
+- name: Juliet Pulliam
+  desc: Infectious disease modeler focusing on outbreaks and zoonotic diseases., Acting
+    Program Director of the ICI3D. Director, South African Centre for Epidemiological
+    Modelling and Analysis (SACEMA), South Africa
+  img: https://dl.airtable.com/.attachments/a3bfb731d69f3510c5d5df694d8d2bc3/f7b03d75/juliet-pulliam.jpg
+  twitter: https://twitter.com/SACEMAdirector
+  github: https://github.com/jrcpulliam
+- name: Nistara Randhawa
+  desc: Epidemiologist and R programmer contributing to the Epicontacts package.,
+    University of California, Davis, USA., NA
+  img: https://dl.airtable.com/.attachments/16f130b75987436c1d2fee550f3c3c5f/e7d314da/nistara-randhawa.jpg
+  website: http://nistara.net/
+  github: https://github.com/nistara
+- name: Matthieu Rolland
+  desc: Statistician - Environmental Epidemiologist, Institute for Advanced Biosciences
+    - INSERM, France
+  img: https://dl.airtable.com/.attachments/00672b6d49990516c886053d993e7d81/52a03e9a/matthieu-rolland.jpg
+  github: https://gitlab.com/mjrolland
+- name: Ilana Schafer
+  desc: Veterinary epidemiologist with expertise in field outbreak response, and software
+    development for outbreak data management and contact tracing., US Centers for
+    Disease Control and Prevention, USA., NA
+  img: https://dl.airtable.com/.attachments/6a23f14b5c0a091e85a1150937b5f016/9db26f22/ilana-schafer.jpg
+- name: Dirk Schumacher
+  desc: R developer with experience in infectious disease epidemiology, surveillance
+    and outbreak response., Berlin, Germany., NA
+  img: https://dl.airtable.com/.attachments/eca4ac1b33d10faf1032fe969becaa38/40d02e33/dirk-schumacher.jpg
+  website: https://www.dirk-schumacher.net/
+  twitter: https://twitter.com/dirk_sch
+  github: https://github.com/dirkschumacher
+- name: Jakob Schumacher
+  desc: Public health consultant, Local public health institute, Berlin, Germany
+  img: https://dl.airtable.com/.attachments/a961487abc65496ca606d48e2a3351c0/c0518579/jakob-schumacher.jpg
+  github: https://github.com/jakobschumacher
+- name: Amandeep Singh
+  desc: Student, Newbie, The University of Lethbridge, Canada
+  img: https://dl.airtable.com/.attachments/ad16309e7e778b1aa44fc3b13e79915e/44b7e84c/amandeep-singh.jpg
+- name: Alex Spina
+  desc: Infectious disease epidemiologist using R for surveillance data and outbreak
+    response., Austrian Agency for Food and Health Safety / European Centre for Disease
+    Prevention and Control, Austria., NA
+  img: https://dl.airtable.com/.attachments/86977ba031e3fe945e62019cf509c4ab/1a3cb70f/alex-spina.jpg
+  github: https://github.com/aspina7
+- name: Savina Stoitsova
+  desc: Infectious disease epidemiologist (EPIET alumni) based in Bulgaria, interested
+    in affordable analytic tools for outbreak response., National center of infectious
+    and parasitic diseases, Bulgaria., NA
+  img: https://dl.airtable.com/.attachments/486146efe7623b80938ca9a057ce044e/e7e3bc94/savina-stoitsova.jpg
+  website: http://www.ncipd.org/index.php?option=com_content&view=featured&Itemid=730&lang=en
+- name: Tim Taylor
+  desc: Research Software Engineer interested in outbreak analytics and R package
+    development., London School of Hygiene and Tropical Medicine, UK., United Kingdom
+  img: https://dl.airtable.com/.attachments/082b754acf1d59abef38f084a5741d4b/55d5a6ea/tim-taylor.jpg
+  twitter: https://twitter.com/_TimT_
+  github: https://github.com/tjtnew
+- name: Scott Teesdale
+  desc: Product management; epidemiology, Resolve to Save Lives, Louisiana Department
+    of Health, United States
+  img: https://dl.airtable.com/.attachments/793c3054d4a61289e08faa7bd888dbec/7f720da6/scott-teesdale.jpg
+  website: https://resolvetosavelives.org/prevent-epidemics
+  twitter: https://twitter.com/ScottTees
+  github: https://github.com/steesdale
+- name: Claire Thomson
+  desc: Deputy Secretary and Deputy Treasurer. Project coordinator with a Public Health
+    background., Imperial College London, UK., NA
+  img: https://dl.airtable.com/.attachments/e568579b8e94061a41b7cf9f0ade58a0/2bb4a81a/claire-thomson.jpg
+  website: http://www.imperial.ac.uk/people/c.thomson
+- name: Achilleas Tsoumanis
+  desc: Biostatistician - R programmer - PhD candidate, Clinical Trials Unit, Institute
+    of Tropical Medicine, Antwerp, Belgium
+  img: https://dl.airtable.com/.attachments/21541a0de5155ca9a1bd4baee02bcac1/92cc187d/achilleas-tsoumanis.jpg
+- name: Philip Turk
+  desc: Director of Biostatistics and Data Science, Atrium Health, United States
+  img: https://dl.airtable.com/.attachments/ddaaedc2e6a452f30a36e61a2d16eb7e/a1e7891d/philip-turk.jpg
+  website: https://atriumhealth.org/research/multi-disciplinary-centers-and-cores/core
+  github: https://github.com/philturk
+- name: Nsikak Udoh
+  desc: Data analyst, University of Lagos, Nigeria
+  img: https://dl.airtable.com/.attachments/826d23542c8a03d8c368a0c86fdd4c5c/29037175/nsikak-udoh.jpg
+- name: Aliyu Usman Kinafa
+  desc: Lecturer, Gombe State University, Nigeria
+  img: https://dl.airtable.com/.attachments/7106add71e7c0fef2847a6673dbb190e/0984ed79/aliyu-kinafa.jpg
+- name: Esther van Kleef
+  desc: Senior epidemiologist. Special interest in (modelling) the transmission dynamics
+    of antimicrobial resistance and outbreak analytics., Institute of Tropical Medicine
+    Antwerp, Belgium
+  img: https://dl.airtable.com/.attachments/d3538acd345d513b8762d6b96936d03c/1f405bb7/esther-van-kleef.jpg
+  github: https://github.com/esthervankleef
+- name: Jean-Pierre Veyrenche
+  desc: International expert (WHO, IOM, UNICEF) in WASH and operations management
+    for emergency response to health crises., Freelance consultant, France., NA
+  img: https://dl.airtable.com/.attachments/c3e61ff3b0730950f13c9289b43d2024/e94ce27e/jean-pierre-veyrenche.jpg
+- name: Charlie Whittaker
+  desc: Treasurer, Vice-president. PhD student, epidemiologist, Imperial College,
+    London, United Kingdom
+  img: https://dl.airtable.com/.attachments/3357bed0918ba9d8f1acbabf10d4b085/bf1634a1/charlie-whittaker.jpg
+  website: https://www.imperial.ac.uk/people/charles.whittaker16
+  twitter: https://twitter.com/charliewhittak
+  github: https://github.com/cwhittaker1000
+- name: K.M. Rukhsad Asif Zaman
+  desc: Field monitoring officer, data management and analysis using R, International
+    Health Regulation (IHR), CDC, DGHS, Bangladesh
+  img: https://dl.airtable.com/.attachments/3f625f21def1bb03df17412280a2ef7a/99f36310/k_m_-rukhsad-asif-zaman.jpg
