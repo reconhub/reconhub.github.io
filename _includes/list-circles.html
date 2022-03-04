@@ -7,10 +7,12 @@
         {% else %}
           <img src="{{ item.img }}" class="item-img" />
         {% endif %}
+      {% else %}
+          <img src="{{ page.default_profile_img }}" class="item-img" />
       {% endif %}
       {% if item.name %}
         <h4 class="item-name">{{ item.name }}</h4>
-      {% endif %} 
+      {% endif %}
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
@@ -29,7 +31,7 @@
           <a class="item-link" href="{{ item.twitter }}" title="Twitter">
             <span class="fa fa-twitter"></span>
           </a>
-        {% endif %}      
+        {% endif %}
       </div>
     </div>
   {% endfor %}

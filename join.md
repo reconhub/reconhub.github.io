@@ -5,20 +5,17 @@ title: Joining us
 
 ## How can I join the RECON community?
 
-There are two ways to join our community, corresponding to different degrees of
-involvement:
+There are multiple ways to get involved with RECON
 
-- as a *subscriber* following our activities, by sending us an email to admin@repidemicsconsortium.org
-and getting involved in discussions on our
-[Slack organisation](https://reconhub.slack.com)
-
-- as a *member*, who actively contributes to the development of analytics
+- Subscribe our *email announcements list* to keep up with our activities and learn
+  about development, training, or deployment opportunities. Sign up with the
+  [form below](#online-application-form).
+- Join our [*Slack workspace*](https://reconhub.slack.com/) to chat with others involved in RECON activities
+  and use RECON tools.
+- Join as a *member*, who actively contributes to the development of analytics
   resources for RECON's areas of interest; this is typically more involved but
   also offers advantages reserved to members; see the *Becoming a member*
   section below
-
-
-<br>
 
 ## Becoming a member
 
@@ -65,7 +62,6 @@ emergencies, and humanitarian crises. Beyond the development of analytics tools,
 this also includes people contributing to training and capacity building, and
 people battle-testing our resources in the field.
 
-
 Anyone can apply to become a *regular member* of RECON, in order to be involved in
 RECON projects and events. *Contributing members* need to have made a contribution
 in any of the areas of RECON activities including software development, training
@@ -85,11 +81,10 @@ for more details on contributions; below is a quick summary:
   country* to respond to a disease outbreak, a health emergency, or a
   humanitarian crisis
 
-
 ### Online application form
 
-To send a membership application, follow [this link](https://forms.gle/jew2yFz4HYTYJVKg6).
-
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+<iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrliwOM74ErxmR4D?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="1423" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Data privacy statement
 
