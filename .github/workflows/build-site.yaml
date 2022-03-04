@@ -75,7 +75,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
           publish_branch: gh-pages
-          #cname: www.repidemicsconsortium.org
+          cname: www.repidemicsconsortium.org
 
       - name: On failure, launch a temporary interactive debugging session
         uses: mxschmitt/action-tmate@v3
