@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Epidemics Consortium</title>
+    <description>We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software</description>
+    <link>http://reconhub.github.io</link>
+    <atom:link href="http://reconhub.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>RECON&apos;s Updated Code of Conduct</title>
+        <description>
+          
+          Updating our Code of Conduct We are very happy to announce the publication of RECON’s new code of conduct. We care about our members and it is deeply important to us that they find being a part of RECON to be a positive experience. Anything short of that is unacceptable....
+        </description>
+        <pubDate>Thu, 08 Apr 2021 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2021-04-08-coc/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2021-04-08-coc/</guid>
+      </item>
+    
+      <item>
+        <title>2021: A New Hope – and a fresh start</title>
+        <description>
+          
+          Last events of 2020 RECON General Assembly (6-Oct-2020) The last general assembly of the year took place on Zoom, most popular meeting place of 2020. After a summary of all RECON activities for 2019-2020, the new statutes were presented and voted on. These new statutes now allow anyone to apply...
+        </description>
+        <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2021-01-30-new-year/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2021-01-30-new-year/</guid>
+      </item>
+    
+      <item>
+        <title>RECON COVID-19 challenge</title>
+        <description>
+          Bringing the R community together against COVID-19 - 
+          We are proud to announce that the R Consortium has awarded RECON a grant for $23,300 to develop the RECON COVID-19 challenge, a project aiming to centralise, organise and manage needs for analytics resources in R to support the response to COVID-19 worldwide. These resources will permit to expand our...
+        </description>
+        <pubDate>Tue, 09 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2020-06-09-covid-challenge/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2020-06-09-covid-challenge/</guid>
+      </item>
+    
+      <item>
+        <title>RECON first deployee via GOARN</title>
+        <description>
+          More than a deployment - by Aminata Ndiaye - 
+          How it all started! On September 11th, Dr Michel Yao, WHO Incident Manager of the Ebola outbreak response was invited at my home institution to give a talk on the outbreak. I attended the seminar and went on asking him several questions on the response at the end of his...
+        </description>
+        <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2020-01-08-aminata-deployment/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2020-01-08-aminata-deployment/</guid>
+      </item>
+    
+      <item>
+        <title>Handling non-standard weekly data in R</title>
+        <description>
+          An overview of &apos;aweek&apos;, the lightweight R package for handling weekly data - 
+          This week (2019-W24-2), the aweek package version 1.0.0 has been released on CRAN. The aweek package is a response to the lack of utilities to easily define weeks that do not start on Monday, which is necessary for outbreak response in countries whose calendars may start on Sunday or Saturday....
+        </description>
+        <pubDate>Wed, 12 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2019-06-12-aweek-1.0.0/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2019-06-12-aweek-1.0.0/</guid>
+      </item>
+    
+      <item>
+        <title>RECON 2.0: going official</title>
+        <description>
+          RECON is now an NGO! - 
+          What happened? As of the 19th September 2018, the R Epidemics Consortium (RECON) has adopted a non-governmental organisation (NGO) structure. We are now a not-for-profit, incorporated association declared in France. You can find our statutes online here, and the publication in the official journal (“Journal Officiel”) there. Why? After 2...
+        </description>
+        <pubDate>Thu, 18 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2018-10-18-RECON-NGO/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2018-10-18-RECON-NGO/</guid>
+      </item>
+    
+      <item>
+        <title>Introduction to R in Sofia, Bulgaria</title>
+        <description>
+          Reporting back from RECON&apos;s first FETP-tailored workshop - 
+          The R Epidemics Consortium (RECON) together with the EPIET Alumni Network (EAN) organised a short 4-day course titled “an introduction into using R for surveillance and outbreak analytics”. The course was held from the 8-11 October 2018 in Sofia, Bulgaria, and delivered by Thibaut Jombart, Zhian Kamvar, Janetta Skarp, and...
+        </description>
+        <pubDate>Tue, 16 Oct 2018 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2018-10-16-sofia-workshop-debrief/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2018-10-16-sofia-workshop-debrief/</guid>
+      </item>
+    
+      <item>
+        <title>Disease risk mapping and cluster detection</title>
+        <description>
+          An overview of SpatialEpiApp by Paula Moraga - 
+          In this post we present SpatialEpiApp, a Shiny web application for the analysis of spatial and spatio-temporal disease data. SpatialEpiApp integrates two of the most common approaches in public health surveillance: disease risk mapping and detection of clusters. The application allows to fit Bayesian disease models to obtain risk estimates...
+        </description>
+        <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2018-01-04-SpatialEpiApp/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2018-01-04-SpatialEpiApp/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;i&gt;Hackfest 2&lt;/i&gt;: mapping diseases </title>
+        <description>
+          What have we been up to? - 
+          Another small hackathon After the first RECON hackfest which was dedicated to graphical user interfaces earlier this year, we repeated the experiment: bring a few hand-picked experts together, lock them in a room with sufficient food and coffee supply, put a lid on, let the mix simmer, and collect outcomes...
+        </description>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2017-09-25-hackfest2-debrief/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-09-25-hackfest2-debrief/</guid>
+      </item>
+    
+      <item>
+        <title>Ebola outbreak in Democratic Republic of Congo (DRC)</title>
+        <description>
+          Deploying RECON tools to inform outbreak response - 
+          A new Ebola outbreak in DRC RECON members Jonathan Polonsky (WHO) and Thibaut Jombart (Imperial College London) joined the WHO response team for an Ebola Virus Disease (EVD) outbreak which took place in DRC in May-July 2017. This deployment took place as part of the activation of the Global Alert...
+        </description>
+        <pubDate>Fri, 04 Aug 2017 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2017-08-04-EVD-DRC/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-08-04-EVD-DRC/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;i&gt;outbreaker2&lt;/i&gt; is now out for testing!</title>
+        <description>
+          A year in the making, but it&apos;s finally there... - 
+          A sequel, only better outbreaker2 is a total re-implementation of a model implemented in outbreaker, for the reconstruction of transmission trees from densely sampled outbreaks (i.e., most cases observed). While the original version was computationally efficient, it basically consisted of a C engine which was optimized for speed, but poorly...
+        </description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2017-02-08-outbreaker2-testing/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-02-08-outbreaker2-testing/</guid>
+      </item>
+    
+      <item>
+        <title>New position at Imperial!</title>
+        <description>
+          18+ Months working on spatial spread of outbreaks. - 
+          Interested in working on disease outbreaks, modelling the spread of disease and R package development? Have a look at the new position which has just opened at Imperial College London. Deadline for applications is 24th February 2017. Questions can be sent by email to Pierre Nouvellet or Anne Cori Find...
+        </description>
+        <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2017-01-25-job-Pierre-Anne/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-01-25-job-Pierre-Anne/</guid>
+      </item>
+    
+      <item>
+        <title>RECON agenda for 2017</title>
+        <description>
+          Good year resolutions, only these ones may actually be achieved! - 
+          Only four months ago, the R Epidemics Consortium was posting its birth certificate online. Since then, our project has received considerable enthusiasm from the community, and we have been lucky to be joined by some truly amazing people. And the list is growing, still. Many projects have emerged in our...
+        </description>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2017-01-03-new-year-resolutions/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-01-03-new-year-resolutions/</guid>
+      </item>
+    
+      <item>
+        <title>RECON seminar at University of Lyon</title>
+        <description>
+          Starting the year presenting RECON in one of France&apos;s top biometry department - 
+          RECON will be the object of a seminar at the Biometry and Evolutionary Biology Laboratory (Lyon, France) on the 5th of January. More information on the talk can be found at the LBBE website.
+
+The slides of the talk will be available for download on github.
+
+
+        </description>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2017-01-03-RECON-Lyon/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2017-01-03-RECON-Lyon/</guid>
+      </item>
+    
+      <item>
+        <title>New RECON position!</title>
+        <description>
+          1+ year of fun working on foodborne outbreak analysis. - 
+          Interested in working on disease outbreaks, networks, genomics, clustering algorithms, simulations and R package development? Have a look at the new position which has just opened with RECON, based at Imperial College London. Deadline for applications is 12th January 2016. Questions can be sent by email to Thibaut Jombart. Find...
+        </description>
+        <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2016-12-16-new-job/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-12-16-new-job/</guid>
+      </item>
+    
+      <item>
+        <title>RECON talk at ESCAIDE</title>
+        <description>
+          RECON will be presented at ESCAIDE - 
+          RECON will be the object of a talk at the coming ESCAIDE conference, Stockholm, on Monday 28th November. The presentation will be part of Plenary session B (see programme for details). For more on the conference, see the conference website. The slides of the talk will be available for download...
+        </description>
+        <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://reconhub.github.io/2016-11-26-RECON-ESCAIDE/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-11-26-RECON-ESCAIDE/</guid>
+      </item>
+    
+      <item>
+        <title>Incidence getting ready for release.</title>
+        <description>
+          3 vignettes, 100% coverage, getting ready to go! - 
+          Recent activity around the incidence package in view of its imminent release! incidence is the first of RECON’s new line of packages for outbreak response. It is still getting its final polish, but its features are already available and documented. In a nutshell, incidence is: a toolkit for computing, handling,...
+        </description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-10-24-incidence-coming/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-10-24-incidence-coming/</guid>
+      </item>
+    
+      <item>
+        <title>New resources on RECON!</title>
+        <description>
+          New tutorial, development guidelines, and more. - 
+          Our resources section will no longer read “*under construction”. It now contains two separate sections:
+
+
+  
+    a tutorial section, which hosts a tutorial newly added on RECON for phylogenetic reconstruction
+  
+  
+    a development tips section, which provides guidelines for package development as well as for package review.
+  
+
+
+
+
+
+        </description>
+        <pubDate>Fri, 07 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-10-07-first-tutorial/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-10-07-first-tutorial/</guid>
+      </item>
+    
+      <item>
+        <title>Beta version of &lt;i&gt;incidence&lt;/i&gt; available!</title>
+        <description>
+          New RECON package &lt;i&gt;incidence&lt;/i&gt; is coming out soon - try the beta version. - 
+          What does it do? incidence provides tools for incidence computation, visualisation, and modelling. Currently available features include: computation of incidence from: Date, POSIXct, integer, or numeric computation of incidence for any fixed time interval, optionally by groups easy handling of results using [ and subset plotting using ggplot2 modelling of...
+        </description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-10-04-incidence-beta/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-10-04-incidence-beta/</guid>
+      </item>
+    
+      <item>
+        <title>Domain name has been voted!</title>
+        <description>
+          Because we are sadly *not* recon_dot_com - 
+          The twitter democracy has spoken. After a round of  votes for our future domain name, we will soon become www.repidemicsconsortium.org.
+
+
+        </description>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 +0100</pubDate>
+        <link>http://reconhub.github.io/2016-09-26-domain-name-chosen/</link>
+        <guid isPermaLink="true">http://reconhub.github.io/2016-09-26-domain-name-chosen/</guid>
+      </item>
+    
+  </channel>
+</rss>

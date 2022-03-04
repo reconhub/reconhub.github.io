@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>RECON guidelines</title>
+
+  <meta name="author" content="RECON - R Epidemics Consortium" />
+  
+  
+  <meta name="description" content="Best practices for package development">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="R Epidemics Consortium - We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
+  
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/recon.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+    
+  
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="RECON guidelines" />
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:url" content="http://reconhub.github.io/resources/guidelines/" />
+  
+  
+  <meta property="og:image" content="" />
+  
+  
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:title" content="RECON guidelines" />
+  <meta name="twitter:description" content="*Note: this document is work in progress! Please send comments / suggestions using disqus, by posting issues or via pull requests. [You can follow this link to access and edit the file that created this page](https://github.com/reconhub/reconhub.github.io/blob/master/resources/guidelines.md)*. This document provides guidelines for package development which are meant to promote clearer, robust,..." />
+  
+  
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://reconhub.github.io">R Epidemics Consortium</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About RECON</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/">What we do</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/join">Join us</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/CODE_OF_CONDUCT">Code of Conduct</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/blog">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/people">People</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/resources">Resources</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/funding">Funding</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/forum">Forum</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+	  
+	  
+	    
+		  data-img-src-1="/img/banners/devel.jpg"
+		
+	  
+    
+  ></div>
+
+
+<header class="header-section has-img">
+
+<div class="big-img intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+        <div class="header-background">
+          <h1>RECON guidelines</h1>
+		  
+		    
+            <hr class="small">
+            <span class="page-subheading">Best practices for package development</span>
+			
+		  
+		  
+		  
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class='img-desc'></span>
+</div>
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>RECON guidelines</h1>
+		  
+		    
+            <hr class="small">
+            <span class="page-subheading">Best practices for package development</span>
+			
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <p><em>Note: this document is work in progress! Please send comments / suggestions
+using disqus, by posting issues or via pull requests. 
+<a href="https://github.com/reconhub/reconhub.github.io/blob/master/resources/guidelines.md">You can follow this link to access and edit the file that created this 
+page</a></em>.</p>
+
+<p>This document provides guidelines for package development which are meant to
+promote clearer, robust, maintainable, and well-documented code. It borrows
+largely from the <a href="https://github.com/ropensci/software-review"><em>rOpenSci</em> onboarding
+guidelines</a> and from <a href="http://discourse.repidemicsconsortium.org/t/scoring-system-for-r-packages/31/2">this
+post</a>
+on the RECON forum. See <a href="#credits">list of contributors</a> for more information
+on people who shaped this.</p>
+
+<h2 id="package-development-guidelines">Package development guidelines</h2>
+
+<h3 id="general-guidelines-for-r-code">General Guidelines for R code</h3>
+
+<p>You can set up an R package skeleton with the
+<a href="https://github.com/reconhub/recontools#readme">recontools</a> package, which will
+set up your package with the templates for using github, continous integration,
+and testing.</p>
+
+<p>When writing your package, we recommend following the <a href="https://devguide.ropensci.org/"><em>rOpenSci</em> package
+development guidelines</a>, with the
+following additions / changes:</p>
+
+<ul>
+  <li>
+    <p>RECON does not use any package submission system. If you would like your
+package to integrate RECON, be in touch with us directly (click on email link
+at the bottom of this page).</p>
+  </li>
+  <li>
+    <p>Packages should be hosted on <a href="https://github.com/">github</a>, or a similar
+platform with a (ideally, distributed) version control system; we recommend
+keeping the <em>master</em> branch as functional, and using other branches for more
+adventurous changes.</p>
+  </li>
+  <li>
+    <p>When adding new functionality, <strong>write your tests before you write your 
+functions</strong>. This will provide better protection against bugs because you are
+writing the function based on what you expect it to do as opposed to writing
+the test based on what lines of code you want to cover.</p>
+  </li>
+  <li>
+    <p>Never comment out tests. If a test is failing for a good reason (e.g. you are
+performing a large refactor), then skip it using the <code class="language-plaintext highlighter-rouge">skip()</code> function from
+testthat. This allows you or others to easily track down and audit the test
+failures.</p>
+  </li>
+  <li>
+    <p>Packages should be submitted to a
+<a href="https://github.com/MangoTheCat/goodpractice/"><em>goodpractice</em></a> run to detect
+possible issues.</p>
+  </li>
+  <li>
+    <p>The <code class="language-plaintext highlighter-rouge">README.Rmd</code> should provide an overview of the main functionalities of
+the package, and point to more detailed resources (vignettes, tutorials,
+open-access publications) where relevant.</p>
+  </li>
+  <li>
+    <p>Vignettes are strongly recommended for more detailed documentation, including
+worked examples, details of analyses and methods, customisation of graphics,
+and object classes. The <em>Rmarkdown</em> (<code class="language-plaintext highlighter-rouge">.Rmd</code>) format is preferred to Sweave
+(<code class="language-plaintext highlighter-rouge">.Rnw</code>) as it is easier to convert to <code class="language-plaintext highlighter-rouge">.html</code> pages.</p>
+  </li>
+  <li>
+    <p>We <strong>strongly</strong> recommend the use of
+<a href="https://cran.r-project.org/package=roxygen2"><em>roxygen2</em></a> for
+documentation, as it makes documentation easier to maintain.</p>
+  </li>
+  <li>
+    <p>We encourage the use of “<code class="language-plaintext highlighter-rouge">::</code>” when importing functions from non-core
+packages, as it makes dependencies on foreign code more visible.</p>
+  </li>
+  <li>
+    <p>We encourage the use of <a href="http://github.com/r-lib/pkgdown"><em>pkgdown</em></a> to
+generate a website for the package. For an example, see the
+<a href="https://github.com/reconhub/incidence"><em>incidence</em></a> package and <a href="https://www.repidemicsconsortium.org/incidence/">its
+website</a>.</p>
+  </li>
+</ul>
+
+<h3 id="recommended-github-etiquette">Recommended GitHub etiquette</h3>
+
+<p>When collaborating with other people on a package, it’s easy to feel overwhelmed
+with keeping track of a moving target. Here, we’ll outline a few practices that
+will help make the experience easier:</p>
+
+<ul>
+  <li>
+    <p><strong>Define a clear code of conduct</strong>. You can use <code class="language-plaintext highlighter-rouge">usethis::use_code_of_conduct()</code> to
+template it if you haven’t done so already.</p>
+  </li>
+  <li>
+    <p><strong>Add a CONTRIBUTING.md file</strong>. This file will describe the kind of
+contributions you expect from the community in terms of code, test, and 
+documentation style. You can fine an example CONTRIBUTING file in the 
+<a href="https://github.com/grunwaldlab/poppr/blob/master/CONTRIBUTING.md">poppr R package</a></p>
+  </li>
+  <li>
+    <p><strong>Lock the master branch</strong>. If code works on your computer, it’s no guarantee
+that it will work on an external machine like <em>travis</em> or <em>appveyor</em>. By
+locking the master branch, you can ensure that all code must pass through a
+pull request before it can be incorporated and, thus must have some level of
+vetting.</p>
+  </li>
+  <li>
+    <p><strong>Set up 2 factor authentication</strong>. This will help prevent your account from
+being hacked. If you use this option, you will also want to use the ssh
+protocol instead of the https protocol.</p>
+  </li>
+</ul>
+
+<h2 id="credits">Credits</h2>
+
+<p>Besides the <a href="https://ropensci.org/"><em>rOpenSci</em></a> whose guidelines we largely
+adopted, the following people contributed to these guidelines; in alphabetic
+order:</p>
+
+<ul>
+  <li>Gabor Csardi</li>
+  <li>Rich Fitzjohn</li>
+  <li>Thibaut Jombart</li>
+  <li>Zhian N. Kamvar</li>
+  <li>Noam Ross</li>
+</ul>
+
+
+	    
+        <div class="disqus-comments">
+	        
+<div class="comments">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    var disqus_shortname = 'reconhub-github-io';
+	    // ensure that pages with query string get the same discussion
+            var url_parts = window.location.href.split("?");
+            var disqus_url = url_parts[0];	    
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+
+        </div>
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+		    
+          <li>
+            <a href="mailto:thibautjombart@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://github.com/reconhub/reconhub.github.io" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+          
+
+		  
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  RECON - R Epidemics Consortium
+		  &nbsp;&bull;&nbsp;
+		  2022
+	    </p>
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/">Dean Attali</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-83713279-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>

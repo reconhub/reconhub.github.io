@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>R Epidemics Consortium</title>
+
+  <meta name="author" content="RECON - R Epidemics Consortium" />
+  
+  
+
+  <link rel="alternate" type="application/rss+xml" title="R Epidemics Consortium - We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
+  
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/recon.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+    
+  
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="R Epidemics Consortium" />
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:url" content="http://reconhub.github.io/blog/page2/" />
+  
+  
+  <meta property="og:image" content="" />
+  
+  
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:title" content="R Epidemics Consortium" />
+  <meta name="twitter:description" content="{% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords: 50 }} [Read&amp;nbsp;More] {% endfor %} {% if paginator.total_pages &gt; 1 %} {%..." />
+  
+  
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://reconhub.github.io">R Epidemics Consortium</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About RECON</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/">What we do</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/join">Join us</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/CODE_OF_CONDUCT">Code of Conduct</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/blog">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/people">People</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/resources">Resources</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/funding">Funding</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/forum">Forum</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+<div class="intro-header"></div>
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
+
+<div class="posts-list">
+  
+  <article class="post-preview">
+    <a href="/2018-10-18-RECON-NGO/">
+	  <h2 class="post-title">RECON 2.0: going official</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    RECON is now an NGO!
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on October 18, 2018
+    </p>
+
+    <div class="post-entry">
+      What happened? As of the 19th September 2018, the R Epidemics Consortium (RECON) has adopted a non-governmental organisation (NGO) structure. We are now a not-for-profit, incorporated association declared in France. You can find our statutes online here, and the publication in the official journal (“Journal Officiel”) there. Why? After 2...
+	  <a href="/2018-10-18-RECON-NGO/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2018-10-16-sofia-workshop-debrief/">
+	  <h2 class="post-title">Introduction to R in Sofia, Bulgaria</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    Reporting back from RECON's first FETP-tailored workshop
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on October 16, 2018
+    </p>
+
+    <div class="post-entry">
+      The R Epidemics Consortium (RECON) together with the EPIET Alumni Network (EAN) organised a short 4-day course titled “an introduction into using R for surveillance and outbreak analytics”. The course was held from the 8-11 October 2018 in Sofia, Bulgaria, and delivered by Thibaut Jombart, Zhian Kamvar, Janetta Skarp, and...
+	  <a href="/2018-10-16-sofia-workshop-debrief/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2018-01-04-SpatialEpiApp/">
+	  <h2 class="post-title">Disease risk mapping and cluster detection</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    An overview of SpatialEpiApp by Paula Moraga
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on January 4, 2018
+    </p>
+
+    <div class="post-entry">
+      In this post we present SpatialEpiApp, a Shiny web application for the analysis of spatial and spatio-temporal disease data. SpatialEpiApp integrates two of the most common approaches in public health surveillance: disease risk mapping and detection of clusters. The application allows to fit Bayesian disease models to obtain risk estimates...
+	  <a href="/2018-01-04-SpatialEpiApp/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2017-09-25-hackfest2-debrief/">
+	  <h2 class="post-title"><i>Hackfest 2</i>: mapping diseases </h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    What have we been up to?
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on September 25, 2017
+    </p>
+
+    <div class="post-entry">
+      Another small hackathon After the first RECON hackfest which was dedicated to graphical user interfaces earlier this year, we repeated the experiment: bring a few hand-picked experts together, lock them in a room with sufficient food and coffee supply, put a lid on, let the mix simmer, and collect outcomes...
+	  <a href="/2017-09-25-hackfest2-debrief/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2017-08-04-EVD-DRC/">
+	  <h2 class="post-title">Ebola outbreak in Democratic Republic of Congo (DRC)</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    Deploying RECON tools to inform outbreak response
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on August 4, 2017
+    </p>
+
+    <div class="post-entry">
+      A new Ebola outbreak in DRC RECON members Jonathan Polonsky (WHO) and Thibaut Jombart (Imperial College London) joined the WHO response team for an Ebola Virus Disease (EVD) outbreak which took place in DRC in May-July 2017. This deployment took place as part of the activation of the Global Alert...
+	  <a href="/2017-08-04-EVD-DRC/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+</div>
+
+
+<ul class="pager main-pager">
+  
+  <li class="previous">
+    <a href="/blog/">&larr; Newer Posts</a>
+  </li>
+  
+  
+  <li class="next">
+    <a href="/blog/page3/">Older Posts &rarr;</a>
+  </li>
+  
+</ul>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+		    
+          <li>
+            <a href="mailto:thibautjombart@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://github.com/reconhub/reconhub.github.io" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+          
+
+		  
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  RECON - R Epidemics Consortium
+		  &nbsp;&bull;&nbsp;
+		  2022
+	    </p>
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/">Dean Attali</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-83713279-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>

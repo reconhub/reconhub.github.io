@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>R Epidemics Consortium</title>
+
+  <meta name="author" content="RECON - R Epidemics Consortium" />
+  
+  
+
+  <link rel="alternate" type="application/rss+xml" title="R Epidemics Consortium - We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
+  
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/recon.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+    
+  
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="R Epidemics Consortium" />
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:url" content="http://reconhub.github.io/blog/page4/" />
+  
+  
+  <meta property="og:image" content="" />
+  
+  
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:title" content="R Epidemics Consortium" />
+  <meta name="twitter:description" content="{% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords: 50 }} [Read&amp;nbsp;More] {% endfor %} {% if paginator.total_pages &gt; 1 %} {%..." />
+  
+  
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://reconhub.github.io">R Epidemics Consortium</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About RECON</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/">What we do</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/join">Join us</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/CODE_OF_CONDUCT">Code of Conduct</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/blog">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/people">People</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/resources">Resources</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/funding">Funding</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/forum">Forum</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+<div class="intro-header"></div>
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
+
+<div class="posts-list">
+  
+  <article class="post-preview">
+    <a href="/2016-11-26-RECON-ESCAIDE/">
+	  <h2 class="post-title">RECON talk at ESCAIDE</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    RECON will be presented at ESCAIDE
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on November 26, 2016
+    </p>
+
+    <div class="post-entry">
+      RECON will be the object of a talk at the coming ESCAIDE conference, Stockholm, on Monday 28th November. The presentation will be part of Plenary session B (see programme for details). For more on the conference, see the conference website. The slides of the talk will be available for download...
+	  <a href="/2016-11-26-RECON-ESCAIDE/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2016-10-24-incidence-coming/">
+	  <h2 class="post-title">Incidence getting ready for release.</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    3 vignettes, 100% coverage, getting ready to go!
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on October 24, 2016
+    </p>
+
+    <div class="post-entry">
+      Recent activity around the incidence package in view of its imminent release! incidence is the first of RECON’s new line of packages for outbreak response. It is still getting its final polish, but its features are already available and documented. In a nutshell, incidence is: a toolkit for computing, handling,...
+	  <a href="/2016-10-24-incidence-coming/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2016-10-07-first-tutorial/">
+	  <h2 class="post-title">New resources on RECON!</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    New tutorial, development guidelines, and more.
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on October 7, 2016
+    </p>
+
+    <div class="post-entry">
+      Our resources section will no longer read “*under construction”. It now contains two separate sections:
+
+
+  
+    a tutorial section, which hosts a tutorial newly added on RECON for phylogenetic reconstruction
+  
+  
+    a development tips section, which provides guidelines for package development as well as for package review.
+  
+
+
+
+
+
+	  <a href="/2016-10-07-first-tutorial/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2016-10-04-incidence-beta/">
+	  <h2 class="post-title">Beta version of <i>incidence</i> available!</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    New RECON package <i>incidence</i> is coming out soon - try the beta version.
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on October 4, 2016
+    </p>
+
+    <div class="post-entry">
+      What does it do? incidence provides tools for incidence computation, visualisation, and modelling. Currently available features include: computation of incidence from: Date, POSIXct, integer, or numeric computation of incidence for any fixed time interval, optionally by groups easy handling of results using [ and subset plotting using ggplot2 modelling of...
+	  <a href="/2016-10-04-incidence-beta/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2016-09-26-domain-name-chosen/">
+	  <h2 class="post-title">Domain name has been voted!</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    Because we are sadly *not* recon_dot_com
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on September 26, 2016
+    </p>
+
+    <div class="post-entry">
+      The twitter democracy has spoken. After a round of  votes for our future domain name, we will soon become www.repidemicsconsortium.org.
+
+
+	  <a href="/2016-09-26-domain-name-chosen/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+</div>
+
+
+<ul class="pager main-pager">
+  
+  <li class="previous">
+    <a href="/blog/page3/">&larr; Newer Posts</a>
+  </li>
+  
+  
+  <li class="next">
+    <a href="/blog/page5/">Older Posts &rarr;</a>
+  </li>
+  
+</ul>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+		    
+          <li>
+            <a href="mailto:thibautjombart@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://github.com/reconhub/reconhub.github.io" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+          
+
+		  
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  RECON - R Epidemics Consortium
+		  &nbsp;&bull;&nbsp;
+		  2022
+	    </p>
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/">Dean Attali</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-83713279-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>

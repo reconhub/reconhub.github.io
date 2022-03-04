@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>R Epidemics Consortium</title>
+
+  <meta name="author" content="RECON - R Epidemics Consortium" />
+  
+  
+
+  <link rel="alternate" type="application/rss+xml" title="R Epidemics Consortium - We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
+  
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/recon.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+    
+  
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="R Epidemics Consortium" />
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:url" content="http://reconhub.github.io/blog/" />
+  
+  
+  <meta property="og:image" content="" />
+  
+  
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:title" content="R Epidemics Consortium" />
+  <meta name="twitter:description" content="{% for post in paginator.posts %} {{ post.title }} {% if post.subtitle %} {{ post.subtitle }} {% endif %} Posted on {{ post.date | date: &quot;%B %-d, %Y&quot; }} {{ post.content | strip_html | xml_escape | truncatewords: 50 }} [Read&amp;nbsp;More] {% endfor %} {% if paginator.total_pages &gt; 1 %} {%..." />
+  
+  
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://reconhub.github.io">R Epidemics Consortium</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About RECON</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/">What we do</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/join">Join us</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/CODE_OF_CONDUCT">Code of Conduct</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/blog">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/people">People</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/resources">Resources</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/funding">Funding</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/forum">Forum</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+<div class="intro-header"></div>
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <img src="/img/logo.png" title="RECON logo" alt="RECON logo" />
+
+<div class="posts-list">
+  
+  <article class="post-preview">
+    <a href="/2021-04-08-coc/">
+	  <h2 class="post-title">RECON's Updated Code of Conduct</h2>
+
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on April 8, 2021
+    </p>
+
+    <div class="post-entry">
+      Updating our Code of Conduct We are very happy to announce the publication of RECON’s new code of conduct. We care about our members and it is deeply important to us that they find being a part of RECON to be a positive experience. Anything short of that is unacceptable....
+	  <a href="/2021-04-08-coc/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2021-01-30-new-year/">
+	  <h2 class="post-title">2021: A New Hope – and a fresh start</h2>
+
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on January 30, 2021
+    </p>
+
+    <div class="post-entry">
+      Last events of 2020 RECON General Assembly (6-Oct-2020) The last general assembly of the year took place on Zoom, most popular meeting place of 2020. After a summary of all RECON activities for 2019-2020, the new statutes were presented and voted on. These new statutes now allow anyone to apply...
+	  <a href="/2021-01-30-new-year/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2020-06-09-covid-challenge/">
+	  <h2 class="post-title">RECON COVID-19 challenge</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    Bringing the R community together against COVID-19
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on June 9, 2020
+    </p>
+
+    <div class="post-entry">
+      We are proud to announce that the R Consortium has awarded RECON a grant for $23,300 to develop the RECON COVID-19 challenge, a project aiming to centralise, organise and manage needs for analytics resources in R to support the response to COVID-19 worldwide. These resources will permit to expand our...
+	  <a href="/2020-06-09-covid-challenge/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2020-01-08-aminata-deployment/">
+	  <h2 class="post-title">RECON first deployee via GOARN</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    More than a deployment - by Aminata Ndiaye
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on January 8, 2020
+    </p>
+
+    <div class="post-entry">
+      How it all started! On September 11th, Dr Michel Yao, WHO Incident Manager of the Ebola outbreak response was invited at my home institution to give a talk on the outbreak. I attended the seminar and went on asking him several questions on the response at the end of his...
+	  <a href="/2020-01-08-aminata-deployment/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+  <article class="post-preview">
+    <a href="/2019-06-12-aweek-1.0.0/">
+	  <h2 class="post-title">Handling non-standard weekly data in R</h2>
+
+	  
+	  <h3 class="post-subtitle">
+	    An overview of 'aweek', the lightweight R package for handling weekly data
+	  </h3>
+	  
+    </a>
+
+    <p class="post-meta">
+      Posted on June 12, 2019
+    </p>
+
+    <div class="post-entry">
+      This week (2019-W24-2), the aweek package version 1.0.0 has been released on CRAN. The aweek package is a response to the lack of utilities to easily define weeks that do not start on Monday, which is necessary for outbreak response in countries whose calendars may start on Sunday or Saturday....
+	  <a href="/2019-06-12-aweek-1.0.0/" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+  </article>
+  
+</div>
+
+
+<ul class="pager main-pager">
+  
+  
+  <li class="next">
+    <a href="/blog/page2/">Older Posts &rarr;</a>
+  </li>
+  
+</ul>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+		    
+          <li>
+            <a href="mailto:thibautjombart@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://github.com/reconhub/reconhub.github.io" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+          
+
+		  
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  RECON - R Epidemics Consortium
+		  &nbsp;&bull;&nbsp;
+		  2022
+	    </p>
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/">Dean Attali</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-83713279-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>

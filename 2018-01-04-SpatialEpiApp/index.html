@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Disease risk mapping and cluster detection</title>
+
+  <meta name="author" content="RECON - R Epidemics Consortium" />
+  
+  
+  <meta name="description" content="An overview of SpatialEpiApp by Paula Moraga">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="R Epidemics Consortium - We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software" href="/feed.xml" />
+
+  
+    
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
+  
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+      <link rel="stylesheet" href="/css/recon.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+    
+  
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  <meta property="og:title" content="Disease risk mapping and cluster detection" />
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:url" content="http://reconhub.github.io/2018-01-04-SpatialEpiApp/" />
+  
+  
+  <meta property="og:image" content="" />
+  
+  
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@yourname" />
+  <meta name="twitter:creator" content="@yourname" />
+  <meta name="twitter:title" content="Disease risk mapping and cluster detection" />
+  <meta name="twitter:description" content="In this post we present SpatialEpiApp, a Shiny web application for the analysis of spatial and spatio-temporal disease data. SpatialEpiApp integrates two of the most common approaches in public health surveillance: disease risk mapping and detection of clusters. The application allows to fit Bayesian disease models to obtain risk estimates..." />
+  
+  
+</head>
+
+
+  <body>
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://reconhub.github.io">R Epidemics Consortium</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About RECON</a>
+            <div class="navlinks-children">
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/">What we do</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/join">Join us</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+                
+              
+                
+                  
+            
+
+
+
+
+
+<a href="/CODE_OF_CONDUCT">Code of Conduct</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/blog">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/people">People</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/projects">Projects</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/resources">Resources</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/funding">Funding</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/forum">Forum</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+	  
+	  
+	    
+		  data-img-src-1="/img/banners/binary.jpg"
+		
+	  
+    
+  ></div>
+
+
+<header class="header-section has-img">
+
+<div class="big-img intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+        <div class="header-background">
+          <h1>Disease risk mapping and cluster detection</h1>
+		  
+		    
+			<h2 class="post-subheading">An overview of SpatialEpiApp by Paula Moraga</h2>
+			
+		  
+		  
+		  
+		  <span class="post-meta">Posted on January 4, 2018</span>
+		  
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class='img-desc'></span>
+</div>
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Disease risk mapping and cluster detection</h1>
+		  
+		    
+			<h2 class="post-subheading">An overview of SpatialEpiApp by Paula Moraga</h2>
+			
+		  
+		  
+		  
+		  <span class="post-meta">Posted on January 4, 2018</span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      <article role="main" class="blog-post">
+        <p>In this post we present <code class="language-plaintext highlighter-rouge">SpatialEpiApp</code>, a <a href="https://shiny.rstudio.com/">Shiny</a> web application for the analysis of spatial and spatio-temporal disease data. <code class="language-plaintext highlighter-rouge">SpatialEpiApp</code> integrates two of the most common approaches in public health surveillance: disease risk mapping and detection of clusters.</p>
+
+<p>The application allows to fit Bayesian disease models to obtain risk estimates and their uncertainty by using <a href="http://www.r-inla.org/">INLA</a>, and to detect clusters by using the scan statistics implemented in <a href="https://www.satscan.org/">SaTScan</a>.
+<code class="language-plaintext highlighter-rouge">SpatialEpiApp</code> allows user interaction and creates interactive visualizations by using the R packages <a href="https://rstudio.github.io/leaflet/">Leaflet</a> for rendering maps, <a href="https://rstudio.github.io/dygraphs/">dygraphs</a> for plotting time series, and <a href="https://rstudio.github.io/DT/">DataTables</a> for displaying data objects. It also enables the generation of reports containing the analyses performed by using <a href="http://rmarkdown.rstudio.com/">RMarkdown</a>.</p>
+
+<p>To carry out these analyses users simply need to upload their map and data and then click the buttons that create the input files required, execute the software and process the output to generate tables of values and plots with the results.
+Here we briefly describe the main components of the application. The package <a href="https://cran.r-project.org/web/packages/SpatialEpiApp/vignettes/manual.pdf">vignette</a>
+can be checked for more details about the use of the application, methods and examples.</p>
+
+<h2 id="use-of-spatialepiapp">Use of SpatialEpiApp</h2>
+
+<p><code class="language-plaintext highlighter-rouge">SpatialEpiApp</code> has been implemented in the R package <code class="language-plaintext highlighter-rouge">SpatialEpiApp</code>. Users can launch the application by executing the following code in R:</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">install.packages</span><span class="p">(</span><span class="s2">"SpatialEpiApp"</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">SpatialEpiApp</span><span class="p">)</span><span class="w">
+</span><span class="n">run_app</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The application consists of three pages: ‘Inputs’, ‘Analysis’ and ‘Help’.</p>
+
+<h3 id="inputs">Inputs</h3>
+
+<p>The ‘Inputs’ page is the first page we see when we launch the application. In this page we can upload the required files and select the type of analysis to be performed. It is composed of three components:</p>
+
+<ul>
+  <li>Upload map (shapefile);</li>
+  <li>Upload data (csv file with area id, date, population, cases and covariates);</li>
+  <li>Select analysis (temporal unit, date range, spatial or spatio-temporal analysis).</li>
+</ul>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exinput.png" width="100%" /></p>
+
+<h3 id="analysis">Analysis</h3>
+
+<p>In the ‘Analysis’ page we can visualize the data, perform the statistical analyses, and generate reports. On the top of the page there are four buttons:</p>
+
+<ul>
+  <li>‘Edit Inputs’ which is used when we wish to return to the ‘Inputs’ page to modify the analysis options or upload new data;</li>
+  <li>‘Maps Pop O E SIR’ that creates plots of the population, observed, expected and SIR variables;</li>
+  <li>‘Estimate risk’ which is used for estimating the disease risk and their uncertainty;</li>
+  <li>‘Detect clusters’ used for the detection of disease clusters.</li>
+</ul>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/animation.gif" width="100%" /></p>
+
+<p>The ‘Analysis’ page also contains four tabs called ‘Interactive’, ‘Maps’, ‘Clusters’ and ‘Report’ that include tables and plots with the results.</p>
+
+<h4 id="maps">Maps</h4>
+
+<p>The ‘Maps’ tab shows a summary table, maps and temporal trend plots of the population, observed cases, expected cases, SIR, risk and lower and upper limits of 95% credible intervals that were obtained by clicking the ‘Map Pop O E SIR’ and the ‘Estimate risk’ buttons.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exmaps.png" width="100%" /></p>
+
+<h4 id="clusters">Clusters</h4>
+
+<p>The ‘Clusters tab’ shows, for each of the dates of the period of study, a map with the clusters detected and a plot with all clusters over time. This tab also includes a table with the information relative to each of the clusters such as the areas included and the significance.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exclusters.png" width="100%" /></p>
+
+<h4 id="report">Report</h4>
+
+<p>In the ‘Report tab’ we can download a PDF document showing the results of our analysis. The report includes maps and tables summarizing the variables population, observed, expected, SIR, risk, lower and upper limits of the 95% credible intervals and clusters for each of the periods of time.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exreport.png" width="100%" /></p>
+
+<h3 id="help">Help</h3>
+<p>The ‘Help’ button redirects to the ‘Help’ page which shows information about the use of the application, the statistiscal methodology and the developing tools employed.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>We think the <code class="language-plaintext highlighter-rouge">SpatialEpiApp</code> can be very useful for many researchers working in health surveillance.
+Moreover, the application can be easily extended and in future versions we will increase its flexibility enabling more options for disease mapping and the detection of clusters, as well as custom data visualizations.</p>
+
+<p>Please get in touch if you have any suggestions or doubts about input data, methods or interpretation!</p>
+
+<p>Contact: Paula Moraga
+<a href="https://Paula-Moraga.github.io">Web</a>,
+<a href="https://twitter.com/paumose">Twitter</a>.</p>
+
+      </article>
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+
+  <!--- Share on Twitter -->
+  
+    <a href="https://twitter.com/intent/tweet?text=http://reconhub.github.io/2018-01-04-SpatialEpiApp/"
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+    </a>
+  
+
+  <!--- Share on Facebook -->
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://reconhub.github.io/2018-01-04-SpatialEpiApp/"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+    </a>
+  
+
+  <!--- Share on Google Plus -->
+  
+
+  <!--- Share on LinkedIn -->
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://reconhub.github.io/2018-01-04-SpatialEpiApp/"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+    </a>
+  
+
+</section>
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2017-09-25-hackfest2-debrief/" data-toggle="tooltip" data-placement="top" title="<i>Hackfest 2</i>: mapping diseases ">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2018-10-16-sofia-workshop-debrief/" data-toggle="tooltip" data-placement="top" title="Introduction to R in Sofia, Bulgaria">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="disqus-comments">
+          
+<div class="comments">
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    var disqus_shortname = 'reconhub-github-io';
+	    // ensure that pages with query string get the same discussion
+            var url_parts = window.location.href.split("?");
+            var disqus_url = url_parts[0];	    
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+		    
+          <li>
+            <a href="mailto:thibautjombart@gmail.com" title="Email me">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+        
+          <li>
+            <a href="https://github.com/reconhub/reconhub.github.io" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        
+          
+
+		  
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  RECON - R Epidemics Consortium
+		  &nbsp;&bull;&nbsp;
+		  2022
+	    </p>
+		<p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/">Dean Attali</a>
+		</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-83713279-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- End Google Analytics -->
+
+
+  
+  </body>
+</html>
