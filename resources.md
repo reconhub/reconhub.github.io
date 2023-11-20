@@ -24,7 +24,7 @@ case studies. Click on the image below to access the website:
 
 RECON aims to champion good practices for R package development. Check out the following resources:
 
-- our [recommended practices](guidelines), if you are developping a package
+- our [recommended practices](guidelines), if you are developing a package
 - our [review guidelines](review), if you are contributing a code review
 
 
